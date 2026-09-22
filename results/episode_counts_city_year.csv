@@ -1,0 +1,78 @@
+city,year,weather_episodes
+Atlanta,2019,8
+Atlanta,2020,4
+Atlanta,2021,3
+Atlanta,2022,2
+Atlanta,2023,4
+Atlanta,2024,6
+Atlanta,2025,5
+Chicago,2019,1
+Chicago,2020,2
+Chicago,2021,4
+Chicago,2022,1
+Chicago,2023,2
+Chicago,2024,4
+Chicago,2025,4
+Dallas,2019,3
+Dallas,2020,0
+Dallas,2021,3
+Dallas,2022,3
+Dallas,2023,2
+Dallas,2024,3
+Dallas,2025,2
+Denver,2019,1
+Denver,2020,0
+Denver,2021,1
+Denver,2022,1
+Denver,2023,0
+Denver,2024,1
+Denver,2025,0
+Houston,2019,4
+Houston,2020,2
+Houston,2021,3
+Houston,2022,4
+Houston,2023,4
+Houston,2024,5
+Houston,2025,2
+Los Angeles,2019,3
+Los Angeles,2020,7
+Los Angeles,2021,2
+Los Angeles,2022,4
+Los Angeles,2023,4
+Los Angeles,2024,4
+Los Angeles,2025,4
+New York,2019,6
+New York,2020,3
+New York,2021,4
+New York,2022,2
+New York,2023,3
+New York,2024,3
+New York,2025,3
+Philadelphia,2019,3
+Philadelphia,2020,1
+Philadelphia,2021,4
+Philadelphia,2022,1
+Philadelphia,2023,3
+Philadelphia,2024,1
+Philadelphia,2025,4
+Phoenix,2019,0
+Phoenix,2020,1
+Phoenix,2021,4
+Phoenix,2022,0
+Phoenix,2023,1
+Phoenix,2024,2
+Phoenix,2025,1
+San Diego,2019,5
+San Diego,2020,7
+San Diego,2021,2
+San Diego,2022,4
+San Diego,2023,4
+San Diego,2024,4
+San Diego,2025,2
+Seattle,2019,3
+Seattle,2020,1
+Seattle,2021,3
+Seattle,2022,2
+Seattle,2023,5
+Seattle,2024,2
+Seattle,2025,3

@@ -1,0 +1,12 @@
+model,city,input_station_days,input_city_days,input_episode_station_days,input_episode_city_days,input_observed_events,comparator,persistent_only,n_station_days,n_city_days,n_stations,n_strata,n_episode_station_days,n_episode_city_days,n_episodes,n_compound_city_days,n_years_observed,n_year_blocks,rank_at_pinv_tolerance,parameters,condition_number,weighted_rmse,total_weight,station_days_episode,city_days_episode,station_days_neither,city_days_neither,station_days_heat_only,city_days_heat_only,station_days_wind_only,city_days_wind_only,station_days_other_compound,city_days_other_compound
+extension_2025,Atlanta,559,210,39,13,4,multicategory,False,558,210,3,146,39,13,4,17,1,1,15,15,428.46254129772746,2.381013779545067,210.0,39,13,348,134,57,20,102,39,12,4
+extension_2025,Chicago,765,214,46,14,4,multicategory,False,760,214,4,191,46,14,4,24,1,1,15,15,199.4431181009296,3.458147707308832,214.0,46,14,377,106,88,24,212,60,37,10
+extension_2025,Dallas,626,214,18,6,2,multicategory,False,626,214,3,147,18,6,2,12,1,1,15,15,270.9966402181383,2.4570059890535947,214.00000000000003,18,6,349,120,51,17,192,65,16,6
+extension_2025,Denver,1011,214,0,0,0,multicategory,False,1010,214,5,243,0,0,0,2,1,1,14,15,inf,2.744239016793903,214.00000000000003,0,0,545,115,181,39,276,58,8,2
+extension_2025,Houston,2046,214,40,4,2,multicategory,False,2037,214,10,476,40,4,2,13,1,1,15,15,767.466264538291,2.8753824873312173,214.00000000000006,40,4,1118,119,49,5,741,77,89,9
+extension_2025,Los Angeles,1488,214,61,9,4,multicategory,False,1488,214,7,343,61,9,4,14,1,1,15,15,900.1438245945639,2.6405541117055216,213.99999999999994,61,9,916,131,69,10,407,59,35,5
+extension_2025,New York,1584,214,55,7,3,multicategory,False,1574,214,8,374,55,7,3,18,1,1,15,15,458.8064821803909,3.413467709593569,213.99999999999997,55,7,972,133,149,20,317,43,81,11
+extension_2025,Philadelphia,1011,214,45,10,4,multicategory,False,1006,214,5,238,45,10,4,15,1,1,15,15,361.62259891636614,2.8420730406906696,214.00000000000006,45,10,608,129,109,23,219,47,25,5
+extension_2025,Phoenix,979,214,9,2,1,multicategory,False,971,214,5,237,9,2,1,5,1,1,15,15,674.5860798059122,2.594358378109566,214.00000000000003,9,2,438,95,174,42,336,72,14,3
+extension_2025,San Diego,868,214,24,6,2,multicategory,False,868,214,5,210,24,6,2,13,1,1,15,15,1589.5447927783418,1.5929539174227316,214.0,24,6,549,137,30,8,235,56,30,7
+extension_2025,Seattle,557,211,19,8,3,multicategory,False,549,211,3,139,19,8,3,18,1,1,15,15,1702.4716474526483,2.7859056626888443,211.0,19,8,338,126,56,24,113,43,23,10

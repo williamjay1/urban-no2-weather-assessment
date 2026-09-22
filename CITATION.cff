@@ -1,13 +1,11 @@
 cff-version: 1.2.0
-message: "Please cite this versioned research code and derived-data release."
-title: "Urban Nitrogen Dioxide During Compound Heat and Low Wind Conditions: Analysis and Data"
+message: "If you use this version 2.0.0 verified release artifact, please cite the software using these metadata."
+title: "Urban Nitrogen Dioxide During Compound Heat and Low Wind Conditions"
 type: software
-version: 1.0.0
-date-released: 2026-09-22
+version: 2.0.0
 authors:
   - family-names: Zhang
     given-names: Junjie
     orcid: "https://orcid.org/0009-0004-8821-4018"
-repository-code: "https://github.com/williamjay1/urban-no2-weather-assessment"
-url: "https://github.com/williamjay1/urban-no2-weather-assessment/releases/tag/v1.0.0"
 license: MIT
+abstract: "Version 2.0.0 verified release artifact: code, environmental inputs, statistical outputs, tables and figures for a retrospective assessment of monitored urban NO2 during compound heat and low wind. Offline weather reconstruction, the full model matrix and all figures and tables passed independent reproduction checks. Software: MIT; data conditions and upstream attribution: DATA_LICENSE.md."

@@ -1,0 +1,348 @@
+{
+  "weather": [
+    {
+      "city": "Los Angeles",
+      "epa_standard_offset_hours": -8,
+      "archived_api_offset_hours": -7.0,
+      "archived_timezone": "America/Los_Angeles",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=34.0522&longitude=-118.2437&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "752bceff1e9a5e950608a591bd66668a9909ff6dbd9db68cb1080b32496876ac",
+      "file": "los_angeles.json",
+      "bytes": 2753025,
+      "retrieved_utc": "2026-09-22T16:36:46.758093+00:00",
+      "returned_grid": {
+        "latitude": 34.0,
+        "longitude": -118.25,
+        "elevation": 91.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "San Diego",
+      "epa_standard_offset_hours": -8,
+      "archived_api_offset_hours": -7.0,
+      "archived_timezone": "America/Los_Angeles",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=32.7157&longitude=-117.1611&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "9a968f84789e44baa9f772c0e2ca3aa82710d5f3e261c9dd5ec4fbee474a3f01",
+      "file": "san_diego.json",
+      "bytes": 2764169,
+      "retrieved_utc": "2026-09-22T16:36:50.277648+00:00",
+      "returned_grid": {
+        "latitude": 32.75,
+        "longitude": -117.0,
+        "elevation": 20.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Phoenix",
+      "epa_standard_offset_hours": -7,
+      "archived_api_offset_hours": -7.0,
+      "archived_timezone": "America/Phoenix",
+      "offset_mismatch_hours": 0.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=33.4484&longitude=-112.074&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "7b44586170bd54baf319a58a720b991d0995c14368a245b81a480a75e230039f",
+      "file": "phoenix.json",
+      "bytes": 2745068,
+      "retrieved_utc": "2026-09-22T16:36:53.452463+00:00",
+      "returned_grid": {
+        "latitude": 33.5,
+        "longitude": -112.0,
+        "elevation": 333.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Houston",
+      "epa_standard_offset_hours": -6,
+      "archived_api_offset_hours": -5.0,
+      "archived_timezone": "America/Chicago",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=29.7604&longitude=-95.3698&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "10281b025856db4d5621a50dc4a1431fc68282598661add1a620ab3f12f7cb87",
+      "file": "houston.json",
+      "bytes": 2769745,
+      "retrieved_utc": "2026-09-22T16:36:58.383293+00:00",
+      "returned_grid": {
+        "latitude": 29.75,
+        "longitude": -95.25,
+        "elevation": 20.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Dallas",
+      "epa_standard_offset_hours": -6,
+      "archived_api_offset_hours": -5.0,
+      "archived_timezone": "America/Chicago",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=32.7767&longitude=-96.797&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "58f5cac4a2ad073b0e4ad00a34c652be6dbed334c4ec1bff00fd0000ddd37c89",
+      "file": "dallas.json",
+      "bytes": 2772947,
+      "retrieved_utc": "2026-09-22T16:37:02.507110+00:00",
+      "returned_grid": {
+        "latitude": 32.75,
+        "longitude": -96.75,
+        "elevation": 137.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Atlanta",
+      "epa_standard_offset_hours": -5,
+      "archived_api_offset_hours": -4.0,
+      "archived_timezone": "America/New_York",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=33.749&longitude=-84.388&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "8da3884778982ce5df28227e6ea0953fe5997b13cedb7697228c559df1a532ad",
+      "file": "atlanta.json",
+      "bytes": 2761270,
+      "retrieved_utc": "2026-09-22T16:37:11.669025+00:00",
+      "returned_grid": {
+        "latitude": 33.75,
+        "longitude": -84.5,
+        "elevation": 327.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "New York",
+      "epa_standard_offset_hours": -5,
+      "archived_api_offset_hours": -4.0,
+      "archived_timezone": "America/New_York",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=40.7128&longitude=-74.006&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "cfb0f3fdd330983b193c816b950d7c881e9822a627f27053002f3e4f84e78699",
+      "file": "new_york.json",
+      "bytes": 2756318,
+      "retrieved_utc": "2026-09-22T16:37:17.634560+00:00",
+      "returned_grid": {
+        "latitude": 40.75,
+        "longitude": -74.0,
+        "elevation": 32.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Chicago",
+      "epa_standard_offset_hours": -6,
+      "archived_api_offset_hours": -5.0,
+      "archived_timezone": "America/Chicago",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=41.8781&longitude=-87.6298&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "05baad6f71b5e7a83f06c1756943e37e4a08bd2961a3c49dbeefe2fbb1eb087f",
+      "file": "chicago.json",
+      "bytes": 2767470,
+      "retrieved_utc": "2026-09-22T16:37:21.949761+00:00",
+      "returned_grid": {
+        "latitude": 42.0,
+        "longitude": -87.75,
+        "elevation": 241.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Philadelphia",
+      "epa_standard_offset_hours": -5,
+      "archived_api_offset_hours": -4.0,
+      "archived_timezone": "America/New_York",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.9526&longitude=-75.1652&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "fdd2692b8f82cd768ae765ecaa7d411ba7aab177f2b36250ccb806542f3180a6",
+      "file": "philadelphia.json",
+      "bytes": 2757315,
+      "retrieved_utc": "2026-09-22T16:37:25.542868+00:00",
+      "returned_grid": {
+        "latitude": 40.0,
+        "longitude": -75.25,
+        "elevation": 32.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Seattle",
+      "epa_standard_offset_hours": -8,
+      "archived_api_offset_hours": -7.0,
+      "archived_timezone": "America/Los_Angeles",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=47.6062&longitude=-122.3321&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "70bc10ac83e739623f5abfd9476553aa5cb0501a0a99a44620e3e7dc51521bab",
+      "file": "seattle.json",
+      "bytes": 2732324,
+      "retrieved_utc": "2026-09-22T16:37:29.642242+00:00",
+      "returned_grid": {
+        "latitude": 47.5,
+        "longitude": -122.25,
+        "elevation": 59.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    },
+    {
+      "city": "Denver",
+      "epa_standard_offset_hours": -7,
+      "archived_api_offset_hours": -6.0,
+      "archived_timezone": "America/Denver",
+      "offset_mismatch_hours": 1.0,
+      "n_utc_hours": 61416,
+      "n_local_days": 2557,
+      "all_days_24_instant_and_24_accumulation_values": true,
+      "missing_hourly_values": 0,
+      "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.7392&longitude=-104.9903&start_date=2018-12-31&end_date=2026-01-01&hourly=temperature_2m%2Cwind_speed_10m%2Crelative_humidity_2m%2Cprecipitation%2Cshortwave_radiation%2Cwind_direction_10m&timezone=GMT&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+      "sha256": "dafce659206817332217b3664dd3ef5ea1c0865b961dddefc07286f001a33dbf",
+      "file": "denver.json",
+      "bytes": 2747421,
+      "retrieved_utc": "2026-09-22T16:37:36.150218+00:00",
+      "returned_grid": {
+        "latitude": 39.75,
+        "longitude": -105.0,
+        "elevation": 1599.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "precipitation": "mm",
+        "shortwave_radiation": "W/m\u00b2",
+        "wind_direction_10m": "\u00b0"
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "file": "aqs_sites_20260923.zip",
+      "url": "https://aqs.epa.gov/aqsweb/airdata/aqs_sites.zip",
+      "sha256": "56b322f6a3d5368d055bce53d0988275c0b27fbcced3d57a6ce8f2e2b539e15a",
+      "bytes": 1018314
+    },
+    {
+      "file": "aqs_monitors_20260923.zip",
+      "url": "https://aqs.epa.gov/aqsweb/airdata/aqs_monitors.zip",
+      "sha256": "e8325216d4ec5df462a23c201e6ffa1176b2fce363c9f6b0e3f18ce6ad958525",
+      "bytes": 6919360
+    }
+  ]
+}

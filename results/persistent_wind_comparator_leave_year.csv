@@ -1,0 +1,7 @@
+model,omitted_year,contrast,estimate_ppb,n_cities,n_estimable_cities,missing_cities
+persistent_wind_comparator,2019,episode_vs_persistent_wind_only,,11,9,Denver;Seattle
+persistent_wind_comparator,2020,episode_vs_persistent_wind_only,,11,9,Denver;Seattle
+persistent_wind_comparator,2021,episode_vs_persistent_wind_only,,11,8,Denver;Phoenix;Seattle
+persistent_wind_comparator,2022,episode_vs_persistent_wind_only,,11,9,Denver;Seattle
+persistent_wind_comparator,2023,episode_vs_persistent_wind_only,,11,8,Chicago;Denver;Seattle
+persistent_wind_comparator,2024,episode_vs_persistent_wind_only,,11,8,Chicago;Denver;Seattle

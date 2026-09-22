@@ -1,0 +1,264 @@
+period,classification,city,regime,city_days,station_days,sites,events
+2019_2024,regime,Atlanta,episode,99,289,3,27
+2019_2024,regime,Atlanta,heat_only,136,376,3,0
+2019_2024,regime,Atlanta,neither,780,2252,3,0
+2019_2024,regime,Atlanta,other_compound,34,99,3,0
+2019_2024,regime,Atlanta,wind_only,235,688,3,0
+2019_2024,regime,Chicago,episode,33,110,4,14
+2019_2024,regime,Chicago,heat_only,158,558,4,0
+2019_2024,regime,Chicago,neither,738,2730,4,0
+2019_2024,regime,Chicago,other_compound,65,237,4,0
+2019_2024,regime,Chicago,wind_only,290,1028,4,0
+2019_2024,regime,Dallas,episode,46,157,4,14
+2019_2024,regime,Dallas,heat_only,218,710,4,0
+2019_2024,regime,Dallas,neither,686,2503,4,0
+2019_2024,regime,Dallas,other_compound,39,135,4,0
+2019_2024,regime,Dallas,wind_only,295,1046,4,0
+2019_2024,regime,Denver,episode,8,37,5,4
+2019_2024,regime,Denver,heat_only,223,1037,5,0
+2019_2024,regime,Denver,neither,676,3186,5,0
+2019_2024,regime,Denver,other_compound,33,154,5,0
+2019_2024,regime,Denver,wind_only,344,1635,5,0
+2019_2024,regime,Houston,episode,76,650,10,22
+2019_2024,regime,Houston,heat_only,207,1715,10,0
+2019_2024,regime,Houston,neither,664,5776,10,0
+2019_2024,regime,Houston,other_compound,42,352,10,0
+2019_2024,regime,Houston,wind_only,295,2517,10,0
+2019_2024,regime,Los Angeles,episode,76,556,8,24
+2019_2024,regime,Los Angeles,heat_only,112,808,8,0
+2019_2024,regime,Los Angeles,neither,743,5375,8,0
+2019_2024,regime,Los Angeles,other_compound,51,361,8,0
+2019_2024,regime,Los Angeles,wind_only,302,2154,8,0
+2019_2024,regime,New York,episode,56,468,9,21
+2019_2024,regime,New York,heat_only,142,1206,9,0
+2019_2024,regime,New York,neither,751,6283,9,0
+2019_2024,regime,New York,other_compound,42,351,9,0
+2019_2024,regime,New York,wind_only,293,2441,9,0
+2019_2024,regime,Philadelphia,episode,33,146,5,13
+2019_2024,regime,Philadelphia,heat_only,164,743,6,0
+2019_2024,regime,Philadelphia,neither,730,3419,6,0
+2019_2024,regime,Philadelphia,other_compound,43,199,6,0
+2019_2024,regime,Philadelphia,wind_only,314,1475,6,0
+2019_2024,regime,Phoenix,episode,16,72,5,8
+2019_2024,regime,Phoenix,heat_only,241,1104,6,0
+2019_2024,regime,Phoenix,neither,666,3096,6,0
+2019_2024,regime,Phoenix,other_compound,33,153,6,0
+2019_2024,regime,Phoenix,wind_only,328,1566,6,0
+2019_2024,regime,San Diego,episode,72,291,5,26
+2019_2024,regime,San Diego,heat_only,140,559,5,0
+2019_2024,regime,San Diego,neither,735,2864,5,0
+2019_2024,regime,San Diego,other_compound,38,150,5,0
+2019_2024,regime,San Diego,wind_only,299,1193,5,0
+2019_2024,regime,Seattle,episode,40,79,2,16
+2019_2024,regime,Seattle,heat_only,179,331,2,0
+2019_2024,regime,Seattle,neither,735,1407,2,0
+2019_2024,regime,Seattle,other_compound,64,120,2,0
+2019_2024,regime,Seattle,wind_only,264,511,2,0
+2019_2024,regime_factorial,Atlanta,compound,133,388,3,27
+2019_2024,regime_factorial,Atlanta,heat_only,136,376,3,0
+2019_2024,regime_factorial,Atlanta,neither,780,2252,3,0
+2019_2024,regime_factorial,Atlanta,wind_only,235,688,3,0
+2019_2024,regime_factorial,Chicago,compound,98,347,4,14
+2019_2024,regime_factorial,Chicago,heat_only,158,558,4,0
+2019_2024,regime_factorial,Chicago,neither,738,2730,4,0
+2019_2024,regime_factorial,Chicago,wind_only,290,1028,4,0
+2019_2024,regime_factorial,Dallas,compound,85,292,4,14
+2019_2024,regime_factorial,Dallas,heat_only,218,710,4,0
+2019_2024,regime_factorial,Dallas,neither,686,2503,4,0
+2019_2024,regime_factorial,Dallas,wind_only,295,1046,4,0
+2019_2024,regime_factorial,Denver,compound,41,191,5,4
+2019_2024,regime_factorial,Denver,heat_only,223,1037,5,0
+2019_2024,regime_factorial,Denver,neither,676,3186,5,0
+2019_2024,regime_factorial,Denver,wind_only,344,1635,5,0
+2019_2024,regime_factorial,Houston,compound,118,1002,10,22
+2019_2024,regime_factorial,Houston,heat_only,207,1715,10,0
+2019_2024,regime_factorial,Houston,neither,664,5776,10,0
+2019_2024,regime_factorial,Houston,wind_only,295,2517,10,0
+2019_2024,regime_factorial,Los Angeles,compound,127,917,8,24
+2019_2024,regime_factorial,Los Angeles,heat_only,112,808,8,0
+2019_2024,regime_factorial,Los Angeles,neither,743,5375,8,0
+2019_2024,regime_factorial,Los Angeles,wind_only,302,2154,8,0
+2019_2024,regime_factorial,New York,compound,98,819,9,21
+2019_2024,regime_factorial,New York,heat_only,142,1206,9,0
+2019_2024,regime_factorial,New York,neither,751,6283,9,0
+2019_2024,regime_factorial,New York,wind_only,293,2441,9,0
+2019_2024,regime_factorial,Philadelphia,compound,76,345,6,13
+2019_2024,regime_factorial,Philadelphia,heat_only,164,743,6,0
+2019_2024,regime_factorial,Philadelphia,neither,730,3419,6,0
+2019_2024,regime_factorial,Philadelphia,wind_only,314,1475,6,0
+2019_2024,regime_factorial,Phoenix,compound,49,225,6,8
+2019_2024,regime_factorial,Phoenix,heat_only,241,1104,6,0
+2019_2024,regime_factorial,Phoenix,neither,666,3096,6,0
+2019_2024,regime_factorial,Phoenix,wind_only,328,1566,6,0
+2019_2024,regime_factorial,San Diego,compound,110,441,5,26
+2019_2024,regime_factorial,San Diego,heat_only,140,559,5,0
+2019_2024,regime_factorial,San Diego,neither,735,2864,5,0
+2019_2024,regime_factorial,San Diego,wind_only,299,1193,5,0
+2019_2024,regime_factorial,Seattle,compound,104,199,2,16
+2019_2024,regime_factorial,Seattle,heat_only,179,331,2,0
+2019_2024,regime_factorial,Seattle,neither,735,1407,2,0
+2019_2024,regime_factorial,Seattle,wind_only,264,511,2,0
+2019_2024,wind_duration_class,Atlanta,isolated_wind_only,90,263,3,0
+2019_2024,wind_duration_class,Atlanta,not_wind_only,1049,3016,3,27
+2019_2024,wind_duration_class,Atlanta,persistent_wind_only,145,425,3,0
+2019_2024,wind_duration_class,Chicago,isolated_wind_only,118,416,4,0
+2019_2024,wind_duration_class,Chicago,not_wind_only,994,3635,4,14
+2019_2024,wind_duration_class,Chicago,persistent_wind_only,172,612,4,0
+2019_2024,wind_duration_class,Dallas,isolated_wind_only,80,299,4,0
+2019_2024,wind_duration_class,Dallas,not_wind_only,989,3505,4,14
+2019_2024,wind_duration_class,Dallas,persistent_wind_only,215,747,4,0
+2019_2024,wind_duration_class,Denver,isolated_wind_only,119,552,5,0
+2019_2024,wind_duration_class,Denver,not_wind_only,940,4414,5,4
+2019_2024,wind_duration_class,Denver,persistent_wind_only,225,1083,5,0
+2019_2024,wind_duration_class,Houston,isolated_wind_only,66,566,10,0
+2019_2024,wind_duration_class,Houston,not_wind_only,989,8493,10,22
+2019_2024,wind_duration_class,Houston,persistent_wind_only,229,1951,10,0
+2019_2024,wind_duration_class,Los Angeles,isolated_wind_only,64,456,8,0
+2019_2024,wind_duration_class,Los Angeles,not_wind_only,982,7100,8,24
+2019_2024,wind_duration_class,Los Angeles,persistent_wind_only,238,1698,8,0
+2019_2024,wind_duration_class,New York,isolated_wind_only,121,1003,9,0
+2019_2024,wind_duration_class,New York,not_wind_only,991,8308,9,21
+2019_2024,wind_duration_class,New York,persistent_wind_only,172,1438,9,0
+2019_2024,wind_duration_class,Philadelphia,isolated_wind_only,109,511,6,0
+2019_2024,wind_duration_class,Philadelphia,not_wind_only,970,4507,6,13
+2019_2024,wind_duration_class,Philadelphia,persistent_wind_only,205,964,6,0
+2019_2024,wind_duration_class,Phoenix,isolated_wind_only,83,387,6,0
+2019_2024,wind_duration_class,Phoenix,not_wind_only,956,4425,6,8
+2019_2024,wind_duration_class,Phoenix,persistent_wind_only,245,1179,6,0
+2019_2024,wind_duration_class,San Diego,isolated_wind_only,80,318,5,0
+2019_2024,wind_duration_class,San Diego,not_wind_only,985,3864,5,26
+2019_2024,wind_duration_class,San Diego,persistent_wind_only,219,875,5,0
+2019_2024,wind_duration_class,Seattle,isolated_wind_only,106,206,2,0
+2019_2024,wind_duration_class,Seattle,not_wind_only,1018,1937,2,16
+2019_2024,wind_duration_class,Seattle,persistent_wind_only,158,305,2,0
+2025,regime,Atlanta,episode,13,39,3,4
+2025,regime,Atlanta,heat_only,20,57,3,0
+2025,regime,Atlanta,neither,134,349,3,0
+2025,regime,Atlanta,other_compound,4,12,3,0
+2025,regime,Atlanta,wind_only,39,102,3,0
+2025,regime,Chicago,episode,14,46,4,4
+2025,regime,Chicago,heat_only,24,88,4,0
+2025,regime,Chicago,neither,106,379,4,0
+2025,regime,Chicago,other_compound,10,37,4,0
+2025,regime,Chicago,wind_only,60,215,4,0
+2025,regime,Dallas,episode,6,18,3,2
+2025,regime,Dallas,heat_only,17,51,3,0
+2025,regime,Dallas,neither,120,349,3,0
+2025,regime,Dallas,other_compound,6,16,3,0
+2025,regime,Dallas,wind_only,65,192,3,0
+2025,regime,Denver,heat_only,39,181,5,0
+2025,regime,Denver,neither,115,545,5,0
+2025,regime,Denver,other_compound,2,8,4,0
+2025,regime,Denver,wind_only,58,277,5,0
+2025,regime,Houston,episode,4,40,10,2
+2025,regime,Houston,heat_only,5,49,10,0
+2025,regime,Houston,neither,119,1125,10,0
+2025,regime,Houston,other_compound,9,89,10,0
+2025,regime,Houston,wind_only,77,743,10,0
+2025,regime,Los Angeles,episode,9,61,7,4
+2025,regime,Los Angeles,heat_only,10,69,7,0
+2025,regime,Los Angeles,neither,131,916,7,0
+2025,regime,Los Angeles,other_compound,5,35,7,0
+2025,regime,Los Angeles,wind_only,59,407,7,0
+2025,regime,New York,episode,7,55,8,3
+2025,regime,New York,heat_only,20,149,8,0
+2025,regime,New York,neither,133,979,8,0
+2025,regime,New York,other_compound,11,81,8,0
+2025,regime,New York,wind_only,43,320,8,0
+2025,regime,Philadelphia,episode,10,45,5,4
+2025,regime,Philadelphia,heat_only,23,109,5,0
+2025,regime,Philadelphia,neither,129,610,5,0
+2025,regime,Philadelphia,other_compound,5,25,5,0
+2025,regime,Philadelphia,wind_only,47,222,5,0
+2025,regime,Phoenix,episode,2,9,5,1
+2025,regime,Phoenix,heat_only,42,176,5,0
+2025,regime,Phoenix,neither,95,442,5,0
+2025,regime,Phoenix,other_compound,3,14,5,0
+2025,regime,Phoenix,wind_only,72,338,5,0
+2025,regime,San Diego,episode,6,24,4,2
+2025,regime,San Diego,heat_only,8,30,5,0
+2025,regime,San Diego,neither,137,549,5,0
+2025,regime,San Diego,other_compound,7,30,5,0
+2025,regime,San Diego,wind_only,56,235,5,0
+2025,regime,Seattle,episode,8,19,3,3
+2025,regime,Seattle,heat_only,24,59,3,0
+2025,regime,Seattle,neither,126,342,3,0
+2025,regime,Seattle,other_compound,10,24,3,0
+2025,regime,Seattle,wind_only,43,113,3,0
+2025,regime_factorial,Atlanta,compound,17,51,3,4
+2025,regime_factorial,Atlanta,heat_only,20,57,3,0
+2025,regime_factorial,Atlanta,neither,134,349,3,0
+2025,regime_factorial,Atlanta,wind_only,39,102,3,0
+2025,regime_factorial,Chicago,compound,24,83,4,4
+2025,regime_factorial,Chicago,heat_only,24,88,4,0
+2025,regime_factorial,Chicago,neither,106,379,4,0
+2025,regime_factorial,Chicago,wind_only,60,215,4,0
+2025,regime_factorial,Dallas,compound,12,34,3,2
+2025,regime_factorial,Dallas,heat_only,17,51,3,0
+2025,regime_factorial,Dallas,neither,120,349,3,0
+2025,regime_factorial,Dallas,wind_only,65,192,3,0
+2025,regime_factorial,Denver,compound,2,8,4,0
+2025,regime_factorial,Denver,heat_only,39,181,5,0
+2025,regime_factorial,Denver,neither,115,545,5,0
+2025,regime_factorial,Denver,wind_only,58,277,5,0
+2025,regime_factorial,Houston,compound,13,129,10,2
+2025,regime_factorial,Houston,heat_only,5,49,10,0
+2025,regime_factorial,Houston,neither,119,1125,10,0
+2025,regime_factorial,Houston,wind_only,77,743,10,0
+2025,regime_factorial,Los Angeles,compound,14,96,7,4
+2025,regime_factorial,Los Angeles,heat_only,10,69,7,0
+2025,regime_factorial,Los Angeles,neither,131,916,7,0
+2025,regime_factorial,Los Angeles,wind_only,59,407,7,0
+2025,regime_factorial,New York,compound,18,136,8,3
+2025,regime_factorial,New York,heat_only,20,149,8,0
+2025,regime_factorial,New York,neither,133,979,8,0
+2025,regime_factorial,New York,wind_only,43,320,8,0
+2025,regime_factorial,Philadelphia,compound,15,70,5,4
+2025,regime_factorial,Philadelphia,heat_only,23,109,5,0
+2025,regime_factorial,Philadelphia,neither,129,610,5,0
+2025,regime_factorial,Philadelphia,wind_only,47,222,5,0
+2025,regime_factorial,Phoenix,compound,5,23,5,1
+2025,regime_factorial,Phoenix,heat_only,42,176,5,0
+2025,regime_factorial,Phoenix,neither,95,442,5,0
+2025,regime_factorial,Phoenix,wind_only,72,338,5,0
+2025,regime_factorial,San Diego,compound,13,54,5,2
+2025,regime_factorial,San Diego,heat_only,8,30,5,0
+2025,regime_factorial,San Diego,neither,137,549,5,0
+2025,regime_factorial,San Diego,wind_only,56,235,5,0
+2025,regime_factorial,Seattle,compound,18,43,3,3
+2025,regime_factorial,Seattle,heat_only,24,59,3,0
+2025,regime_factorial,Seattle,neither,126,342,3,0
+2025,regime_factorial,Seattle,wind_only,43,113,3,0
+2025,wind_duration_class,Atlanta,isolated_wind_only,17,46,3,0
+2025,wind_duration_class,Atlanta,not_wind_only,171,457,3,4
+2025,wind_duration_class,Atlanta,persistent_wind_only,22,56,3,0
+2025,wind_duration_class,Chicago,isolated_wind_only,20,68,4,0
+2025,wind_duration_class,Chicago,not_wind_only,154,550,4,4
+2025,wind_duration_class,Chicago,persistent_wind_only,40,147,4,0
+2025,wind_duration_class,Dallas,isolated_wind_only,16,45,3,0
+2025,wind_duration_class,Dallas,not_wind_only,149,434,3,2
+2025,wind_duration_class,Dallas,persistent_wind_only,49,147,3,0
+2025,wind_duration_class,Denver,isolated_wind_only,29,139,5,0
+2025,wind_duration_class,Denver,not_wind_only,156,734,5,0
+2025,wind_duration_class,Denver,persistent_wind_only,29,138,5,0
+2025,wind_duration_class,Houston,isolated_wind_only,11,107,10,0
+2025,wind_duration_class,Houston,not_wind_only,137,1303,10,2
+2025,wind_duration_class,Houston,persistent_wind_only,66,636,10,0
+2025,wind_duration_class,Los Angeles,isolated_wind_only,12,83,7,0
+2025,wind_duration_class,Los Angeles,not_wind_only,155,1081,7,4
+2025,wind_duration_class,Los Angeles,persistent_wind_only,47,324,7,0
+2025,wind_duration_class,New York,isolated_wind_only,13,94,8,0
+2025,wind_duration_class,New York,not_wind_only,171,1264,8,3
+2025,wind_duration_class,New York,persistent_wind_only,30,226,8,0
+2025,wind_duration_class,Philadelphia,isolated_wind_only,17,83,5,0
+2025,wind_duration_class,Philadelphia,not_wind_only,167,789,5,4
+2025,wind_duration_class,Philadelphia,persistent_wind_only,30,139,5,0
+2025,wind_duration_class,Phoenix,isolated_wind_only,14,64,5,0
+2025,wind_duration_class,Phoenix,not_wind_only,142,641,5,1
+2025,wind_duration_class,Phoenix,persistent_wind_only,58,274,5,0
+2025,wind_duration_class,San Diego,isolated_wind_only,11,42,5,0
+2025,wind_duration_class,San Diego,not_wind_only,158,633,5,2
+2025,wind_duration_class,San Diego,persistent_wind_only,45,193,5,0
+2025,wind_duration_class,Seattle,isolated_wind_only,18,50,3,0
+2025,wind_duration_class,Seattle,not_wind_only,168,444,3,3
+2025,wind_duration_class,Seattle,persistent_wind_only,25,63,3,0

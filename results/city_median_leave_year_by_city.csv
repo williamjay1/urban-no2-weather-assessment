@@ -1,0 +1,397 @@
+model,city,omitted_year,contrast,estimate_ppb,estimable
+city_median,Atlanta,2019,episode_vs_reference,2.0933374427619773,True
+city_median,Atlanta,2019,heat_only_vs_reference,-0.5640500262061143,True
+city_median,Atlanta,2019,wind_only_vs_reference,1.377002194978489,True
+city_median,Atlanta,2019,other_compound_vs_reference,1.0193656795350028,True
+city_median,Atlanta,2019,episode_vs_wind_only,0.7163352477834883,True
+city_median,Atlanta,2019,episode_vs_heat_only,2.657387468968092,True
+city_median,Chicago,2019,episode_vs_reference,4.476376515540333,True
+city_median,Chicago,2019,heat_only_vs_reference,-0.33400926953323085,True
+city_median,Chicago,2019,wind_only_vs_reference,4.133468587017971,True
+city_median,Chicago,2019,other_compound_vs_reference,4.24027059044019,True
+city_median,Chicago,2019,episode_vs_wind_only,0.3429079285223624,True
+city_median,Chicago,2019,episode_vs_heat_only,4.810385785073564,True
+city_median,Dallas,2019,episode_vs_reference,2.318363753167481,True
+city_median,Dallas,2019,heat_only_vs_reference,-1.0685623050002686,True
+city_median,Dallas,2019,wind_only_vs_reference,3.3172116815821027,True
+city_median,Dallas,2019,other_compound_vs_reference,1.5843372080885831,True
+city_median,Dallas,2019,episode_vs_wind_only,-0.9988479284146217,True
+city_median,Dallas,2019,episode_vs_heat_only,3.3869260581677496,True
+city_median,Denver,2019,episode_vs_reference,-0.04132217386351056,True
+city_median,Denver,2019,heat_only_vs_reference,0.6385338055845766,True
+city_median,Denver,2019,wind_only_vs_reference,1.054308372238582,True
+city_median,Denver,2019,other_compound_vs_reference,0.5458560470082028,True
+city_median,Denver,2019,episode_vs_wind_only,-1.0956305461020925,True
+city_median,Denver,2019,episode_vs_heat_only,-0.6798559794480872,True
+city_median,Houston,2019,episode_vs_reference,2.6204016614918046,True
+city_median,Houston,2019,heat_only_vs_reference,-1.3738901551220426,True
+city_median,Houston,2019,wind_only_vs_reference,3.8243487543959365,True
+city_median,Houston,2019,other_compound_vs_reference,0.9501243521070031,True
+city_median,Houston,2019,episode_vs_wind_only,-1.2039470929041318,True
+city_median,Houston,2019,episode_vs_heat_only,3.9942918166138472,True
+city_median,Los Angeles,2019,episode_vs_reference,3.0840605684296154,True
+city_median,Los Angeles,2019,heat_only_vs_reference,0.7448737766779217,True
+city_median,Los Angeles,2019,wind_only_vs_reference,2.6200849917766833,True
+city_median,Los Angeles,2019,other_compound_vs_reference,2.6966776507637182,True
+city_median,Los Angeles,2019,episode_vs_wind_only,0.4639755766529321,True
+city_median,Los Angeles,2019,episode_vs_heat_only,2.3391867917516938,True
+city_median,New York,2019,episode_vs_reference,5.088749349901121,True
+city_median,New York,2019,heat_only_vs_reference,1.2950892988848743,True
+city_median,New York,2019,wind_only_vs_reference,4.408729783438203,True
+city_median,New York,2019,other_compound_vs_reference,4.004265054535723,True
+city_median,New York,2019,episode_vs_wind_only,0.6800195664629181,True
+city_median,New York,2019,episode_vs_heat_only,3.7936600510162473,True
+city_median,Philadelphia,2019,episode_vs_reference,2.7480419419983857,True
+city_median,Philadelphia,2019,heat_only_vs_reference,0.7472251295789132,True
+city_median,Philadelphia,2019,wind_only_vs_reference,2.2336823671911192,True
+city_median,Philadelphia,2019,other_compound_vs_reference,1.9977480133817551,True
+city_median,Philadelphia,2019,episode_vs_wind_only,0.5143595748072665,True
+city_median,Philadelphia,2019,episode_vs_heat_only,2.0008168124194725,True
+city_median,Phoenix,2019,episode_vs_reference,3.471629360440081,True
+city_median,Phoenix,2019,heat_only_vs_reference,-0.2131615006100703,True
+city_median,Phoenix,2019,wind_only_vs_reference,3.0854427486809013,True
+city_median,Phoenix,2019,other_compound_vs_reference,1.4313538433729938,True
+city_median,Phoenix,2019,episode_vs_wind_only,0.3861866117591797,True
+city_median,Phoenix,2019,episode_vs_heat_only,3.684790861050151,True
+city_median,San Diego,2019,episode_vs_reference,1.847628728240825,True
+city_median,San Diego,2019,heat_only_vs_reference,0.4388343388838776,True
+city_median,San Diego,2019,wind_only_vs_reference,1.114742267119178,True
+city_median,San Diego,2019,other_compound_vs_reference,1.668790541009997,True
+city_median,San Diego,2019,episode_vs_wind_only,0.732886461121647,True
+city_median,San Diego,2019,episode_vs_heat_only,1.4087943893569475,True
+city_median,Seattle,2019,episode_vs_reference,7.153807386541317,True
+city_median,Seattle,2019,heat_only_vs_reference,4.354738494837674,True
+city_median,Seattle,2019,wind_only_vs_reference,3.838501003893678,True
+city_median,Seattle,2019,other_compound_vs_reference,7.820058670183376,True
+city_median,Seattle,2019,episode_vs_wind_only,3.3153063826476386,True
+city_median,Seattle,2019,episode_vs_heat_only,2.7990688917036426,True
+city_median,Atlanta,2020,episode_vs_reference,2.010535636779025,True
+city_median,Atlanta,2020,heat_only_vs_reference,-0.5097569558816629,True
+city_median,Atlanta,2020,wind_only_vs_reference,1.4860554921757538,True
+city_median,Atlanta,2020,other_compound_vs_reference,0.952513115471733,True
+city_median,Atlanta,2020,episode_vs_wind_only,0.5244801446032712,True
+city_median,Atlanta,2020,episode_vs_heat_only,2.520292592660688,True
+city_median,Chicago,2020,episode_vs_reference,4.539697007485853,True
+city_median,Chicago,2020,heat_only_vs_reference,0.25965135909617443,True
+city_median,Chicago,2020,wind_only_vs_reference,4.468693206503744,True
+city_median,Chicago,2020,other_compound_vs_reference,4.307500474378045,True
+city_median,Chicago,2020,episode_vs_wind_only,0.07100380098210923,True
+city_median,Chicago,2020,episode_vs_heat_only,4.280045648389679,True
+city_median,Dallas,2020,episode_vs_reference,2.4828262186085195,True
+city_median,Dallas,2020,heat_only_vs_reference,-1.2056325671996484,True
+city_median,Dallas,2020,wind_only_vs_reference,3.374223195997427,True
+city_median,Dallas,2020,other_compound_vs_reference,1.5252232064711833,True
+city_median,Dallas,2020,episode_vs_wind_only,-0.8913969773889074,True
+city_median,Dallas,2020,episode_vs_heat_only,3.6884587858081677,True
+city_median,Denver,2020,episode_vs_reference,1.2502951096741572,True
+city_median,Denver,2020,heat_only_vs_reference,0.2277251582798474,True
+city_median,Denver,2020,wind_only_vs_reference,1.143715906065213,True
+city_median,Denver,2020,other_compound_vs_reference,0.5120502156281235,True
+city_median,Denver,2020,episode_vs_wind_only,0.10657920360894435,True
+city_median,Denver,2020,episode_vs_heat_only,1.0225699513943098,True
+city_median,Houston,2020,episode_vs_reference,2.3870789046758034,True
+city_median,Houston,2020,heat_only_vs_reference,-0.9669419948504834,True
+city_median,Houston,2020,wind_only_vs_reference,3.7963344483521695,True
+city_median,Houston,2020,other_compound_vs_reference,1.2711793895265306,True
+city_median,Houston,2020,episode_vs_wind_only,-1.409255543676366,True
+city_median,Houston,2020,episode_vs_heat_only,3.3540208995262866,True
+city_median,Los Angeles,2020,episode_vs_reference,3.1103460479819818,True
+city_median,Los Angeles,2020,heat_only_vs_reference,1.278633855616003,True
+city_median,Los Angeles,2020,wind_only_vs_reference,2.7604294816232704,True
+city_median,Los Angeles,2020,other_compound_vs_reference,3.533035935118944,True
+city_median,Los Angeles,2020,episode_vs_wind_only,0.3499165663587114,True
+city_median,Los Angeles,2020,episode_vs_heat_only,1.8317121923659787,True
+city_median,New York,2020,episode_vs_reference,4.42703777289742,True
+city_median,New York,2020,heat_only_vs_reference,1.3718561248664116,True
+city_median,New York,2020,wind_only_vs_reference,4.457247746696459,True
+city_median,New York,2020,other_compound_vs_reference,4.127194650087059,True
+city_median,New York,2020,episode_vs_wind_only,-0.03020997379903889,True
+city_median,New York,2020,episode_vs_heat_only,3.0551816480310086,True
+city_median,Philadelphia,2020,episode_vs_reference,2.3221509167586882,True
+city_median,Philadelphia,2020,heat_only_vs_reference,0.6940898937214999,True
+city_median,Philadelphia,2020,wind_only_vs_reference,2.2202621610908753,True
+city_median,Philadelphia,2020,other_compound_vs_reference,1.8051729833166665,True
+city_median,Philadelphia,2020,episode_vs_wind_only,0.10188875566781297,True
+city_median,Philadelphia,2020,episode_vs_heat_only,1.6280610230371884,True
+city_median,Phoenix,2020,episode_vs_reference,3.1075276830347542,True
+city_median,Phoenix,2020,heat_only_vs_reference,0.0397278455686646,True
+city_median,Phoenix,2020,wind_only_vs_reference,3.118305261307552,True
+city_median,Phoenix,2020,other_compound_vs_reference,2.5791843618787826,True
+city_median,Phoenix,2020,episode_vs_wind_only,-0.010777578272797683,True
+city_median,Phoenix,2020,episode_vs_heat_only,3.0677998374660898,True
+city_median,San Diego,2020,episode_vs_reference,1.4807755839874375,True
+city_median,San Diego,2020,heat_only_vs_reference,0.43019260421433414,True
+city_median,San Diego,2020,wind_only_vs_reference,1.2187534838655334,True
+city_median,San Diego,2020,other_compound_vs_reference,1.938658935674825,True
+city_median,San Diego,2020,episode_vs_wind_only,0.2620221001219041,True
+city_median,San Diego,2020,episode_vs_heat_only,1.0505829797731034,True
+city_median,Seattle,2020,episode_vs_reference,7.238810241383467,True
+city_median,Seattle,2020,heat_only_vs_reference,4.127093654862467,True
+city_median,Seattle,2020,wind_only_vs_reference,3.963262640629813,True
+city_median,Seattle,2020,other_compound_vs_reference,8.131977574828502,True
+city_median,Seattle,2020,episode_vs_wind_only,3.275547600753654,True
+city_median,Seattle,2020,episode_vs_heat_only,3.111716586521,True
+city_median,Atlanta,2021,episode_vs_reference,2.0030004618244197,True
+city_median,Atlanta,2021,heat_only_vs_reference,-0.38939842851960416,True
+city_median,Atlanta,2021,wind_only_vs_reference,1.4727852250221445,True
+city_median,Atlanta,2021,other_compound_vs_reference,0.9917450658482828,True
+city_median,Atlanta,2021,episode_vs_wind_only,0.5302152368022752,True
+city_median,Atlanta,2021,episode_vs_heat_only,2.392398890344024,True
+city_median,Chicago,2021,episode_vs_reference,4.335310362522144,True
+city_median,Chicago,2021,heat_only_vs_reference,0.0006822233673680067,True
+city_median,Chicago,2021,wind_only_vs_reference,4.52025470690197,True
+city_median,Chicago,2021,other_compound_vs_reference,4.375900348225761,True
+city_median,Chicago,2021,episode_vs_wind_only,-0.18494434437982665,True
+city_median,Chicago,2021,episode_vs_heat_only,4.334628139154775,True
+city_median,Dallas,2021,episode_vs_reference,2.954028162074257,True
+city_median,Dallas,2021,heat_only_vs_reference,-0.7350200073200044,True
+city_median,Dallas,2021,wind_only_vs_reference,3.331316682466564,True
+city_median,Dallas,2021,other_compound_vs_reference,1.7748242140405657,True
+city_median,Dallas,2021,episode_vs_wind_only,-0.3772885203923071,True
+city_median,Dallas,2021,episode_vs_heat_only,3.689048169394261,True
+city_median,Denver,2021,episode_vs_reference,2.657493357717709,True
+city_median,Denver,2021,heat_only_vs_reference,0.5164041348478523,True
+city_median,Denver,2021,wind_only_vs_reference,1.286979183805597,True
+city_median,Denver,2021,other_compound_vs_reference,0.40187680824966976,True
+city_median,Denver,2021,episode_vs_wind_only,1.3705141739121118,True
+city_median,Denver,2021,episode_vs_heat_only,2.141089222869857,True
+city_median,Houston,2021,episode_vs_reference,2.555574586845582,True
+city_median,Houston,2021,heat_only_vs_reference,-1.0150742446901544,True
+city_median,Houston,2021,wind_only_vs_reference,3.8745414247363854,True
+city_median,Houston,2021,other_compound_vs_reference,0.9103148264402,True
+city_median,Houston,2021,episode_vs_wind_only,-1.3189668378908035,True
+city_median,Houston,2021,episode_vs_heat_only,3.5706488315357365,True
+city_median,Los Angeles,2021,episode_vs_reference,3.0101331492052115,True
+city_median,Los Angeles,2021,heat_only_vs_reference,1.0260726337939685,True
+city_median,Los Angeles,2021,wind_only_vs_reference,2.113712582010465,True
+city_median,Los Angeles,2021,other_compound_vs_reference,2.8982785040155017,True
+city_median,Los Angeles,2021,episode_vs_wind_only,0.8964205671947463,True
+city_median,Los Angeles,2021,episode_vs_heat_only,1.984060515411243,True
+city_median,New York,2021,episode_vs_reference,4.204315116021701,True
+city_median,New York,2021,heat_only_vs_reference,1.3998323419508738,True
+city_median,New York,2021,wind_only_vs_reference,4.477305374372942,True
+city_median,New York,2021,other_compound_vs_reference,4.411710978191625,True
+city_median,New York,2021,episode_vs_wind_only,-0.2729902583512409,True
+city_median,New York,2021,episode_vs_heat_only,2.804482774070827,True
+city_median,Philadelphia,2021,episode_vs_reference,1.5922574995044143,True
+city_median,Philadelphia,2021,heat_only_vs_reference,0.9920507910839992,True
+city_median,Philadelphia,2021,wind_only_vs_reference,2.169474319888526,True
+city_median,Philadelphia,2021,other_compound_vs_reference,1.8198486380014351,True
+city_median,Philadelphia,2021,episode_vs_wind_only,-0.5772168203841117,True
+city_median,Philadelphia,2021,episode_vs_heat_only,0.6002067084204151,True
+city_median,Phoenix,2021,episode_vs_reference,3.5234863954695177,True
+city_median,Phoenix,2021,heat_only_vs_reference,-0.09121687925477368,True
+city_median,Phoenix,2021,wind_only_vs_reference,3.310745037947818,True
+city_median,Phoenix,2021,other_compound_vs_reference,2.021698721195455,True
+city_median,Phoenix,2021,episode_vs_wind_only,0.21274135752169965,True
+city_median,Phoenix,2021,episode_vs_heat_only,3.6147032747242913,True
+city_median,San Diego,2021,episode_vs_reference,1.9328767798871878,True
+city_median,San Diego,2021,heat_only_vs_reference,0.4704863642942445,True
+city_median,San Diego,2021,wind_only_vs_reference,1.1886549716169816,True
+city_median,San Diego,2021,other_compound_vs_reference,1.8177455001991936,True
+city_median,San Diego,2021,episode_vs_wind_only,0.7442218082702061,True
+city_median,San Diego,2021,episode_vs_heat_only,1.4623904155929432,True
+city_median,Seattle,2021,episode_vs_reference,6.441038883834303,True
+city_median,Seattle,2021,heat_only_vs_reference,4.091938050860771,True
+city_median,Seattle,2021,wind_only_vs_reference,3.7089129683379354,True
+city_median,Seattle,2021,other_compound_vs_reference,7.332396431898295,True
+city_median,Seattle,2021,episode_vs_wind_only,2.732125915496368,True
+city_median,Seattle,2021,episode_vs_heat_only,2.349100832973533,True
+city_median,Atlanta,2022,episode_vs_reference,2.2914120213503915,True
+city_median,Atlanta,2022,heat_only_vs_reference,-0.21758895332159833,True
+city_median,Atlanta,2022,wind_only_vs_reference,1.4897428063144464,True
+city_median,Atlanta,2022,other_compound_vs_reference,1.5010361594785029,True
+city_median,Atlanta,2022,episode_vs_wind_only,0.801669215035945,True
+city_median,Atlanta,2022,episode_vs_heat_only,2.5090009746719897,True
+city_median,Chicago,2022,episode_vs_reference,4.298458182223367,True
+city_median,Chicago,2022,heat_only_vs_reference,0.33656142321485705,True
+city_median,Chicago,2022,wind_only_vs_reference,4.116775973717789,True
+city_median,Chicago,2022,other_compound_vs_reference,4.676147478864454,True
+city_median,Chicago,2022,episode_vs_wind_only,0.18168220850557848,True
+city_median,Chicago,2022,episode_vs_heat_only,3.96189675900851,True
+city_median,Dallas,2022,episode_vs_reference,2.449622518205737,True
+city_median,Dallas,2022,heat_only_vs_reference,-1.3046407760523455,True
+city_median,Dallas,2022,wind_only_vs_reference,3.1731111147916407,True
+city_median,Dallas,2022,other_compound_vs_reference,1.8102528984208195,True
+city_median,Dallas,2022,episode_vs_wind_only,-0.7234885965859035,True
+city_median,Dallas,2022,episode_vs_heat_only,3.7542632942580827,True
+city_median,Denver,2022,episode_vs_reference,1.5397281449091318,True
+city_median,Denver,2022,heat_only_vs_reference,0.4829473632242196,True
+city_median,Denver,2022,wind_only_vs_reference,0.9259219607675753,True
+city_median,Denver,2022,other_compound_vs_reference,0.857202584020849,True
+city_median,Denver,2022,episode_vs_wind_only,0.6138061841415565,True
+city_median,Denver,2022,episode_vs_heat_only,1.0567807816849122,True
+city_median,Houston,2022,episode_vs_reference,2.5700705088152787,True
+city_median,Houston,2022,heat_only_vs_reference,-1.0298141574163953,True
+city_median,Houston,2022,wind_only_vs_reference,3.821587250535989,True
+city_median,Houston,2022,other_compound_vs_reference,1.2170088002912882,True
+city_median,Houston,2022,episode_vs_wind_only,-1.2515167417207103,True
+city_median,Houston,2022,episode_vs_heat_only,3.5998846662316737,True
+city_median,Los Angeles,2022,episode_vs_reference,3.044121889917734,True
+city_median,Los Angeles,2022,heat_only_vs_reference,0.9503571243140685,True
+city_median,Los Angeles,2022,wind_only_vs_reference,2.4250121133909293,True
+city_median,Los Angeles,2022,other_compound_vs_reference,3.355339186739841,True
+city_median,Los Angeles,2022,episode_vs_wind_only,0.6191097765268045,True
+city_median,Los Angeles,2022,episode_vs_heat_only,2.093764765603665,True
+city_median,New York,2022,episode_vs_reference,5.07234117147742,True
+city_median,New York,2022,heat_only_vs_reference,1.267345537396043,True
+city_median,New York,2022,wind_only_vs_reference,4.222330287986761,True
+city_median,New York,2022,other_compound_vs_reference,4.5057944444191875,True
+city_median,New York,2022,episode_vs_wind_only,0.8500108834906586,True
+city_median,New York,2022,episode_vs_heat_only,3.8049956340813766,True
+city_median,Philadelphia,2022,episode_vs_reference,2.614433925542937,True
+city_median,Philadelphia,2022,heat_only_vs_reference,0.8795057189205564,True
+city_median,Philadelphia,2022,wind_only_vs_reference,2.1422068952316464,True
+city_median,Philadelphia,2022,other_compound_vs_reference,1.9331659324090171,True
+city_median,Philadelphia,2022,episode_vs_wind_only,0.47222703031129054,True
+city_median,Philadelphia,2022,episode_vs_heat_only,1.7349282066223806,True
+city_median,Phoenix,2022,episode_vs_reference,3.628728002759594,True
+city_median,Phoenix,2022,heat_only_vs_reference,0.2547800659171513,True
+city_median,Phoenix,2022,wind_only_vs_reference,3.2587474989629728,True
+city_median,Phoenix,2022,other_compound_vs_reference,2.13823382187209,True
+city_median,Phoenix,2022,episode_vs_wind_only,0.3699805037966213,True
+city_median,Phoenix,2022,episode_vs_heat_only,3.373947936842443,True
+city_median,San Diego,2022,episode_vs_reference,1.7716847920205123,True
+city_median,San Diego,2022,heat_only_vs_reference,0.5888014757662402,True
+city_median,San Diego,2022,wind_only_vs_reference,1.016621703076808,True
+city_median,San Diego,2022,other_compound_vs_reference,1.6917255825360598,True
+city_median,San Diego,2022,episode_vs_wind_only,0.7550630889437042,True
+city_median,San Diego,2022,episode_vs_heat_only,1.182883316254272,True
+city_median,Seattle,2022,episode_vs_reference,5.232558842467168,True
+city_median,Seattle,2022,heat_only_vs_reference,3.3857669375729134,True
+city_median,Seattle,2022,wind_only_vs_reference,3.818960397285905,True
+city_median,Seattle,2022,other_compound_vs_reference,7.04631241608471,True
+city_median,Seattle,2022,episode_vs_wind_only,1.4135984451812629,True
+city_median,Seattle,2022,episode_vs_heat_only,1.8467919048942547,True
+city_median,Atlanta,2023,episode_vs_reference,2.464623142660026,True
+city_median,Atlanta,2023,heat_only_vs_reference,-0.1615051280185914,True
+city_median,Atlanta,2023,wind_only_vs_reference,1.8891643174605348,True
+city_median,Atlanta,2023,other_compound_vs_reference,1.8018670576264775,True
+city_median,Atlanta,2023,episode_vs_wind_only,0.5754588251994912,True
+city_median,Atlanta,2023,episode_vs_heat_only,2.6261282706786173,True
+city_median,Chicago,2023,episode_vs_reference,4.215889774207725,True
+city_median,Chicago,2023,heat_only_vs_reference,0.21897889492521383,True
+city_median,Chicago,2023,wind_only_vs_reference,4.404063037608426,True
+city_median,Chicago,2023,other_compound_vs_reference,4.2003564967279186,True
+city_median,Chicago,2023,episode_vs_wind_only,-0.18817326340070117,True
+city_median,Chicago,2023,episode_vs_heat_only,3.9969108792825114,True
+city_median,Dallas,2023,episode_vs_reference,2.9621430272223606,True
+city_median,Dallas,2023,heat_only_vs_reference,-0.5613198988288657,True
+city_median,Dallas,2023,wind_only_vs_reference,3.3680516486250385,True
+city_median,Dallas,2023,other_compound_vs_reference,2.0839583527273926,True
+city_median,Dallas,2023,episode_vs_wind_only,-0.4059086214026779,True
+city_median,Dallas,2023,episode_vs_heat_only,3.5234629260512262,True
+city_median,Denver,2023,episode_vs_reference,1.4213668089039333,True
+city_median,Denver,2023,heat_only_vs_reference,0.6299557721356046,True
+city_median,Denver,2023,wind_only_vs_reference,1.1145934045721493,True
+city_median,Denver,2023,other_compound_vs_reference,0.42980066208413836,True
+city_median,Denver,2023,episode_vs_wind_only,0.306773404331784,True
+city_median,Denver,2023,episode_vs_heat_only,0.7914110367683287,True
+city_median,Houston,2023,episode_vs_reference,2.2900255412601895,True
+city_median,Houston,2023,heat_only_vs_reference,-0.5457069955204682,True
+city_median,Houston,2023,wind_only_vs_reference,3.6130941973063537,True
+city_median,Houston,2023,other_compound_vs_reference,1.5676073569303768,True
+city_median,Houston,2023,episode_vs_wind_only,-1.3230686560461642,True
+city_median,Houston,2023,episode_vs_heat_only,2.835732536780658,True
+city_median,Los Angeles,2023,episode_vs_reference,2.9685141549433043,True
+city_median,Los Angeles,2023,heat_only_vs_reference,1.217844925522424,True
+city_median,Los Angeles,2023,wind_only_vs_reference,2.603298846588881,True
+city_median,Los Angeles,2023,other_compound_vs_reference,3.308477056802403,True
+city_median,Los Angeles,2023,episode_vs_wind_only,0.3652153083544234,True
+city_median,Los Angeles,2023,episode_vs_heat_only,1.7506692294208803,True
+city_median,New York,2023,episode_vs_reference,4.889611701777717,True
+city_median,New York,2023,heat_only_vs_reference,1.45990131921507,True
+city_median,New York,2023,wind_only_vs_reference,4.479048121559876,True
+city_median,New York,2023,other_compound_vs_reference,4.056317426704823,True
+city_median,New York,2023,episode_vs_wind_only,0.41056358021784156,True
+city_median,New York,2023,episode_vs_heat_only,3.4297103825626474,True
+city_median,Philadelphia,2023,episode_vs_reference,2.503452702141658,True
+city_median,Philadelphia,2023,heat_only_vs_reference,0.824997792748741,True
+city_median,Philadelphia,2023,wind_only_vs_reference,2.18537156023685,True
+city_median,Philadelphia,2023,other_compound_vs_reference,1.7150150510206985,True
+city_median,Philadelphia,2023,episode_vs_wind_only,0.31808114190480774,True
+city_median,Philadelphia,2023,episode_vs_heat_only,1.6784549093929169,True
+city_median,Phoenix,2023,episode_vs_reference,3.541428645431573,True
+city_median,Phoenix,2023,heat_only_vs_reference,0.06233363557480803,True
+city_median,Phoenix,2023,wind_only_vs_reference,3.1893180980116895,True
+city_median,Phoenix,2023,other_compound_vs_reference,2.365951424731586,True
+city_median,Phoenix,2023,episode_vs_wind_only,0.35211054741988335,True
+city_median,Phoenix,2023,episode_vs_heat_only,3.479095009856765,True
+city_median,San Diego,2023,episode_vs_reference,1.9248509162663816,True
+city_median,San Diego,2023,heat_only_vs_reference,0.5314891403172067,True
+city_median,San Diego,2023,wind_only_vs_reference,1.1767983794109702,True
+city_median,San Diego,2023,other_compound_vs_reference,2.105302535003393,True
+city_median,San Diego,2023,episode_vs_wind_only,0.7480525368554114,True
+city_median,San Diego,2023,episode_vs_heat_only,1.3933617759491748,True
+city_median,Seattle,2023,episode_vs_reference,7.738418630691635,True
+city_median,Seattle,2023,heat_only_vs_reference,3.333300516452454,True
+city_median,Seattle,2023,wind_only_vs_reference,3.7878972032861684,True
+city_median,Seattle,2023,other_compound_vs_reference,8.495248612512265,True
+city_median,Seattle,2023,episode_vs_wind_only,3.9505214274054667,True
+city_median,Seattle,2023,episode_vs_heat_only,4.4051181142391815,True
+city_median,Atlanta,2024,episode_vs_reference,2.0752595766968565,True
+city_median,Atlanta,2024,heat_only_vs_reference,-0.032505704654825496,True
+city_median,Atlanta,2024,wind_only_vs_reference,1.5208478046773475,True
+city_median,Atlanta,2024,other_compound_vs_reference,0.9648633392510082,True
+city_median,Atlanta,2024,episode_vs_wind_only,0.554411772019509,True
+city_median,Atlanta,2024,episode_vs_heat_only,2.107765281351682,True
+city_median,Chicago,2024,episode_vs_reference,4.256157407098874,True
+city_median,Chicago,2024,heat_only_vs_reference,0.4223665188517858,True
+city_median,Chicago,2024,wind_only_vs_reference,4.463411147522079,True
+city_median,Chicago,2024,other_compound_vs_reference,4.653818392810685,True
+city_median,Chicago,2024,episode_vs_wind_only,-0.2072537404232051,True
+city_median,Chicago,2024,episode_vs_heat_only,3.833790888247088,True
+city_median,Dallas,2024,episode_vs_reference,2.823723713990362,True
+city_median,Dallas,2024,heat_only_vs_reference,-0.7555350590257409,True
+city_median,Dallas,2024,wind_only_vs_reference,3.4975993517338524,True
+city_median,Dallas,2024,other_compound_vs_reference,1.9508493628797052,True
+city_median,Dallas,2024,episode_vs_wind_only,-0.6738756377434902,True
+city_median,Dallas,2024,episode_vs_heat_only,3.579258773016103,True
+city_median,Denver,2024,episode_vs_reference,1.5045814531756396,True
+city_median,Denver,2024,heat_only_vs_reference,0.176622738631718,True
+city_median,Denver,2024,wind_only_vs_reference,1.2038076085800289,True
+city_median,Denver,2024,other_compound_vs_reference,0.32879392788449713,True
+city_median,Denver,2024,episode_vs_wind_only,0.30077384459561074,True
+city_median,Denver,2024,episode_vs_heat_only,1.3279587145439216,True
+city_median,Houston,2024,episode_vs_reference,2.3893615385669325,True
+city_median,Houston,2024,heat_only_vs_reference,-0.8908273828082058,True
+city_median,Houston,2024,wind_only_vs_reference,3.530487415841935,True
+city_median,Houston,2024,other_compound_vs_reference,1.3753870649216946,True
+city_median,Houston,2024,episode_vs_wind_only,-1.1411258772750026,True
+city_median,Houston,2024,episode_vs_heat_only,3.2801889213751383,True
+city_median,Los Angeles,2024,episode_vs_reference,3.0434464260892806,True
+city_median,Los Angeles,2024,heat_only_vs_reference,1.1652879198062316,True
+city_median,Los Angeles,2024,wind_only_vs_reference,2.354494207256731,True
+city_median,Los Angeles,2024,other_compound_vs_reference,3.2223818667828468,True
+city_median,Los Angeles,2024,episode_vs_wind_only,0.6889522188325494,True
+city_median,Los Angeles,2024,episode_vs_heat_only,1.878158506283049,True
+city_median,New York,2024,episode_vs_reference,4.4011708129198315,True
+city_median,New York,2024,heat_only_vs_reference,1.3216259524731333,True
+city_median,New York,2024,wind_only_vs_reference,4.302806085529026,True
+city_median,New York,2024,other_compound_vs_reference,4.200399372114671,True
+city_median,New York,2024,episode_vs_wind_only,0.09836472739080548,True
+city_median,New York,2024,episode_vs_heat_only,3.079544860446698,True
+city_median,Philadelphia,2024,episode_vs_reference,2.33299228215499,True
+city_median,Philadelphia,2024,heat_only_vs_reference,0.6595615317413381,True
+city_median,Philadelphia,2024,wind_only_vs_reference,2.0259676539108837,True
+city_median,Philadelphia,2024,other_compound_vs_reference,1.5226517972317413,True
+city_median,Philadelphia,2024,episode_vs_wind_only,0.30702462824410626,True
+city_median,Philadelphia,2024,episode_vs_heat_only,1.6734307504136519,True
+city_median,Phoenix,2024,episode_vs_reference,4.5719061442885005,True
+city_median,Phoenix,2024,heat_only_vs_reference,0.17076051897411898,True
+city_median,Phoenix,2024,wind_only_vs_reference,3.303258114069175,True
+city_median,Phoenix,2024,other_compound_vs_reference,2.339827383809958,True
+city_median,Phoenix,2024,episode_vs_wind_only,1.2686480302193255,True
+city_median,Phoenix,2024,episode_vs_heat_only,4.401145625314381,True
+city_median,San Diego,2024,episode_vs_reference,2.2501908101915253,True
+city_median,San Diego,2024,heat_only_vs_reference,0.8597623580037916,True
+city_median,San Diego,2024,wind_only_vs_reference,1.0792399663615724,True
+city_median,San Diego,2024,other_compound_vs_reference,2.3204591032884907,True
+city_median,San Diego,2024,episode_vs_wind_only,1.170950843829953,True
+city_median,San Diego,2024,episode_vs_heat_only,1.3904284521877337,True
+city_median,Seattle,2024,episode_vs_reference,6.618742792343533,True
+city_median,Seattle,2024,heat_only_vs_reference,3.6896359524335605,True
+city_median,Seattle,2024,wind_only_vs_reference,3.975947273632714,True
+city_median,Seattle,2024,other_compound_vs_reference,7.397822080643776,True
+city_median,Seattle,2024,episode_vs_wind_only,2.642795518710819,True
+city_median,Seattle,2024,episode_vs_heat_only,2.9291068399099727,True

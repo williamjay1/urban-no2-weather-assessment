@@ -1,0 +1,147 @@
+{
+  "scripts": {
+    "wasp_article_tables.py": {
+      "original_sha256": "f75faf3ffb908eb04fd3a481310ff22645973b55ea46e0406f26a034c1c2d656",
+      "portable_sha256": "46acea54dfdf11b42ef61002d32b66f0f1d2bb53156e587d9fea3d07cbe70e0a",
+      "all_function_asts_identical_after_documented_path_changes": true,
+      "path_replacements": [
+        [
+          "a=ROOT/'analysis'",
+          "a=ANALYSIS"
+        ],
+        [
+          "Path('D:/MLWork/urban_no2_recovery_scs/release/urban-no2-weather-assessment-v1.0.0/provenance/city_metadata.json').read_text()",
+          "CITY_METADATA.read_text()"
+        ]
+      ]
+    },
+    "wasp_station_map.py": {
+      "original_sha256": "cc4a31638b88837d233d690770e53de63cf808ae29ff94d664ae61deaa4bc387",
+      "portable_sha256": "b70c0235639627f3a3f7a15ea4ee9aee8061827854a416de7989f1d3835eca6f",
+      "all_function_asts_identical_after_documented_path_changes": true,
+      "path_replacements": []
+    },
+    "wasp_result_figures.py": {
+      "original_sha256": "6f9c594c5c8f7ac54682a95a5ff8d83b664a3d9e5cd2a3c799eaa41d94b93bda",
+      "portable_sha256": "07a54f850aa9d3511ba2b3ecd5ed64980c2b729b06aa282a0dd5312a6e83fbf4",
+      "all_function_asts_identical_after_documented_path_changes": true,
+      "path_replacements": []
+    }
+  },
+  "artifacts": {
+    "tables/T1.md": {
+      "sha256": "810c6887dfa5bebaffdc5f4a9f3b742ba7f66261fc6e9774cce2ac4e77f6cde6",
+      "bytes": 706
+    },
+    "tables/T2.md": {
+      "sha256": "9b9767be3f66985e367b5cd7a70a2f352a866db84c7b20aa465ea31faa8f626c",
+      "bytes": 668
+    },
+    "tables/T3.md": {
+      "sha256": "0bf4265c7a248f6110a30ab199daecc9e84235a99e7945b172e72f3978decb0a",
+      "bytes": 370
+    },
+    "tables/T4.md": {
+      "sha256": "a85cc41c7c26dfe1b401c7586cc12830799c02ccc0f7863301c1a64fad9cec00",
+      "bytes": 502
+    },
+    "tables/A1.md": {
+      "sha256": "1d632d458cc85ecf9ddc60e547ce99798fcbf03e72dedf819ea01e6df1ecf301",
+      "bytes": 471
+    },
+    "tables/A2.md": {
+      "sha256": "c407d429922597df892d7665b0b692dccab54e77c2e7333a617a40148454abdc",
+      "bytes": 1472
+    },
+    "tables/A3.md": {
+      "sha256": "1bf93306655cdbe0dcdf9740eacb951ac2245127da57211cba98e8549c0df8f0",
+      "bytes": 586
+    },
+    "tables/B1.md": {
+      "sha256": "8d87a8f356049406e767a75d314523b9d72ded2c31173a0906ec1cdb0a9f2224",
+      "bytes": 609
+    },
+    "tables/B2.md": {
+      "sha256": "39f445489e0c5e1f8555aa86fe574357a3cc3ac8f9ad925ec47144630be7d7b9",
+      "bytes": 323
+    },
+    "tables/B3.md": {
+      "sha256": "6891240df3ce3068204244e57ebf558e23a656b7556dfd9996d5176d26a2eb8d",
+      "bytes": 850
+    },
+    "tables/result_ledger.json": {
+      "sha256": "7228ca5aa3a39dd6fbad66608a758d164017fa683f00e2acd7872b8fc9b8ac23",
+      "bytes": 57283
+    },
+    "figures/fig1_station_locations.png": {
+      "sha256": "f50fd1efcbddda54cdd5dc69e63c68768d0df408a863ef6804081278a4e09f9c",
+      "bytes": 1502793
+    },
+    "figures/fig1_station_locations.pdf": {
+      "sha256": "d23ae96ad7149c0ca4f0fd09626b15d7aaf4a8eb30bd07cb210fda7991324216",
+      "bytes": 35014
+    },
+    "figures/fig1_station_locations.svg": {
+      "sha256": "a4eba17edfeffe27eefdfd1043828d64762bf843c63182c621305d6f1e14c040",
+      "bytes": 105221
+    },
+    "figures/fig1_station_locations.eps": {
+      "sha256": "c05680df4bec3cc1a3195fc19a5768c0dd780e440875593e67cc685170d2b2c4",
+      "bytes": 159252
+    },
+    "figures/fig1_station_locations_preview.png": {
+      "sha256": "3177aa5d30efecebaf895bc3b31f833c6780e36af3d2bbd9077150de73905e4b",
+      "bytes": 246870
+    },
+    "figures/fig1_station_locations_metadata.md": {
+      "sha256": "5b3b7a60922be5ffcc8a66bc7ee04d7c57272476d261dc750895f5746cfe8c2f",
+      "bytes": 26957
+    },
+    "figures/fig2_city_contrasts.png": {
+      "sha256": "850904cffece0a21a6523164f0dda5429f3b26d98481370c1bdc0dc02c5ac07c",
+      "bytes": 578951
+    },
+    "figures/fig2_city_contrasts.pdf": {
+      "sha256": "be413a4d7efb1b2fbe65332aad91238bfa7847179ad94bf90bb97bcafb93dd0f",
+      "bytes": 28844
+    },
+    "figures/fig2_city_contrasts.svg": {
+      "sha256": "2d8a7af2c361c2c137d0e94564c58052407d1303d3bef4f22530e01ab19ed6c6",
+      "bytes": 41976
+    },
+    "figures/fig2_city_contrasts.eps": {
+      "sha256": "ff88e3b89cdf64831121d8a1a498fb76ff34c3b8493b04cb6dd1f9a0e6e7b38d",
+      "bytes": 100404
+    },
+    "figures/fig2_city_contrasts_preview.png": {
+      "sha256": "17354c16bf2ee5880d2460595625cb8860e582add70d87719b8f206648f44af9",
+      "bytes": 87389
+    },
+    "figures/fig3_sensitivity.png": {
+      "sha256": "1a7f07d71483482faa0cfd2cb3a5b73dd3e5d0960f2861d0d12d777b989e0c35",
+      "bytes": 969470
+    },
+    "figures/fig3_sensitivity.pdf": {
+      "sha256": "aee86a682cd2c4edaed3612c27e8b387b94cfa8ac4004bf9a6f8332c4261030e",
+      "bytes": 31355
+    },
+    "figures/fig3_sensitivity.svg": {
+      "sha256": "c8c267ae88119c5f79e643da3b5fe247f17881e22cbcc52687d6b6ade351414b",
+      "bytes": 55461
+    },
+    "figures/fig3_sensitivity.eps": {
+      "sha256": "ec2d0143746b581cf3081d45c62a71ebab4688a963e51463581b2d03f6bce315",
+      "bytes": 119441
+    },
+    "figures/fig3_sensitivity_preview.png": {
+      "sha256": "71b33c2c37d4503e4ff43346c7bfbd5ceb0612d69f9703056706a5917addfe79",
+      "bytes": 152965
+    }
+  },
+  "figures": 3,
+  "markdown_tables": 10,
+  "unpublished_manuscript": "EXCLUDED_BY_USER_INSTRUCTION",
+  "published": false,
+  "portable_changes": "Package-relative defaults, explicit CLI input/output, no-overwrite output checks, local Matplotlib cache and network-denial helper only.",
+  "independent_presentation_reproduction": "PENDING_AT_STAGING"
+}

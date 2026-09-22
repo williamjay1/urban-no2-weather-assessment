@@ -1,0 +1,12 @@
+definition,city,heat_c,wind_kmh,threshold_days,heat_quantile,wind_quantile,min_days,start_separation
+p80_p20_min2_sep7,Atlanta,31.5,6.054166666666667,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Chicago,26.9,9.3125,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Dallas,35.1,8.25,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Denver,32.2,6.695833333333333,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Houston,33.5,7.333333333333333,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Los Angeles,32.4,5.954166666666667,856,0.8,0.2,2,7
+p80_p20_min2_sep7,New York,28.8,7.345833333333334,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Philadelphia,30.9,7.104166666666667,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Phoenix,41.9,6.1625000000000005,856,0.8,0.2,2,7
+p80_p20_min2_sep7,San Diego,29.7,6.333333333333333,856,0.8,0.2,2,7
+p80_p20_min2_sep7,Seattle,24.0,5.25,856,0.8,0.2,2,7

@@ -1,0 +1,397 @@
+model,city,omitted_year,contrast,estimate_ppb,estimable
+four_weather_regimes,Atlanta,2019,compound_vs_reference,1.9204035830525976,True
+four_weather_regimes,Atlanta,2019,heat_only_vs_reference,-0.08598719805995914,True
+four_weather_regimes,Atlanta,2019,wind_only_vs_reference,1.7446471266558812,True
+four_weather_regimes,Atlanta,2019,compound_vs_wind_only,0.17575645639671644,True
+four_weather_regimes,Atlanta,2019,compound_vs_heat_only,2.0063907811125565,True
+four_weather_regimes,Atlanta,2019,compound_additive_interaction,0.2617436544566756,True
+four_weather_regimes,Chicago,2019,compound_vs_reference,4.518459368989926,True
+four_weather_regimes,Chicago,2019,heat_only_vs_reference,0.08304028597349378,True
+four_weather_regimes,Chicago,2019,wind_only_vs_reference,4.218824443376146,True
+four_weather_regimes,Chicago,2019,compound_vs_wind_only,0.2996349256137796,True
+four_weather_regimes,Chicago,2019,compound_vs_heat_only,4.435419083016432,True
+four_weather_regimes,Chicago,2019,compound_additive_interaction,0.2165946396402858,True
+four_weather_regimes,Dallas,2019,compound_vs_reference,1.7783578080048479,True
+four_weather_regimes,Dallas,2019,heat_only_vs_reference,-1.1581962351400603,True
+four_weather_regimes,Dallas,2019,wind_only_vs_reference,3.0857116619286886,True
+four_weather_regimes,Dallas,2019,compound_vs_wind_only,-1.3073538539238407,True
+four_weather_regimes,Dallas,2019,compound_vs_heat_only,2.936554043144908,True
+four_weather_regimes,Dallas,2019,compound_additive_interaction,-0.14915761878378042,True
+four_weather_regimes,Denver,2019,compound_vs_reference,0.9938262932688344,True
+four_weather_regimes,Denver,2019,heat_only_vs_reference,0.6224605367090394,True
+four_weather_regimes,Denver,2019,wind_only_vs_reference,1.3400631670925847,True
+four_weather_regimes,Denver,2019,compound_vs_wind_only,-0.34623687382375024,True
+four_weather_regimes,Denver,2019,compound_vs_heat_only,0.371365756559795,True
+four_weather_regimes,Denver,2019,compound_additive_interaction,-0.9686974105327897,True
+four_weather_regimes,Houston,2019,compound_vs_reference,1.6663261812320893,True
+four_weather_regimes,Houston,2019,heat_only_vs_reference,-1.7298462001571253,True
+four_weather_regimes,Houston,2019,wind_only_vs_reference,3.7208492769145884,True
+four_weather_regimes,Houston,2019,compound_vs_wind_only,-2.054523095682499,True
+four_weather_regimes,Houston,2019,compound_vs_heat_only,3.3961723813892144,True
+four_weather_regimes,Houston,2019,compound_additive_interaction,-0.3246768955253736,True
+four_weather_regimes,Los Angeles,2019,compound_vs_reference,2.999998841562229,True
+four_weather_regimes,Los Angeles,2019,heat_only_vs_reference,0.6787495609756757,True
+four_weather_regimes,Los Angeles,2019,wind_only_vs_reference,2.573334306949035,True
+four_weather_regimes,Los Angeles,2019,compound_vs_wind_only,0.42666453461319387,True
+four_weather_regimes,Los Angeles,2019,compound_vs_heat_only,2.321249280586553,True
+four_weather_regimes,Los Angeles,2019,compound_additive_interaction,-0.25208502636248187,True
+four_weather_regimes,New York,2019,compound_vs_reference,4.270446647909589,True
+four_weather_regimes,New York,2019,heat_only_vs_reference,1.1237655074010346,True
+four_weather_regimes,New York,2019,wind_only_vs_reference,4.326340853964796,True
+four_weather_regimes,New York,2019,compound_vs_wind_only,-0.05589420605520701,True
+four_weather_regimes,New York,2019,compound_vs_heat_only,3.146681140508554,True
+four_weather_regimes,New York,2019,compound_additive_interaction,-1.1796597134562417,True
+four_weather_regimes,Philadelphia,2019,compound_vs_reference,2.1158403811027844,True
+four_weather_regimes,Philadelphia,2019,heat_only_vs_reference,0.7976097772485585,True
+four_weather_regimes,Philadelphia,2019,wind_only_vs_reference,2.043390605260592,True
+four_weather_regimes,Philadelphia,2019,compound_vs_wind_only,0.07244977584219248,True
+four_weather_regimes,Philadelphia,2019,compound_vs_heat_only,1.318230603854226,True
+four_weather_regimes,Philadelphia,2019,compound_additive_interaction,-0.725160001406366,True
+four_weather_regimes,Phoenix,2019,compound_vs_reference,1.9758294208806577,True
+four_weather_regimes,Phoenix,2019,heat_only_vs_reference,-0.40941136192668576,True
+four_weather_regimes,Phoenix,2019,wind_only_vs_reference,3.0450711815500813,True
+four_weather_regimes,Phoenix,2019,compound_vs_wind_only,-1.0692417606694236,True
+four_weather_regimes,Phoenix,2019,compound_vs_heat_only,2.3852407828073434,True
+four_weather_regimes,Phoenix,2019,compound_additive_interaction,-0.6598303987427379,True
+four_weather_regimes,San Diego,2019,compound_vs_reference,2.0558796296693833,True
+four_weather_regimes,San Diego,2019,heat_only_vs_reference,0.6140404931336999,True
+four_weather_regimes,San Diego,2019,wind_only_vs_reference,1.1769495312358265,True
+four_weather_regimes,San Diego,2019,compound_vs_wind_only,0.8789300984335569,True
+four_weather_regimes,San Diego,2019,compound_vs_heat_only,1.4418391365356835,True
+four_weather_regimes,San Diego,2019,compound_additive_interaction,0.26488960529985695,True
+four_weather_regimes,Seattle,2019,compound_vs_reference,7.548073233991921,True
+four_weather_regimes,Seattle,2019,heat_only_vs_reference,4.352583599723171,True
+four_weather_regimes,Seattle,2019,wind_only_vs_reference,3.7111135072534713,True
+four_weather_regimes,Seattle,2019,compound_vs_wind_only,3.83695972673845,True
+four_weather_regimes,Seattle,2019,compound_vs_heat_only,3.1954896342687507,True
+four_weather_regimes,Seattle,2019,compound_additive_interaction,-0.5156238729847207,True
+four_weather_regimes,Atlanta,2020,compound_vs_reference,2.032978039317773,True
+four_weather_regimes,Atlanta,2020,heat_only_vs_reference,-0.10724934146984322,True
+four_weather_regimes,Atlanta,2020,wind_only_vs_reference,1.8224934946694074,True
+four_weather_regimes,Atlanta,2020,compound_vs_wind_only,0.21048454464836563,True
+four_weather_regimes,Atlanta,2020,compound_vs_heat_only,2.140227380787616,True
+four_weather_regimes,Atlanta,2020,compound_additive_interaction,0.31773388611820885,True
+four_weather_regimes,Chicago,2020,compound_vs_reference,4.7477931012712355,True
+four_weather_regimes,Chicago,2020,heat_only_vs_reference,0.6410105091688414,True
+four_weather_regimes,Chicago,2020,wind_only_vs_reference,4.5002308904324995,True
+four_weather_regimes,Chicago,2020,compound_vs_wind_only,0.24756221083873609,True
+four_weather_regimes,Chicago,2020,compound_vs_heat_only,4.106782592102395,True
+four_weather_regimes,Chicago,2020,compound_additive_interaction,-0.3934482983301053,True
+four_weather_regimes,Dallas,2020,compound_vs_reference,1.8149147350032488,True
+four_weather_regimes,Dallas,2020,heat_only_vs_reference,-1.359017806810025,True
+four_weather_regimes,Dallas,2020,wind_only_vs_reference,3.1144983194549996,True
+four_weather_regimes,Dallas,2020,compound_vs_wind_only,-1.2995835844517507,True
+four_weather_regimes,Dallas,2020,compound_vs_heat_only,3.173932541813274,True
+four_weather_regimes,Dallas,2020,compound_additive_interaction,0.059434222358274225,True
+four_weather_regimes,Denver,2020,compound_vs_reference,0.9982181580781984,True
+four_weather_regimes,Denver,2020,heat_only_vs_reference,0.19243631252118143,True
+four_weather_regimes,Denver,2020,wind_only_vs_reference,1.3588429323495141,True
+four_weather_regimes,Denver,2020,compound_vs_wind_only,-0.3606247742713158,True
+four_weather_regimes,Denver,2020,compound_vs_heat_only,0.8057818455570169,True
+four_weather_regimes,Denver,2020,compound_additive_interaction,-0.5530610867924972,True
+four_weather_regimes,Houston,2020,compound_vs_reference,1.5525086549573608,True
+four_weather_regimes,Houston,2020,heat_only_vs_reference,-1.326925959647561,True
+four_weather_regimes,Houston,2020,wind_only_vs_reference,3.6713345534706967,True
+four_weather_regimes,Houston,2020,compound_vs_wind_only,-2.118825898513336,True
+four_weather_regimes,Houston,2020,compound_vs_heat_only,2.879434614604922,True
+four_weather_regimes,Houston,2020,compound_additive_interaction,-0.7918999388657748,True
+four_weather_regimes,Los Angeles,2020,compound_vs_reference,3.303955074661473,True
+four_weather_regimes,Los Angeles,2020,heat_only_vs_reference,1.1053541508828277,True
+four_weather_regimes,Los Angeles,2020,wind_only_vs_reference,2.636907279582587,True
+four_weather_regimes,Los Angeles,2020,compound_vs_wind_only,0.667047795078886,True
+four_weather_regimes,Los Angeles,2020,compound_vs_heat_only,2.1986009237786455,True
+four_weather_regimes,Los Angeles,2020,compound_additive_interaction,-0.4383063558039417,True
+four_weather_regimes,New York,2020,compound_vs_reference,4.1296556972933205,True
+four_weather_regimes,New York,2020,heat_only_vs_reference,1.1836731667071378,True
+four_weather_regimes,New York,2020,wind_only_vs_reference,4.408781167781053,True
+four_weather_regimes,New York,2020,compound_vs_wind_only,-0.27912547048773284,True
+four_weather_regimes,New York,2020,compound_vs_heat_only,2.945982530586183,True
+four_weather_regimes,New York,2020,compound_additive_interaction,-1.4627986371948707,True
+four_weather_regimes,Philadelphia,2020,compound_vs_reference,1.9467719655971825,True
+four_weather_regimes,Philadelphia,2020,heat_only_vs_reference,0.7132585831214889,True
+four_weather_regimes,Philadelphia,2020,wind_only_vs_reference,2.018954745698955,True
+four_weather_regimes,Philadelphia,2020,compound_vs_wind_only,-0.07218278010177248,True
+four_weather_regimes,Philadelphia,2020,compound_vs_heat_only,1.2335133824756936,True
+four_weather_regimes,Philadelphia,2020,compound_additive_interaction,-0.7854413632232614,True
+four_weather_regimes,Phoenix,2020,compound_vs_reference,2.5552795128176977,True
+four_weather_regimes,Phoenix,2020,heat_only_vs_reference,-0.04103779928978091,True
+four_weather_regimes,Phoenix,2020,wind_only_vs_reference,3.1081173095951553,True
+four_weather_regimes,Phoenix,2020,compound_vs_wind_only,-0.5528377967774576,True
+four_weather_regimes,Phoenix,2020,compound_vs_heat_only,2.5963173121074785,True
+four_weather_regimes,Phoenix,2020,compound_additive_interaction,-0.5117999974876767,True
+four_weather_regimes,San Diego,2020,compound_vs_reference,1.9457114615774,True
+four_weather_regimes,San Diego,2020,heat_only_vs_reference,0.6212224287431642,True
+four_weather_regimes,San Diego,2020,wind_only_vs_reference,1.2372089409691536,True
+four_weather_regimes,San Diego,2020,compound_vs_wind_only,0.7085025206082465,True
+four_weather_regimes,San Diego,2020,compound_vs_heat_only,1.3244890328342358,True
+four_weather_regimes,San Diego,2020,compound_additive_interaction,0.08728009186508223,True
+four_weather_regimes,Seattle,2020,compound_vs_reference,7.716144733447563,True
+four_weather_regimes,Seattle,2020,heat_only_vs_reference,4.090013636257021,True
+four_weather_regimes,Seattle,2020,wind_only_vs_reference,3.8063008123462416,True
+four_weather_regimes,Seattle,2020,compound_vs_wind_only,3.9098439211013214,True
+four_weather_regimes,Seattle,2020,compound_vs_heat_only,3.626131097190542,True
+four_weather_regimes,Seattle,2020,compound_additive_interaction,-0.1801697151556998,True
+four_weather_regimes,Atlanta,2021,compound_vs_reference,1.9620462893975503,True
+four_weather_regimes,Atlanta,2021,heat_only_vs_reference,-0.08012865891329535,True
+four_weather_regimes,Atlanta,2021,wind_only_vs_reference,1.739558367654668,True
+four_weather_regimes,Atlanta,2021,compound_vs_wind_only,0.22248792174288234,True
+four_weather_regimes,Atlanta,2021,compound_vs_heat_only,2.0421749483108456,True
+four_weather_regimes,Atlanta,2021,compound_additive_interaction,0.3026165806561777,True
+four_weather_regimes,Chicago,2021,compound_vs_reference,4.746016825371219,True
+four_weather_regimes,Chicago,2021,heat_only_vs_reference,0.3548238020255843,True
+four_weather_regimes,Chicago,2021,wind_only_vs_reference,4.552749967101081,True
+four_weather_regimes,Chicago,2021,compound_vs_wind_only,0.193266858270138,True
+four_weather_regimes,Chicago,2021,compound_vs_heat_only,4.391193023345635,True
+four_weather_regimes,Chicago,2021,compound_additive_interaction,-0.16155694375544627,True
+four_weather_regimes,Dallas,2021,compound_vs_reference,2.005439344486427,True
+four_weather_regimes,Dallas,2021,heat_only_vs_reference,-0.8382597042408604,True
+four_weather_regimes,Dallas,2021,wind_only_vs_reference,3.056952736738176,True
+four_weather_regimes,Dallas,2021,compound_vs_wind_only,-1.0515133922517492,True
+four_weather_regimes,Dallas,2021,compound_vs_heat_only,2.843699048727287,True
+four_weather_regimes,Dallas,2021,compound_additive_interaction,-0.21325368801088884,True
+four_weather_regimes,Denver,2021,compound_vs_reference,1.116710846813557,True
+four_weather_regimes,Denver,2021,heat_only_vs_reference,0.41941876376470233,True
+four_weather_regimes,Denver,2021,wind_only_vs_reference,1.416890213246242,True
+four_weather_regimes,Denver,2021,compound_vs_wind_only,-0.30017936643268506,True
+four_weather_regimes,Denver,2021,compound_vs_heat_only,0.6972920830488546,True
+four_weather_regimes,Denver,2021,compound_additive_interaction,-0.7195981301973874,True
+four_weather_regimes,Houston,2021,compound_vs_reference,1.5170296189461356,True
+four_weather_regimes,Houston,2021,heat_only_vs_reference,-1.3976248896635517,True
+four_weather_regimes,Houston,2021,wind_only_vs_reference,3.704166073184036,True
+four_weather_regimes,Houston,2021,compound_vs_wind_only,-2.1871364542379004,True
+four_weather_regimes,Houston,2021,compound_vs_heat_only,2.9146545086096873,True
+four_weather_regimes,Houston,2021,compound_additive_interaction,-0.7895115645743487,True
+four_weather_regimes,Los Angeles,2021,compound_vs_reference,2.886018776427754,True
+four_weather_regimes,Los Angeles,2021,heat_only_vs_reference,0.805769542774764,True
+four_weather_regimes,Los Angeles,2021,wind_only_vs_reference,2.0464743454641328,True
+four_weather_regimes,Los Angeles,2021,compound_vs_wind_only,0.8395444309636213,True
+four_weather_regimes,Los Angeles,2021,compound_vs_heat_only,2.08024923365299,True
+four_weather_regimes,Los Angeles,2021,compound_additive_interaction,0.03377488818885732,True
+four_weather_regimes,New York,2021,compound_vs_reference,4.098989137334953,True
+four_weather_regimes,New York,2021,heat_only_vs_reference,1.2662195508252745,True
+four_weather_regimes,New York,2021,wind_only_vs_reference,4.409790002240947,True
+four_weather_regimes,New York,2021,compound_vs_wind_only,-0.31080086490599435,True
+four_weather_regimes,New York,2021,compound_vs_heat_only,2.832769586509678,True
+four_weather_regimes,New York,2021,compound_additive_interaction,-1.5770204157312688,True
+four_weather_regimes,Philadelphia,2021,compound_vs_reference,1.7465920689461458,True
+four_weather_regimes,Philadelphia,2021,heat_only_vs_reference,1.0097278976642166,True
+four_weather_regimes,Philadelphia,2021,wind_only_vs_reference,1.9857993255961846,True
+four_weather_regimes,Philadelphia,2021,compound_vs_wind_only,-0.23920725665003872,True
+four_weather_regimes,Philadelphia,2021,compound_vs_heat_only,0.7368641712819293,True
+four_weather_regimes,Philadelphia,2021,compound_additive_interaction,-1.2489351543142553,True
+four_weather_regimes,Phoenix,2021,compound_vs_reference,2.320983148718931,True
+four_weather_regimes,Phoenix,2021,heat_only_vs_reference,-0.15125788196523532,True
+four_weather_regimes,Phoenix,2021,wind_only_vs_reference,3.242162098752795,True
+four_weather_regimes,Phoenix,2021,compound_vs_wind_only,-0.9211789500338639,True
+four_weather_regimes,Phoenix,2021,compound_vs_heat_only,2.4722410306841662,True
+four_weather_regimes,Phoenix,2021,compound_additive_interaction,-0.7699210680686286,True
+four_weather_regimes,San Diego,2021,compound_vs_reference,2.1503339440326172,True
+four_weather_regimes,San Diego,2021,heat_only_vs_reference,0.6074025666860794,True
+four_weather_regimes,San Diego,2021,wind_only_vs_reference,1.2088841759946773,True
+four_weather_regimes,San Diego,2021,compound_vs_wind_only,0.9414497680379399,True
+four_weather_regimes,San Diego,2021,compound_vs_heat_only,1.5429313773465378,True
+four_weather_regimes,San Diego,2021,compound_additive_interaction,0.3340472013518605,True
+four_weather_regimes,Seattle,2021,compound_vs_reference,6.950278655510434,True
+four_weather_regimes,Seattle,2021,heat_only_vs_reference,3.9586164984000503,True
+four_weather_regimes,Seattle,2021,wind_only_vs_reference,3.578986470003926,True
+four_weather_regimes,Seattle,2021,compound_vs_wind_only,3.3712921855065083,True
+four_weather_regimes,Seattle,2021,compound_vs_heat_only,2.991662157110384,True
+four_weather_regimes,Seattle,2021,compound_additive_interaction,-0.5873243128935419,True
+four_weather_regimes,Atlanta,2022,compound_vs_reference,2.3969703758200556,True
+four_weather_regimes,Atlanta,2022,heat_only_vs_reference,0.198700941551671,True
+four_weather_regimes,Atlanta,2022,wind_only_vs_reference,1.8842613746581656,True
+four_weather_regimes,Atlanta,2022,compound_vs_wind_only,0.51270900116189,True
+four_weather_regimes,Atlanta,2022,compound_vs_heat_only,2.1982694342683846,True
+four_weather_regimes,Atlanta,2022,compound_additive_interaction,0.314008059610219,True
+four_weather_regimes,Chicago,2022,compound_vs_reference,4.580121654627458,True
+four_weather_regimes,Chicago,2022,heat_only_vs_reference,0.665643491193689,True
+four_weather_regimes,Chicago,2022,wind_only_vs_reference,4.072216791590983,True
+four_weather_regimes,Chicago,2022,compound_vs_wind_only,0.5079048630364751,True
+four_weather_regimes,Chicago,2022,compound_vs_heat_only,3.914478163433769,True
+four_weather_regimes,Chicago,2022,compound_additive_interaction,-0.15773862815721396,True
+four_weather_regimes,Dallas,2022,compound_vs_reference,1.7858073480286527,True
+four_weather_regimes,Dallas,2022,heat_only_vs_reference,-1.3836257168390687,True
+four_weather_regimes,Dallas,2022,wind_only_vs_reference,2.9293267417358937,True
+four_weather_regimes,Dallas,2022,compound_vs_wind_only,-1.143519393707241,True
+four_weather_regimes,Dallas,2022,compound_vs_heat_only,3.1694330648677216,True
+four_weather_regimes,Dallas,2022,compound_additive_interaction,0.24010632313182767,True
+four_weather_regimes,Denver,2022,compound_vs_reference,1.523547160591235,True
+four_weather_regimes,Denver,2022,heat_only_vs_reference,0.602907819081348,True
+four_weather_regimes,Denver,2022,wind_only_vs_reference,1.1165901553975264,True
+four_weather_regimes,Denver,2022,compound_vs_wind_only,0.4069570051937086,True
+four_weather_regimes,Denver,2022,compound_vs_heat_only,0.9206393415098869,True
+four_weather_regimes,Denver,2022,compound_additive_interaction,-0.19595081388763946,True
+four_weather_regimes,Houston,2022,compound_vs_reference,1.71330665243475,True
+four_weather_regimes,Houston,2022,heat_only_vs_reference,-1.347815215454386,True
+four_weather_regimes,Houston,2022,wind_only_vs_reference,3.7535518816731934,True
+four_weather_regimes,Houston,2022,compound_vs_wind_only,-2.0402452292384434,True
+four_weather_regimes,Houston,2022,compound_vs_heat_only,3.061121867889136,True
+four_weather_regimes,Houston,2022,compound_additive_interaction,-0.6924300137840573,True
+four_weather_regimes,Los Angeles,2022,compound_vs_reference,3.071947442012224,True
+four_weather_regimes,Los Angeles,2022,heat_only_vs_reference,0.7219213154754791,True
+four_weather_regimes,Los Angeles,2022,wind_only_vs_reference,2.254548903965367,True
+four_weather_regimes,Los Angeles,2022,compound_vs_wind_only,0.8173985380468571,True
+four_weather_regimes,Los Angeles,2022,compound_vs_heat_only,2.350026126536745,True
+four_weather_regimes,Los Angeles,2022,compound_additive_interaction,0.09547722257137803,True
+four_weather_regimes,New York,2022,compound_vs_reference,4.662145049379405,True
+four_weather_regimes,New York,2022,heat_only_vs_reference,1.0998799949476008,True
+four_weather_regimes,New York,2022,wind_only_vs_reference,4.209714483426196,True
+four_weather_regimes,New York,2022,compound_vs_wind_only,0.4524305659532093,True
+four_weather_regimes,New York,2022,compound_vs_heat_only,3.5622650544318044,True
+four_weather_regimes,New York,2022,compound_additive_interaction,-0.6474494289943915,True
+four_weather_regimes,Philadelphia,2022,compound_vs_reference,2.179678067682802,True
+four_weather_regimes,Philadelphia,2022,heat_only_vs_reference,1.0292192564096934,True
+four_weather_regimes,Philadelphia,2022,wind_only_vs_reference,1.9482569167143238,True
+four_weather_regimes,Philadelphia,2022,compound_vs_wind_only,0.23142115096847826,True
+four_weather_regimes,Philadelphia,2022,compound_vs_heat_only,1.1504588112731087,True
+four_weather_regimes,Philadelphia,2022,compound_additive_interaction,-0.7977981054412151,True
+four_weather_regimes,Phoenix,2022,compound_vs_reference,2.4780833199161805,True
+four_weather_regimes,Phoenix,2022,heat_only_vs_reference,0.170550300779579,True
+four_weather_regimes,Phoenix,2022,wind_only_vs_reference,3.2298391143405327,True
+four_weather_regimes,Phoenix,2022,compound_vs_wind_only,-0.7517557944243523,True
+four_weather_regimes,Phoenix,2022,compound_vs_heat_only,2.3075330191366015,True
+four_weather_regimes,Phoenix,2022,compound_additive_interaction,-0.9223060952039313,True
+four_weather_regimes,San Diego,2022,compound_vs_reference,2.1194084011500958,True
+four_weather_regimes,San Diego,2022,heat_only_vs_reference,0.7184250584144384,True
+four_weather_regimes,San Diego,2022,wind_only_vs_reference,1.0287990375247031,True
+four_weather_regimes,San Diego,2022,compound_vs_wind_only,1.0906093636253926,True
+four_weather_regimes,San Diego,2022,compound_vs_heat_only,1.4009833427356573,True
+four_weather_regimes,San Diego,2022,compound_additive_interaction,0.37218430521095425,True
+four_weather_regimes,Seattle,2022,compound_vs_reference,6.344710601759572,True
+four_weather_regimes,Seattle,2022,heat_only_vs_reference,3.403627274924635,True
+four_weather_regimes,Seattle,2022,wind_only_vs_reference,3.684476226915142,True
+four_weather_regimes,Seattle,2022,compound_vs_wind_only,2.66023437484443,True
+four_weather_regimes,Seattle,2022,compound_vs_heat_only,2.9410833268349372,True
+four_weather_regimes,Seattle,2022,compound_additive_interaction,-0.7433929000802046,True
+four_weather_regimes,Atlanta,2023,compound_vs_reference,2.45446445018488,True
+four_weather_regimes,Atlanta,2023,heat_only_vs_reference,0.11476884141385169,True
+four_weather_regimes,Atlanta,2023,wind_only_vs_reference,2.050633840319935,True
+four_weather_regimes,Atlanta,2023,compound_vs_wind_only,0.4038306098649449,True
+four_weather_regimes,Atlanta,2023,compound_vs_heat_only,2.339695608771028,True
+four_weather_regimes,Atlanta,2023,compound_additive_interaction,0.2890617684510932,True
+four_weather_regimes,Chicago,2023,compound_vs_reference,4.416772985036956,True
+four_weather_regimes,Chicago,2023,heat_only_vs_reference,0.6268656459969137,True
+four_weather_regimes,Chicago,2023,wind_only_vs_reference,4.51733017475799,True
+four_weather_regimes,Chicago,2023,compound_vs_wind_only,-0.10055718972103378,True
+four_weather_regimes,Chicago,2023,compound_vs_heat_only,3.789907339040042,True
+four_weather_regimes,Chicago,2023,compound_additive_interaction,-0.7274228357179475,True
+four_weather_regimes,Dallas,2023,compound_vs_reference,2.4043240703879754,True
+four_weather_regimes,Dallas,2023,heat_only_vs_reference,-0.754399421863301,True
+four_weather_regimes,Dallas,2023,wind_only_vs_reference,3.010559789106477,True
+four_weather_regimes,Dallas,2023,compound_vs_wind_only,-0.6062357187185015,True
+four_weather_regimes,Dallas,2023,compound_vs_heat_only,3.1587234922512764,True
+four_weather_regimes,Dallas,2023,compound_additive_interaction,0.14816370314479954,True
+four_weather_regimes,Denver,2023,compound_vs_reference,0.9689927200315565,True
+four_weather_regimes,Denver,2023,heat_only_vs_reference,0.6872501797253721,True
+four_weather_regimes,Denver,2023,wind_only_vs_reference,1.1672742543072663,True
+four_weather_regimes,Denver,2023,compound_vs_wind_only,-0.19828153427570983,True
+four_weather_regimes,Denver,2023,compound_vs_heat_only,0.2817425403061844,True
+four_weather_regimes,Denver,2023,compound_additive_interaction,-0.8855317140010819,True
+four_weather_regimes,Houston,2023,compound_vs_reference,1.7579111039546074,True
+four_weather_regimes,Houston,2023,heat_only_vs_reference,-0.8071875204609898,True
+four_weather_regimes,Houston,2023,wind_only_vs_reference,3.5215651851223377,True
+four_weather_regimes,Houston,2023,compound_vs_wind_only,-1.7636540811677304,True
+four_weather_regimes,Houston,2023,compound_vs_heat_only,2.5650986244155973,True
+four_weather_regimes,Houston,2023,compound_additive_interaction,-0.9564665607067405,True
+four_weather_regimes,Los Angeles,2023,compound_vs_reference,2.9540523246012502,True
+four_weather_regimes,Los Angeles,2023,heat_only_vs_reference,0.9531810150725398,True
+four_weather_regimes,Los Angeles,2023,wind_only_vs_reference,2.4590152296693035,True
+four_weather_regimes,Los Angeles,2023,compound_vs_wind_only,0.4950370949319467,True
+four_weather_regimes,Los Angeles,2023,compound_vs_heat_only,2.0008713095287103,True
+four_weather_regimes,Los Angeles,2023,compound_additive_interaction,-0.45814392014059313,True
+four_weather_regimes,New York,2023,compound_vs_reference,4.278136735689948,True
+four_weather_regimes,New York,2023,heat_only_vs_reference,1.329218948545714,True
+four_weather_regimes,New York,2023,wind_only_vs_reference,4.479816892880001,True
+four_weather_regimes,New York,2023,compound_vs_wind_only,-0.2016801571900526,True
+four_weather_regimes,New York,2023,compound_vs_heat_only,2.948917787144234,True
+four_weather_regimes,New York,2023,compound_additive_interaction,-1.5308991057357666,True
+four_weather_regimes,Philadelphia,2023,compound_vs_reference,2.0840115166125375,True
+four_weather_regimes,Philadelphia,2023,heat_only_vs_reference,0.9395121848557842,True
+four_weather_regimes,Philadelphia,2023,wind_only_vs_reference,2.074267247004946,True
+four_weather_regimes,Philadelphia,2023,compound_vs_wind_only,0.009744269607591338,True
+four_weather_regimes,Philadelphia,2023,compound_vs_heat_only,1.1444993317567533,True
+four_weather_regimes,Philadelphia,2023,compound_additive_interaction,-0.9297679152481929,True
+four_weather_regimes,Phoenix,2023,compound_vs_reference,2.590697343093564,True
+four_weather_regimes,Phoenix,2023,heat_only_vs_reference,-0.06410249421133005,True
+four_weather_regimes,Phoenix,2023,wind_only_vs_reference,3.1884879128262646,True
+four_weather_regimes,Phoenix,2023,compound_vs_wind_only,-0.5977905697327008,True
+four_weather_regimes,Phoenix,2023,compound_vs_heat_only,2.654799837304894,True
+four_weather_regimes,Phoenix,2023,compound_additive_interaction,-0.5336880755213708,True
+four_weather_regimes,San Diego,2023,compound_vs_reference,2.190372734200979,True
+four_weather_regimes,San Diego,2023,heat_only_vs_reference,0.6704076575940054,True
+four_weather_regimes,San Diego,2023,wind_only_vs_reference,1.1892664660747796,True
+four_weather_regimes,San Diego,2023,compound_vs_wind_only,1.0011062681261995,True
+four_weather_regimes,San Diego,2023,compound_vs_heat_only,1.5199650766069737,True
+four_weather_regimes,San Diego,2023,compound_additive_interaction,0.33069861053219407,True
+four_weather_regimes,Seattle,2023,compound_vs_reference,8.234604822877627,True
+four_weather_regimes,Seattle,2023,heat_only_vs_reference,3.3734287764975046,True
+four_weather_regimes,Seattle,2023,wind_only_vs_reference,3.740758528077055,True
+four_weather_regimes,Seattle,2023,compound_vs_wind_only,4.493846294800571,True
+four_weather_regimes,Seattle,2023,compound_vs_heat_only,4.8611760463801215,True
+four_weather_regimes,Seattle,2023,compound_additive_interaction,1.1204175183030665,True
+four_weather_regimes,Atlanta,2024,compound_vs_reference,1.9605356583535487,True
+four_weather_regimes,Atlanta,2024,heat_only_vs_reference,0.07916525898073556,True
+four_weather_regimes,Atlanta,2024,wind_only_vs_reference,1.8879118022488903,True
+four_weather_regimes,Atlanta,2024,compound_vs_wind_only,0.07262385610465838,True
+four_weather_regimes,Atlanta,2024,compound_vs_heat_only,1.881370399372813,True
+four_weather_regimes,Atlanta,2024,compound_additive_interaction,-0.006541402876077185,True
+four_weather_regimes,Chicago,2024,compound_vs_reference,4.639948791308257,True
+four_weather_regimes,Chicago,2024,heat_only_vs_reference,0.5631507514228664,True
+four_weather_regimes,Chicago,2024,wind_only_vs_reference,4.453846857837564,True
+four_weather_regimes,Chicago,2024,compound_vs_wind_only,0.1861019334706926,True
+four_weather_regimes,Chicago,2024,compound_vs_heat_only,4.07679803988539,True
+four_weather_regimes,Chicago,2024,compound_additive_interaction,-0.3770488179521738,True
+four_weather_regimes,Dallas,2024,compound_vs_reference,2.127815474969301,True
+four_weather_regimes,Dallas,2024,heat_only_vs_reference,-0.8698205512813761,True
+four_weather_regimes,Dallas,2024,wind_only_vs_reference,3.193334689699605,True
+four_weather_regimes,Dallas,2024,compound_vs_wind_only,-1.0655192147303043,True
+four_weather_regimes,Dallas,2024,compound_vs_heat_only,2.997636026250677,True
+four_weather_regimes,Dallas,2024,compound_additive_interaction,-0.19569866344892817,True
+four_weather_regimes,Denver,2024,compound_vs_reference,0.9904837704310832,True
+four_weather_regimes,Denver,2024,heat_only_vs_reference,0.11795208180812533,True
+four_weather_regimes,Denver,2024,wind_only_vs_reference,1.3459548901404152,True
+four_weather_regimes,Denver,2024,compound_vs_wind_only,-0.3554711197093321,True
+four_weather_regimes,Denver,2024,compound_vs_heat_only,0.8725316886229578,True
+four_weather_regimes,Denver,2024,compound_additive_interaction,-0.4734232015174574,True
+four_weather_regimes,Houston,2024,compound_vs_reference,1.8267378283936169,True
+four_weather_regimes,Houston,2024,heat_only_vs_reference,-1.1156501213696255,True
+four_weather_regimes,Houston,2024,wind_only_vs_reference,3.4723946238414283,True
+four_weather_regimes,Houston,2024,compound_vs_wind_only,-1.6456567954478114,True
+four_weather_regimes,Houston,2024,compound_vs_heat_only,2.9423879497632424,True
+four_weather_regimes,Houston,2024,compound_additive_interaction,-0.5300066740781859,True
+four_weather_regimes,Los Angeles,2024,compound_vs_reference,3.2206293113623072,True
+four_weather_regimes,Los Angeles,2024,heat_only_vs_reference,1.0641123198372135,True
+four_weather_regimes,Los Angeles,2024,wind_only_vs_reference,2.2937842952701977,True
+four_weather_regimes,Los Angeles,2024,compound_vs_wind_only,0.9268450160921096,True
+four_weather_regimes,Los Angeles,2024,compound_vs_heat_only,2.156516991525094,True
+four_weather_regimes,Los Angeles,2024,compound_additive_interaction,-0.13726730374510399,True
+four_weather_regimes,New York,2024,compound_vs_reference,4.128509249402791,True
+four_weather_regimes,New York,2024,heat_only_vs_reference,1.2135081979855151,True
+four_weather_regimes,New York,2024,wind_only_vs_reference,4.160970351808121,True
+four_weather_regimes,New York,2024,compound_vs_wind_only,-0.03246110240533007,True
+four_weather_regimes,New York,2024,compound_vs_heat_only,2.915001051417276,True
+four_weather_regimes,New York,2024,compound_additive_interaction,-1.2459693003908452,True
+four_weather_regimes,Philadelphia,2024,compound_vs_reference,1.882527885134786,True
+four_weather_regimes,Philadelphia,2024,heat_only_vs_reference,0.8239983143883769,True
+four_weather_regimes,Philadelphia,2024,wind_only_vs_reference,1.816485010867492,True
+four_weather_regimes,Philadelphia,2024,compound_vs_wind_only,0.06604287426729405,True
+four_weather_regimes,Philadelphia,2024,compound_vs_heat_only,1.058529570746409,True
+four_weather_regimes,Philadelphia,2024,compound_additive_interaction,-0.7579554401210828,True
+four_weather_regimes,Phoenix,2024,compound_vs_reference,2.719143630095493,True
+four_weather_regimes,Phoenix,2024,heat_only_vs_reference,-0.034579438721470346,True
+four_weather_regimes,Phoenix,2024,wind_only_vs_reference,3.208393927827474,True
+four_weather_regimes,Phoenix,2024,compound_vs_wind_only,-0.48925029773198103,True
+four_weather_regimes,Phoenix,2024,compound_vs_heat_only,2.753723068816963,True
+four_weather_regimes,Phoenix,2024,compound_additive_interaction,-0.4546708590105107,True
+four_weather_regimes,San Diego,2024,compound_vs_reference,2.489429997032801,True
+four_weather_regimes,San Diego,2024,heat_only_vs_reference,0.9582096575772024,True
+four_weather_regimes,San Diego,2024,wind_only_vs_reference,1.124755491340491,True
+four_weather_regimes,San Diego,2024,compound_vs_wind_only,1.3646745056923102,True
+four_weather_regimes,San Diego,2024,compound_vs_heat_only,1.5312203394555985,True
+four_weather_regimes,San Diego,2024,compound_additive_interaction,0.40646484811510775,True
+four_weather_regimes,Seattle,2024,compound_vs_reference,6.978637129219764,True
+four_weather_regimes,Seattle,2024,heat_only_vs_reference,3.627076659558581,True
+four_weather_regimes,Seattle,2024,wind_only_vs_reference,3.7972422297036728,True
+four_weather_regimes,Seattle,2024,compound_vs_wind_only,3.181394899516091,True
+four_weather_regimes,Seattle,2024,compound_vs_heat_only,3.351560469661183,True
+four_weather_regimes,Seattle,2024,compound_additive_interaction,-0.4456817600424898,True

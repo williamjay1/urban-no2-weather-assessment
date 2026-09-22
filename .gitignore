@@ -1,7 +1,8 @@
 __pycache__/
 *.pyc
-.venv/
+verification_runs/
+reproduced_data/
 reproduced_results/
 reproduced_figures/
-rebuilt_data/
-rebuilt_results/
+reproduced_tables/
+reproduced_presentation/

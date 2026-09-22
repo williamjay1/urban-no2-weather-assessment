@@ -1,0 +1,395 @@
+{
+  "status": "PASS",
+  "figures": 3,
+  "markdown_tables": 10,
+  "png_files_byte_identical": 6,
+  "vector_files_exact_except_generation_date": 9,
+  "artifacts_compared": 27,
+  "scientific_ledger_and_station_metadata_exact": true,
+  "numerical_tolerance": null,
+  "execution_metadata_differences": [
+    {
+      "file": "figures/fig1_station_locations.eps",
+      "reference": "%%CreationDate: Wed Sep 23 00:52:43 2026\r",
+      "reproduced": "%%CreationDate: Wed Sep 23 01:20:00 2026\r",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig1_station_locations.pdf",
+      "reference": "/CreationDate (D:20260923005243+08'00')",
+      "reproduced": "/CreationDate (D:20260923012000+08'00')",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig1_station_locations.svg",
+      "reference": "<dc:date>2026-09-23T00:52:43.659268</dc:date>",
+      "reproduced": "<dc:date>2026-09-23T01:20:00.407374</dc:date>",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig1_station_locations_metadata.md",
+      "reference": [
+        "Generated (UTC): 2026-09-22T16:52:46+00:00\r",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\revision_20260922\\stations\\station_daily.csv",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\wasp_20260923\\metadata\\city_site_metadata.csv",
+        "D:\\MLWork\\urban_no2_recovery_scs\\release\\urban-no2-weather-assessment-v1.0.0\\provenance\\city_metadata.json",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\wasp_20260923\\figures\\fig1_station_locations.png",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\wasp_20260923\\figures\\fig1_station_locations.pdf",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\wasp_20260923\\figures\\fig1_station_locations.svg",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\wasp_20260923\\figures\\fig1_station_locations.eps",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\wasp_20260923\\figures\\fig1_station_locations_preview.png",
+        "D:\\MLWork\\urban_no2_recovery_scs\\results\\wasp_20260923\\figures\\fig1_station_locations_metadata.md"
+      ],
+      "reproduced": [
+        "Generated (UTC): 2026-09-22T17:20:03+00:00\r",
+        "D:\\MLWork\\urban_no2_recovery_scs\\release\\urban-no2-weather-assessment-v2.0.0\\verification_runs\\rebuilt_data\\stations\\station_daily.csv",
+        "D:\\MLWork\\urban_no2_recovery_scs\\release\\urban-no2-weather-assessment-v2.0.0\\provenance\\city_site_metadata.csv",
+        "D:\\MLWork\\urban_no2_recovery_scs\\release\\urban-no2-weather-assessment-v2.0.0\\provenance\\city_metadata.json",
+        "D:\\MLWork\\urban_no2_recovery_scs\\temp\\wasp_release_v2_presentation_20260923\\figures\\fig1_station_locations.png",
+        "D:\\MLWork\\urban_no2_recovery_scs\\temp\\wasp_release_v2_presentation_20260923\\figures\\fig1_station_locations.pdf",
+        "D:\\MLWork\\urban_no2_recovery_scs\\temp\\wasp_release_v2_presentation_20260923\\figures\\fig1_station_locations.svg",
+        "D:\\MLWork\\urban_no2_recovery_scs\\temp\\wasp_release_v2_presentation_20260923\\figures\\fig1_station_locations.eps",
+        "D:\\MLWork\\urban_no2_recovery_scs\\temp\\wasp_release_v2_presentation_20260923\\figures\\fig1_station_locations_preview.png",
+        "D:\\MLWork\\urban_no2_recovery_scs\\temp\\wasp_release_v2_presentation_20260923\\figures\\fig1_station_locations_metadata.md"
+      ],
+      "ignored": "runtime timestamp and hash-validated input/output locations only"
+    },
+    {
+      "file": "figures/fig2_city_contrasts.eps",
+      "reference": "%%CreationDate: Wed Sep 23 01:00:28 2026\r",
+      "reproduced": "%%CreationDate: Wed Sep 23 01:20:05 2026\r",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig2_city_contrasts.pdf",
+      "reference": "/CreationDate (D:20260923010028+08'00')",
+      "reproduced": "/CreationDate (D:20260923012005+08'00')",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig2_city_contrasts.svg",
+      "reference": "<dc:date>2026-09-23T01:00:28.236264</dc:date>",
+      "reproduced": "<dc:date>2026-09-23T01:20:05.296531</dc:date>",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig3_sensitivity.eps",
+      "reference": "%%CreationDate: Wed Sep 23 01:00:30 2026\r",
+      "reproduced": "%%CreationDate: Wed Sep 23 01:20:08 2026\r",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig3_sensitivity.pdf",
+      "reference": "/CreationDate (D:20260923010030+08'00')",
+      "reproduced": "/CreationDate (D:20260923012008+08'00')",
+      "ignored": "generation date only"
+    },
+    {
+      "file": "figures/fig3_sensitivity.svg",
+      "reference": "<dc:date>2026-09-23T01:00:30.936985</dc:date>",
+      "reproduced": "<dc:date>2026-09-23T01:20:08.564791</dc:date>",
+      "ignored": "generation date only"
+    },
+    {
+      "field": "input_audit.completed_utc",
+      "reference": "2026-09-22T16:51:58.444758+00:00",
+      "reproduced": "2026-09-22T17:06:45.961371+00:00"
+    },
+    {
+      "field": "input_audit.elapsed_seconds",
+      "reference": 190.5061618000036,
+      "reproduced": 158.34919169999193
+    },
+    {
+      "field": "input_audit.script_sha256",
+      "reference": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+      "reproduced": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f"
+    },
+    {
+      "field": "input_audit.started_utc",
+      "reference": "2026-09-22T16:48:48.233585+00:00",
+      "reproduced": "2026-09-22T17:04:07.907733+00:00"
+    },
+    {
+      "field": "input_audit.tests",
+      "reference": {
+        "tests_run": 13,
+        "failures": 0,
+        "errors": 0,
+        "legacy_tests": {
+          "weighted_fixed_effects_matches_explicit_dummies": true,
+          "batched_contrasts": true,
+          "run_dates": true
+        }
+      },
+      "reproduced": {
+        "tests_run": 15,
+        "failures": 0,
+        "errors": 0,
+        "legacy_tests": {
+          "weighted_fixed_effects_matches_explicit_dummies": true,
+          "batched_contrasts": true,
+          "run_dates": true
+        }
+      }
+    }
+  ],
+  "files": [
+    {
+      "file": "figures/fig1_station_locations.eps",
+      "reference_sha256": "c05680df4bec3cc1a3195fc19a5768c0dd780e440875593e67cc685170d2b2c4",
+      "reproduced_sha256": "804eb3cb5a3f7b461e84e351a54ad314904501f661e7bf7f0e7143c1b2f43f45",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig1_station_locations.pdf",
+      "reference_sha256": "d23ae96ad7149c0ca4f0fd09626b15d7aaf4a8eb30bd07cb210fda7991324216",
+      "reproduced_sha256": "a5ae8fef854439cc00e600cfa462281cb9e2706b2a06a3295d283abe6ff9b835",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig1_station_locations.png",
+      "reference_sha256": "f50fd1efcbddda54cdd5dc69e63c68768d0df408a863ef6804081278a4e09f9c",
+      "reproduced_sha256": "f50fd1efcbddda54cdd5dc69e63c68768d0df408a863ef6804081278a4e09f9c",
+      "byte_identical": true,
+      "pixel_equality": "EXACT_FROM_IDENTICAL_PNG_BYTES",
+      "dimensions": [
+        8220,
+        7559
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig1_station_locations.svg",
+      "reference_sha256": "a4eba17edfeffe27eefdfd1043828d64762bf843c63182c621305d6f1e14c040",
+      "reproduced_sha256": "475c39f5dad61494a4fd975526d8f0c0c875160a34e3bb50a09045ee377f413a",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig1_station_locations_metadata.md",
+      "reference_sha256": "5b3b7a60922be5ffcc8a66bc7ee04d7c57272476d261dc750895f5746cfe8c2f",
+      "reproduced_sha256": "b2903e69ceba2154a00315458d8b9583e232588499f73be97334d1d0a4b4e460",
+      "byte_identical": false,
+      "all_scientific_text_exact": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig1_station_locations_preview.png",
+      "reference_sha256": "3177aa5d30efecebaf895bc3b31f833c6780e36af3d2bbd9077150de73905e4b",
+      "reproduced_sha256": "3177aa5d30efecebaf895bc3b31f833c6780e36af3d2bbd9077150de73905e4b",
+      "byte_identical": true,
+      "pixel_equality": "EXACT_FROM_IDENTICAL_PNG_BYTES",
+      "dimensions": [
+        1644,
+        1511
+      ],
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig2_city_contrasts.eps",
+      "reference_sha256": "ff88e3b89cdf64831121d8a1a498fb76ff34c3b8493b04cb6dd1f9a0e6e7b38d",
+      "reproduced_sha256": "29aa849991f427c5bac7602581aac8b316b3da79fb643339eb38e709c1d6bafd",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig2_city_contrasts.pdf",
+      "reference_sha256": "be413a4d7efb1b2fbe65332aad91238bfa7847179ad94bf90bb97bcafb93dd0f",
+      "reproduced_sha256": "50592828dfe0a629de5a6ec07013f5f4b9fea468e9aa53dbc73775bc7db8977c",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig2_city_contrasts.png",
+      "reference_sha256": "850904cffece0a21a6523164f0dda5429f3b26d98481370c1bdc0dc02c5ac07c",
+      "reproduced_sha256": "850904cffece0a21a6523164f0dda5429f3b26d98481370c1bdc0dc02c5ac07c",
+      "byte_identical": true,
+      "pixel_equality": "EXACT_FROM_IDENTICAL_PNG_BYTES",
+      "dimensions": [
+        7795,
+        6472
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig2_city_contrasts.svg",
+      "reference_sha256": "2d8a7af2c361c2c137d0e94564c58052407d1303d3bef4f22530e01ab19ed6c6",
+      "reproduced_sha256": "c521dff3ee23db68eaaec5a055c1646eda3b3ac05b8ae2785f3dc98d4395c5e3",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig2_city_contrasts_preview.png",
+      "reference_sha256": "17354c16bf2ee5880d2460595625cb8860e582add70d87719b8f206648f44af9",
+      "reproduced_sha256": "17354c16bf2ee5880d2460595625cb8860e582add70d87719b8f206648f44af9",
+      "byte_identical": true,
+      "pixel_equality": "EXACT_FROM_IDENTICAL_PNG_BYTES",
+      "dimensions": [
+        1559,
+        1294
+      ],
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig3_sensitivity.eps",
+      "reference_sha256": "ec2d0143746b581cf3081d45c62a71ebab4688a963e51463581b2d03f6bce315",
+      "reproduced_sha256": "4156fff339cd052d00578f5969627a5fb4092a7b9d660e6984b1ad30ae50c7d6",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig3_sensitivity.pdf",
+      "reference_sha256": "aee86a682cd2c4edaed3612c27e8b387b94cfa8ac4004bf9a6f8332c4261030e",
+      "reproduced_sha256": "b514852b59fb30e72eb8abec6f8ade3ab038c8c549752842468f37197d3c58db",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig3_sensitivity.png",
+      "reference_sha256": "1a7f07d71483482faa0cfd2cb3a5b73dd3e5d0960f2861d0d12d777b989e0c35",
+      "reproduced_sha256": "1a7f07d71483482faa0cfd2cb3a5b73dd3e5d0960f2861d0d12d777b989e0c35",
+      "byte_identical": true,
+      "pixel_equality": "EXACT_FROM_IDENTICAL_PNG_BYTES",
+      "dimensions": [
+        7795,
+        8031
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig3_sensitivity.svg",
+      "reference_sha256": "c8c267ae88119c5f79e643da3b5fe247f17881e22cbcc52687d6b6ade351414b",
+      "reproduced_sha256": "1075b18a7a15c4e80438ac60e697054055c17e3f255c96e174becc4779217556",
+      "byte_identical": false,
+      "exact_after_generation_date_normalization": true,
+      "status": "PASS"
+    },
+    {
+      "file": "figures/fig3_sensitivity_preview.png",
+      "reference_sha256": "71b33c2c37d4503e4ff43346c7bfbd5ceb0612d69f9703056706a5917addfe79",
+      "reproduced_sha256": "71b33c2c37d4503e4ff43346c7bfbd5ceb0612d69f9703056706a5917addfe79",
+      "byte_identical": true,
+      "pixel_equality": "EXACT_FROM_IDENTICAL_PNG_BYTES",
+      "dimensions": [
+        1559,
+        1606
+      ],
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "tables/A1.md",
+      "reference_sha256": "1d632d458cc85ecf9ddc60e547ce99798fcbf03e72dedf819ea01e6df1ecf301",
+      "reproduced_sha256": "1d632d458cc85ecf9ddc60e547ce99798fcbf03e72dedf819ea01e6df1ecf301",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/A2.md",
+      "reference_sha256": "c407d429922597df892d7665b0b692dccab54e77c2e7333a617a40148454abdc",
+      "reproduced_sha256": "c407d429922597df892d7665b0b692dccab54e77c2e7333a617a40148454abdc",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/A3.md",
+      "reference_sha256": "1bf93306655cdbe0dcdf9740eacb951ac2245127da57211cba98e8549c0df8f0",
+      "reproduced_sha256": "1bf93306655cdbe0dcdf9740eacb951ac2245127da57211cba98e8549c0df8f0",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/B1.md",
+      "reference_sha256": "8d87a8f356049406e767a75d314523b9d72ded2c31173a0906ec1cdb0a9f2224",
+      "reproduced_sha256": "8d87a8f356049406e767a75d314523b9d72ded2c31173a0906ec1cdb0a9f2224",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/B2.md",
+      "reference_sha256": "39f445489e0c5e1f8555aa86fe574357a3cc3ac8f9ad925ec47144630be7d7b9",
+      "reproduced_sha256": "39f445489e0c5e1f8555aa86fe574357a3cc3ac8f9ad925ec47144630be7d7b9",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/B3.md",
+      "reference_sha256": "6891240df3ce3068204244e57ebf558e23a656b7556dfd9996d5176d26a2eb8d",
+      "reproduced_sha256": "6891240df3ce3068204244e57ebf558e23a656b7556dfd9996d5176d26a2eb8d",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/T1.md",
+      "reference_sha256": "810c6887dfa5bebaffdc5f4a9f3b742ba7f66261fc6e9774cce2ac4e77f6cde6",
+      "reproduced_sha256": "810c6887dfa5bebaffdc5f4a9f3b742ba7f66261fc6e9774cce2ac4e77f6cde6",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/T2.md",
+      "reference_sha256": "9b9767be3f66985e367b5cd7a70a2f352a866db84c7b20aa465ea31faa8f626c",
+      "reproduced_sha256": "9b9767be3f66985e367b5cd7a70a2f352a866db84c7b20aa465ea31faa8f626c",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/T3.md",
+      "reference_sha256": "0bf4265c7a248f6110a30ab199daecc9e84235a99e7945b172e72f3978decb0a",
+      "reproduced_sha256": "0bf4265c7a248f6110a30ab199daecc9e84235a99e7945b172e72f3978decb0a",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/T4.md",
+      "reference_sha256": "a85cc41c7c26dfe1b401c7586cc12830799c02ccc0f7863301c1a64fad9cec00",
+      "reproduced_sha256": "a85cc41c7c26dfe1b401c7586cc12830799c02ccc0f7863301c1a64fad9cec00",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "tables/result_ledger.json",
+      "reference_sha256": "7228ca5aa3a39dd6fbad66608a758d164017fa683f00e2acd7872b8fc9b8ac23",
+      "reproduced_sha256": "53fa6c3eff3fb79dcf22b79e84726520a61af8a643fae07ef87bd1f7de80882f",
+      "byte_identical": false,
+      "all_scientific_fields_exact": true,
+      "status": "PASS"
+    }
+  ],
+  "manuscript_included": false,
+  "published": false
+}

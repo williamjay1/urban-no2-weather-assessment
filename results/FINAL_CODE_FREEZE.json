@@ -1,0 +1,25 @@
+{
+  "status": "frozen",
+  "date": "2026-09-23",
+  "source_directory": "D:/codex/sci/urban_air_recovery_scs_design_20260825/pilot",
+  "sha256": {
+    "wasp_analysis.py": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f",
+    "test_wasp_analysis.py": "ec1e3c12edb677303e42351c71c46fa0aa13dce81f032eb0cfd1358ec7baf0af",
+    "calendar_station_analysis.py": "339bbbd61e9af5293e4ad5eb8d889189d420b8e7d7ab161e38a0b20c2b63813a"
+  },
+  "original_executed_wasp_analysis_sha256": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+  "original_execution_snapshot": "executed_wasp_analysis.py",
+  "post_execution_changes": [
+    "Portable relative output path validation and resolved-drive free-space check",
+    "Saved-result audit entry point and diagnostic review tables",
+    "Two additional tests plus stronger nonempty event assertions; final suite 15 passing tests"
+  ],
+  "statistical_definitions_changed": false,
+  "sample_selection_changed": false,
+  "estimation_or_resampling_algorithm_changed": false,
+  "models": 20,
+  "pooled_contrasts": 98,
+  "bootstrap_attempts": 5000,
+  "seed": 20260923,
+  "published_or_submitted_by_this_task": false
+}

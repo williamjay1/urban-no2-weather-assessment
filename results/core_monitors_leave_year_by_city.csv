@@ -1,0 +1,397 @@
+model,city,omitted_year,contrast,estimate_ppb,estimable
+core_monitors,Atlanta,2019,episode_vs_reference,2.2095867852592144,True
+core_monitors,Atlanta,2019,heat_only_vs_reference,-0.10314249208600745,True
+core_monitors,Atlanta,2019,wind_only_vs_reference,1.7458030093964019,True
+core_monitors,Atlanta,2019,other_compound_vs_reference,1.1109022070180048,True
+core_monitors,Atlanta,2019,episode_vs_wind_only,0.4637837758628125,True
+core_monitors,Atlanta,2019,episode_vs_heat_only,2.312729277345222,True
+core_monitors,Chicago,2019,episode_vs_reference,4.711191908296437,True
+core_monitors,Chicago,2019,heat_only_vs_reference,-0.05799518130827774,True
+core_monitors,Chicago,2019,wind_only_vs_reference,4.32228376751921,True
+core_monitors,Chicago,2019,other_compound_vs_reference,4.495942714008178,True
+core_monitors,Chicago,2019,episode_vs_wind_only,0.388908140777227,True
+core_monitors,Chicago,2019,episode_vs_heat_only,4.769187089604714,True
+core_monitors,Dallas,2019,episode_vs_reference,2.346776088377319,True
+core_monitors,Dallas,2019,heat_only_vs_reference,-1.1044168633527662,True
+core_monitors,Dallas,2019,wind_only_vs_reference,3.069241087934686,True
+core_monitors,Dallas,2019,other_compound_vs_reference,1.2414227421348307,True
+core_monitors,Dallas,2019,episode_vs_wind_only,-0.7224649995573671,True
+core_monitors,Dallas,2019,episode_vs_heat_only,3.4511929517300852,True
+core_monitors,Denver,2019,episode_vs_reference,0.2956389301325629,True
+core_monitors,Denver,2019,heat_only_vs_reference,0.6316989993630939,True
+core_monitors,Denver,2019,wind_only_vs_reference,1.3450519085544366,True
+core_monitors,Denver,2019,other_compound_vs_reference,1.1881314497966007,True
+core_monitors,Denver,2019,episode_vs_wind_only,-1.0494129784218735,True
+core_monitors,Denver,2019,episode_vs_heat_only,-0.336060069230531,True
+core_monitors,Houston,2019,episode_vs_reference,1.978577597465041,True
+core_monitors,Houston,2019,heat_only_vs_reference,-1.8166126183650317,True
+core_monitors,Houston,2019,wind_only_vs_reference,3.732091225341282,True
+core_monitors,Houston,2019,other_compound_vs_reference,0.9700486853490442,True
+core_monitors,Houston,2019,episode_vs_wind_only,-1.753513627876241,True
+core_monitors,Houston,2019,episode_vs_heat_only,3.7951902158300728,True
+core_monitors,Los Angeles,2019,episode_vs_reference,3.1748830765197606,True
+core_monitors,Los Angeles,2019,heat_only_vs_reference,0.7194010183441055,True
+core_monitors,Los Angeles,2019,wind_only_vs_reference,2.61308174593993,True
+core_monitors,Los Angeles,2019,other_compound_vs_reference,2.792419437971744,True
+core_monitors,Los Angeles,2019,episode_vs_wind_only,0.5618013305798306,True
+core_monitors,Los Angeles,2019,episode_vs_heat_only,2.4554820581756553,True
+core_monitors,New York,2019,episode_vs_reference,4.812286987654633,True
+core_monitors,New York,2019,heat_only_vs_reference,1.0557270439040465,True
+core_monitors,New York,2019,wind_only_vs_reference,4.328525598091444,True
+core_monitors,New York,2019,other_compound_vs_reference,3.583590139542257,True
+core_monitors,New York,2019,episode_vs_wind_only,0.48376138956318915,True
+core_monitors,New York,2019,episode_vs_heat_only,3.7565599437505863,True
+core_monitors,Philadelphia,2019,episode_vs_reference,2.2826624649372738,True
+core_monitors,Philadelphia,2019,heat_only_vs_reference,0.8122050272168214,True
+core_monitors,Philadelphia,2019,wind_only_vs_reference,1.988834000144189,True
+core_monitors,Philadelphia,2019,other_compound_vs_reference,1.9624310043552535,True
+core_monitors,Philadelphia,2019,episode_vs_wind_only,0.29382846479308466,True
+core_monitors,Philadelphia,2019,episode_vs_heat_only,1.4704574377204525,True
+core_monitors,Phoenix,2019,episode_vs_reference,3.0222165330117665,True
+core_monitors,Phoenix,2019,heat_only_vs_reference,-0.4225419870336076,True
+core_monitors,Phoenix,2019,wind_only_vs_reference,3.0583778016392404,True
+core_monitors,Phoenix,2019,other_compound_vs_reference,1.4453877778114306,True
+core_monitors,Phoenix,2019,episode_vs_wind_only,-0.03616126862747393,True
+core_monitors,Phoenix,2019,episode_vs_heat_only,3.444758520045374,True
+core_monitors,San Diego,2019,episode_vs_reference,2.226491798488887,True
+core_monitors,San Diego,2019,heat_only_vs_reference,0.6383843141032712,True
+core_monitors,San Diego,2019,wind_only_vs_reference,1.1759156511072173,True
+core_monitors,San Diego,2019,other_compound_vs_reference,1.759506141344185,True
+core_monitors,San Diego,2019,episode_vs_wind_only,1.0505761473816695,True
+core_monitors,San Diego,2019,episode_vs_heat_only,1.5881074843856156,True
+core_monitors,Seattle,2019,episode_vs_reference,6.911126537331386,True
+core_monitors,Seattle,2019,heat_only_vs_reference,4.327286989997694,True
+core_monitors,Seattle,2019,wind_only_vs_reference,3.707717925411159,True
+core_monitors,Seattle,2019,other_compound_vs_reference,7.912368328650934,True
+core_monitors,Seattle,2019,episode_vs_wind_only,3.203408611920227,True
+core_monitors,Seattle,2019,episode_vs_heat_only,2.5838395473336924,True
+core_monitors,Atlanta,2020,episode_vs_reference,2.434248414217599,True
+core_monitors,Atlanta,2020,heat_only_vs_reference,-0.10685789284376417,True
+core_monitors,Atlanta,2020,wind_only_vs_reference,1.8218699109726075,True
+core_monitors,Atlanta,2020,other_compound_vs_reference,1.0660384547721449,True
+core_monitors,Atlanta,2020,episode_vs_wind_only,0.6123785032449915,True
+core_monitors,Atlanta,2020,episode_vs_heat_only,2.541106307061363,True
+core_monitors,Chicago,2020,episode_vs_reference,4.890534155807525,True
+core_monitors,Chicago,2020,heat_only_vs_reference,0.5738116579027137,True
+core_monitors,Chicago,2020,wind_only_vs_reference,4.668510874215035,True
+core_monitors,Chicago,2020,other_compound_vs_reference,4.868059161343847,True
+core_monitors,Chicago,2020,episode_vs_wind_only,0.22202328159248985,True
+core_monitors,Chicago,2020,episode_vs_heat_only,4.316722497904811,True
+core_monitors,Dallas,2020,episode_vs_reference,2.4869700352049895,True
+core_monitors,Dallas,2020,heat_only_vs_reference,-1.369049949328927,True
+core_monitors,Dallas,2020,wind_only_vs_reference,3.0455791582685636,True
+core_monitors,Dallas,2020,other_compound_vs_reference,0.9672385051326249,True
+core_monitors,Dallas,2020,episode_vs_wind_only,-0.5586091230635741,True
+core_monitors,Dallas,2020,episode_vs_heat_only,3.8560199845339165,True
+core_monitors,Denver,2020,episode_vs_reference,1.3995333871518647,True
+core_monitors,Denver,2020,heat_only_vs_reference,0.19699451267199963,True
+core_monitors,Denver,2020,wind_only_vs_reference,1.3636354635408603,True
+core_monitors,Denver,2020,other_compound_vs_reference,0.8988469826467629,True
+core_monitors,Denver,2020,episode_vs_wind_only,0.03589792361100441,True
+core_monitors,Denver,2020,episode_vs_heat_only,1.202538874479865,True
+core_monitors,Houston,2020,episode_vs_reference,1.6179307763477653,True
+core_monitors,Houston,2020,heat_only_vs_reference,-1.4119224889680486,True
+core_monitors,Houston,2020,wind_only_vs_reference,3.6530300377750917,True
+core_monitors,Houston,2020,other_compound_vs_reference,1.2007776968279589,True
+core_monitors,Houston,2020,episode_vs_wind_only,-2.0350992614273267,True
+core_monitors,Houston,2020,episode_vs_heat_only,3.029853265315814,True
+core_monitors,Los Angeles,2020,episode_vs_reference,3.2559060351682607,True
+core_monitors,Los Angeles,2020,heat_only_vs_reference,1.1344177460655867,True
+core_monitors,Los Angeles,2020,wind_only_vs_reference,2.6663025086371857,True
+core_monitors,Los Angeles,2020,other_compound_vs_reference,3.47379598850636,True
+core_monitors,Los Angeles,2020,episode_vs_wind_only,0.5896035265310751,True
+core_monitors,Los Angeles,2020,episode_vs_heat_only,2.121488289102674,True
+core_monitors,New York,2020,episode_vs_reference,4.321870394135799,True
+core_monitors,New York,2020,heat_only_vs_reference,1.1613648550974123,True
+core_monitors,New York,2020,wind_only_vs_reference,4.409339127586456,True
+core_monitors,New York,2020,other_compound_vs_reference,3.8198282909200425,True
+core_monitors,New York,2020,episode_vs_wind_only,-0.08746873345065698,True
+core_monitors,New York,2020,episode_vs_heat_only,3.160505539038387,True
+core_monitors,Philadelphia,2020,episode_vs_reference,1.9063225094218579,True
+core_monitors,Philadelphia,2020,heat_only_vs_reference,0.7256415368035142,True
+core_monitors,Philadelphia,2020,wind_only_vs_reference,1.912504560567611,True
+core_monitors,Philadelphia,2020,other_compound_vs_reference,1.780902574960316,True
+core_monitors,Philadelphia,2020,episode_vs_wind_only,-0.006182051145753098,True
+core_monitors,Philadelphia,2020,episode_vs_heat_only,1.1806809726183438,True
+core_monitors,Phoenix,2020,episode_vs_reference,2.7983865359869404,True
+core_monitors,Phoenix,2020,heat_only_vs_reference,-0.02438237907228702,True
+core_monitors,Phoenix,2020,wind_only_vs_reference,3.0173699463017787,True
+core_monitors,Phoenix,2020,other_compound_vs_reference,2.400461538961414,True
+core_monitors,Phoenix,2020,episode_vs_wind_only,-0.21898341031483826,True
+core_monitors,Phoenix,2020,episode_vs_heat_only,2.8227689150592274,True
+core_monitors,San Diego,2020,episode_vs_reference,1.7679672438045015,True
+core_monitors,San Diego,2020,heat_only_vs_reference,0.5967410921037738,True
+core_monitors,San Diego,2020,wind_only_vs_reference,1.2167259042131464,True
+core_monitors,San Diego,2020,other_compound_vs_reference,1.924407406468271,True
+core_monitors,San Diego,2020,episode_vs_wind_only,0.5512413395913551,True
+core_monitors,San Diego,2020,episode_vs_heat_only,1.1712261517007279,True
+core_monitors,Seattle,2020,episode_vs_reference,7.000344627169943,True
+core_monitors,Seattle,2020,heat_only_vs_reference,4.0596521478155285,True
+core_monitors,Seattle,2020,wind_only_vs_reference,3.806755905981667,True
+core_monitors,Seattle,2020,other_compound_vs_reference,8.197046384195504,True
+core_monitors,Seattle,2020,episode_vs_wind_only,3.193588721188276,True
+core_monitors,Seattle,2020,episode_vs_heat_only,2.9406924793544142,True
+core_monitors,Atlanta,2021,episode_vs_reference,2.292692446319147,True
+core_monitors,Atlanta,2021,heat_only_vs_reference,-0.09335680639113236,True
+core_monitors,Atlanta,2021,wind_only_vs_reference,1.733679476443824,True
+core_monitors,Atlanta,2021,other_compound_vs_reference,1.0023753123452468,True
+core_monitors,Atlanta,2021,episode_vs_wind_only,0.5590129698753232,True
+core_monitors,Atlanta,2021,episode_vs_heat_only,2.3860492527102797,True
+core_monitors,Chicago,2021,episode_vs_reference,5.233857247355866,True
+core_monitors,Chicago,2021,heat_only_vs_reference,0.33377623062172024,True
+core_monitors,Chicago,2021,wind_only_vs_reference,4.776267177109392,True
+core_monitors,Chicago,2021,other_compound_vs_reference,4.769245719247488,True
+core_monitors,Chicago,2021,episode_vs_wind_only,0.45759007024647413,True
+core_monitors,Chicago,2021,episode_vs_heat_only,4.900081016734146,True
+core_monitors,Dallas,2021,episode_vs_reference,3.048042427248064,True
+core_monitors,Dallas,2021,heat_only_vs_reference,-0.7123858026199299,True
+core_monitors,Dallas,2021,wind_only_vs_reference,3.0642773089576636,True
+core_monitors,Dallas,2021,other_compound_vs_reference,1.0582400036211796,True
+core_monitors,Dallas,2021,episode_vs_wind_only,-0.016234881709599414,True
+core_monitors,Dallas,2021,episode_vs_heat_only,3.760428229867994,True
+core_monitors,Denver,2021,episode_vs_reference,2.00118833818438,True
+core_monitors,Denver,2021,heat_only_vs_reference,0.42250251073683,True
+core_monitors,Denver,2021,wind_only_vs_reference,1.4323494126927674,True
+core_monitors,Denver,2021,other_compound_vs_reference,0.9521323635318575,True
+core_monitors,Denver,2021,episode_vs_wind_only,0.5688389254916126,True
+core_monitors,Denver,2021,episode_vs_heat_only,1.5786858274475501,True
+core_monitors,Houston,2021,episode_vs_reference,1.8799390979214419,True
+core_monitors,Houston,2021,heat_only_vs_reference,-1.4382251261586327,True
+core_monitors,Houston,2021,wind_only_vs_reference,3.737453441836899,True
+core_monitors,Houston,2021,other_compound_vs_reference,0.8772813864107729,True
+core_monitors,Houston,2021,episode_vs_wind_only,-1.8575143439154571,True
+core_monitors,Houston,2021,episode_vs_heat_only,3.318164224080075,True
+core_monitors,Los Angeles,2021,episode_vs_reference,3.0546527475980345,True
+core_monitors,Los Angeles,2021,heat_only_vs_reference,0.8229070004712107,True
+core_monitors,Los Angeles,2021,wind_only_vs_reference,2.052875844923469,True
+core_monitors,Los Angeles,2021,other_compound_vs_reference,2.6528533214223837,True
+core_monitors,Los Angeles,2021,episode_vs_wind_only,1.0017769026745653,True
+core_monitors,Los Angeles,2021,episode_vs_heat_only,2.2317457471268236,True
+core_monitors,New York,2021,episode_vs_reference,4.092273126113257,True
+core_monitors,New York,2021,heat_only_vs_reference,1.2672721728512388,True
+core_monitors,New York,2021,wind_only_vs_reference,4.409854915851062,True
+core_monitors,New York,2021,other_compound_vs_reference,4.107808134754168,True
+core_monitors,New York,2021,episode_vs_wind_only,-0.3175817897378046,True
+core_monitors,New York,2021,episode_vs_heat_only,2.8250009532620184,True
+core_monitors,Philadelphia,2021,episode_vs_reference,1.2935955400915253,True
+core_monitors,Philadelphia,2021,heat_only_vs_reference,1.037842042917477,True
+core_monitors,Philadelphia,2021,wind_only_vs_reference,1.881388706219264,True
+core_monitors,Philadelphia,2021,other_compound_vs_reference,1.8541468137686674,True
+core_monitors,Philadelphia,2021,episode_vs_wind_only,-0.5877931661277387,True
+core_monitors,Philadelphia,2021,episode_vs_heat_only,0.25575349717404827,True
+core_monitors,Phoenix,2021,episode_vs_reference,3.271712947800702,True
+core_monitors,Phoenix,2021,heat_only_vs_reference,-0.13967498132765116,True
+core_monitors,Phoenix,2021,wind_only_vs_reference,3.1516341355568764,True
+core_monitors,Phoenix,2021,other_compound_vs_reference,2.0344463329484754,True
+core_monitors,Phoenix,2021,episode_vs_wind_only,0.12007881224382544,True
+core_monitors,Phoenix,2021,episode_vs_heat_only,3.411387929128353,True
+core_monitors,San Diego,2021,episode_vs_reference,2.1758977870297604,True
+core_monitors,San Diego,2021,heat_only_vs_reference,0.5922860367508122,True
+core_monitors,San Diego,2021,wind_only_vs_reference,1.1950977898324262,True
+core_monitors,San Diego,2021,other_compound_vs_reference,1.8050256576139663,True
+core_monitors,San Diego,2021,episode_vs_wind_only,0.9807999971973342,True
+core_monitors,San Diego,2021,episode_vs_heat_only,1.5836117502789482,True
+core_monitors,Seattle,2021,episode_vs_reference,6.341507763064543,True
+core_monitors,Seattle,2021,heat_only_vs_reference,3.9435287830223515,True
+core_monitors,Seattle,2021,wind_only_vs_reference,3.5820946819825346,True
+core_monitors,Seattle,2021,other_compound_vs_reference,7.331197250197232,True
+core_monitors,Seattle,2021,episode_vs_wind_only,2.7594130810820086,True
+core_monitors,Seattle,2021,episode_vs_heat_only,2.3979789800421916,True
+core_monitors,Atlanta,2022,episode_vs_reference,2.641577066295479,True
+core_monitors,Atlanta,2022,heat_only_vs_reference,0.18136346208459664,True
+core_monitors,Atlanta,2022,wind_only_vs_reference,1.8817130012785321,True
+core_monitors,Atlanta,2022,other_compound_vs_reference,1.56788783206389,True
+core_monitors,Atlanta,2022,episode_vs_wind_only,0.759864065016947,True
+core_monitors,Atlanta,2022,episode_vs_heat_only,2.4602136042108826,True
+core_monitors,Chicago,2022,episode_vs_reference,4.578385479158491,True
+core_monitors,Chicago,2022,heat_only_vs_reference,0.6086433624085785,True
+core_monitors,Chicago,2022,wind_only_vs_reference,4.257169138913538,True
+core_monitors,Chicago,2022,other_compound_vs_reference,4.803992769750135,True
+core_monitors,Chicago,2022,episode_vs_wind_only,0.3212163402449528,True
+core_monitors,Chicago,2022,episode_vs_heat_only,3.969742116749912,True
+core_monitors,Dallas,2022,episode_vs_reference,2.265756114253013,True
+core_monitors,Dallas,2022,heat_only_vs_reference,-1.459122349360693,True
+core_monitors,Dallas,2022,wind_only_vs_reference,2.8635372982898737,True
+core_monitors,Dallas,2022,other_compound_vs_reference,1.2206873689204596,True
+core_monitors,Dallas,2022,episode_vs_wind_only,-0.5977811840368608,True
+core_monitors,Dallas,2022,episode_vs_heat_only,3.724878463613706,True
+core_monitors,Denver,2022,episode_vs_reference,2.181157488844054,True
+core_monitors,Denver,2022,heat_only_vs_reference,0.592783008704813,True
+core_monitors,Denver,2022,wind_only_vs_reference,1.1146791641050888,True
+core_monitors,Denver,2022,other_compound_vs_reference,1.3591264681235102,True
+core_monitors,Denver,2022,episode_vs_wind_only,1.066478324738965,True
+core_monitors,Denver,2022,episode_vs_heat_only,1.5883744801392408,True
+core_monitors,Houston,2022,episode_vs_reference,1.856951144036137,True
+core_monitors,Houston,2022,heat_only_vs_reference,-1.4452691386796683,True
+core_monitors,Houston,2022,wind_only_vs_reference,3.7567363280938597,True
+core_monitors,Houston,2022,other_compound_vs_reference,1.2242536323109054,True
+core_monitors,Houston,2022,episode_vs_wind_only,-1.8997851840577227,True
+core_monitors,Houston,2022,episode_vs_heat_only,3.3022202827158056,True
+core_monitors,Los Angeles,2022,episode_vs_reference,3.0822366567338753,True
+core_monitors,Los Angeles,2022,heat_only_vs_reference,0.7551804842468428,True
+core_monitors,Los Angeles,2022,wind_only_vs_reference,2.2889188737883406,True
+core_monitors,Los Angeles,2022,other_compound_vs_reference,3.1674628878714968,True
+core_monitors,Los Angeles,2022,episode_vs_wind_only,0.7933177829455347,True
+core_monitors,Los Angeles,2022,episode_vs_heat_only,2.3270561724870324,True
+core_monitors,New York,2022,episode_vs_reference,4.906275488784729,True
+core_monitors,New York,2022,heat_only_vs_reference,1.0577288614643168,True
+core_monitors,New York,2022,wind_only_vs_reference,4.208754379634539,True
+core_monitors,New York,2022,other_compound_vs_reference,4.174455517891942,True
+core_monitors,New York,2022,episode_vs_wind_only,0.6975211091501903,True
+core_monitors,New York,2022,episode_vs_heat_only,3.8485466273204123,True
+core_monitors,Philadelphia,2022,episode_vs_reference,2.1956281103855906,True
+core_monitors,Philadelphia,2022,heat_only_vs_reference,1.0427376059801898,True
+core_monitors,Philadelphia,2022,wind_only_vs_reference,1.8379975674219093,True
+core_monitors,Philadelphia,2022,other_compound_vs_reference,1.9309195145074394,True
+core_monitors,Philadelphia,2022,episode_vs_wind_only,0.35763054296368124,True
+core_monitors,Philadelphia,2022,episode_vs_heat_only,1.1528905044054008,True
+core_monitors,Phoenix,2022,episode_vs_reference,3.222711552477794,True
+core_monitors,Phoenix,2022,heat_only_vs_reference,0.17190541900669196,True
+core_monitors,Phoenix,2022,wind_only_vs_reference,3.14754413016058,True
+core_monitors,Phoenix,2022,other_compound_vs_reference,2.1040008482841728,True
+core_monitors,Phoenix,2022,episode_vs_wind_only,0.07516742231721407,True
+core_monitors,Phoenix,2022,episode_vs_heat_only,3.0508061334711023,True
+core_monitors,San Diego,2022,episode_vs_reference,2.1310417010219567,True
+core_monitors,San Diego,2022,heat_only_vs_reference,0.7014183251144332,True
+core_monitors,San Diego,2022,wind_only_vs_reference,1.0032782847603505,True
+core_monitors,San Diego,2022,other_compound_vs_reference,1.7547686047444588,True
+core_monitors,San Diego,2022,episode_vs_wind_only,1.1277634162616061,True
+core_monitors,San Diego,2022,episode_vs_heat_only,1.4296233759075234,True
+core_monitors,Seattle,2022,episode_vs_reference,4.99387420715355,True
+core_monitors,Seattle,2022,heat_only_vs_reference,3.352829393776204,True
+core_monitors,Seattle,2022,wind_only_vs_reference,3.684934634108658,True
+core_monitors,Seattle,2022,other_compound_vs_reference,7.145820659764505,True
+core_monitors,Seattle,2022,episode_vs_wind_only,1.308939573044892,True
+core_monitors,Seattle,2022,episode_vs_heat_only,1.6410448133773463,True
+core_monitors,Atlanta,2023,episode_vs_reference,2.6566614606188206,True
+core_monitors,Atlanta,2023,heat_only_vs_reference,0.10974725533726942,True
+core_monitors,Atlanta,2023,wind_only_vs_reference,2.0520444242321845,True
+core_monitors,Atlanta,2023,other_compound_vs_reference,1.8044709812255606,True
+core_monitors,Atlanta,2023,episode_vs_wind_only,0.6046170363866361,True
+core_monitors,Atlanta,2023,episode_vs_heat_only,2.546914205281551,True
+core_monitors,Chicago,2023,episode_vs_reference,4.203667881953383,True
+core_monitors,Chicago,2023,heat_only_vs_reference,0.6130686833202761,True
+core_monitors,Chicago,2023,wind_only_vs_reference,4.53219969244038,True
+core_monitors,Chicago,2023,other_compound_vs_reference,4.554005561750909,True
+core_monitors,Chicago,2023,episode_vs_wind_only,-0.3285318104869974,True
+core_monitors,Chicago,2023,episode_vs_heat_only,3.5905991986331065,True
+core_monitors,Dallas,2023,episode_vs_reference,3.0255511205882737,True
+core_monitors,Dallas,2023,heat_only_vs_reference,-0.8528358142509562,True
+core_monitors,Dallas,2023,wind_only_vs_reference,2.9008019022858385,True
+core_monitors,Dallas,2023,other_compound_vs_reference,1.7017348401267778,True
+core_monitors,Dallas,2023,episode_vs_wind_only,0.12474921830243524,True
+core_monitors,Dallas,2023,episode_vs_heat_only,3.87838693483923,True
+core_monitors,Denver,2023,episode_vs_reference,1.566510081063607,True
+core_monitors,Denver,2023,heat_only_vs_reference,0.6946225030962832,True
+core_monitors,Denver,2023,wind_only_vs_reference,1.1788043081380621,True
+core_monitors,Denver,2023,other_compound_vs_reference,0.8248006200837443,True
+core_monitors,Denver,2023,episode_vs_wind_only,0.38770577292554487,True
+core_monitors,Denver,2023,episode_vs_heat_only,0.8718875779673239,True
+core_monitors,Houston,2023,episode_vs_reference,1.7009720948617681,True
+core_monitors,Houston,2023,heat_only_vs_reference,-0.8825537553315762,True
+core_monitors,Houston,2023,wind_only_vs_reference,3.513202271446883,True
+core_monitors,Houston,2023,other_compound_vs_reference,1.5240422302160426,True
+core_monitors,Houston,2023,episode_vs_wind_only,-1.8122301765851148,True
+core_monitors,Houston,2023,episode_vs_heat_only,2.5835258501933445,True
+core_monitors,Los Angeles,2023,episode_vs_reference,2.8223514022449163,True
+core_monitors,Los Angeles,2023,heat_only_vs_reference,0.9686928447220186,True
+core_monitors,Los Angeles,2023,wind_only_vs_reference,2.4933356261376227,True
+core_monitors,Los Angeles,2023,other_compound_vs_reference,3.224500768700652,True
+core_monitors,Los Angeles,2023,episode_vs_wind_only,0.3290157761072936,True
+core_monitors,Los Angeles,2023,episode_vs_heat_only,1.8536585575228979,True
+core_monitors,New York,2023,episode_vs_reference,4.684082890406659,True
+core_monitors,New York,2023,heat_only_vs_reference,1.2796351037346834,True
+core_monitors,New York,2023,wind_only_vs_reference,4.48252001918905,True
+core_monitors,New York,2023,other_compound_vs_reference,3.6723725974727834,True
+core_monitors,New York,2023,episode_vs_wind_only,0.2015628712176083,True
+core_monitors,New York,2023,episode_vs_heat_only,3.4044477866719753,True
+core_monitors,Philadelphia,2023,episode_vs_reference,2.185334073611662,True
+core_monitors,Philadelphia,2023,heat_only_vs_reference,0.9360095676342771,True
+core_monitors,Philadelphia,2023,wind_only_vs_reference,1.9576779205876775,True
+core_monitors,Philadelphia,2023,other_compound_vs_reference,1.8070091563649815,True
+core_monitors,Philadelphia,2023,episode_vs_wind_only,0.22765615302398468,True
+core_monitors,Philadelphia,2023,episode_vs_heat_only,1.249324505977385,True
+core_monitors,Phoenix,2023,episode_vs_reference,3.2906266609170585,True
+core_monitors,Phoenix,2023,heat_only_vs_reference,-0.07168477279696162,True
+core_monitors,Phoenix,2023,wind_only_vs_reference,3.0944929347969334,True
+core_monitors,Phoenix,2023,other_compound_vs_reference,2.229652616071483,True
+core_monitors,Phoenix,2023,episode_vs_wind_only,0.19613372612012503,True
+core_monitors,Phoenix,2023,episode_vs_heat_only,3.3623114337140203,True
+core_monitors,San Diego,2023,episode_vs_reference,2.109774261550441,True
+core_monitors,San Diego,2023,heat_only_vs_reference,0.6599764767193936,True
+core_monitors,San Diego,2023,wind_only_vs_reference,1.18157539052312,True
+core_monitors,San Diego,2023,other_compound_vs_reference,2.0528522628409727,True
+core_monitors,San Diego,2023,episode_vs_wind_only,0.928198871027321,True
+core_monitors,San Diego,2023,episode_vs_heat_only,1.4497977848310475,True
+core_monitors,Seattle,2023,episode_vs_reference,7.689675340873857,True
+core_monitors,Seattle,2023,heat_only_vs_reference,3.3438597065908118,True
+core_monitors,Seattle,2023,wind_only_vs_reference,3.742771987175207,True
+core_monitors,Seattle,2023,other_compound_vs_reference,8.503808496077628,True
+core_monitors,Seattle,2023,episode_vs_wind_only,3.94690335369865,True
+core_monitors,Seattle,2023,episode_vs_heat_only,4.345815634283046,True
+core_monitors,Atlanta,2024,episode_vs_reference,2.3297802797247082,True
+core_monitors,Atlanta,2024,heat_only_vs_reference,0.058786465931756904,True
+core_monitors,Atlanta,2024,wind_only_vs_reference,1.8844235821254283,True
+core_monitors,Atlanta,2024,other_compound_vs_reference,1.0783215316594053,True
+core_monitors,Atlanta,2024,episode_vs_wind_only,0.44535669759928,True
+core_monitors,Atlanta,2024,episode_vs_heat_only,2.2709938137929515,True
+core_monitors,Chicago,2024,episode_vs_reference,4.483349515113831,True
+core_monitors,Chicago,2024,heat_only_vs_reference,0.48146134754189607,True
+core_monitors,Chicago,2024,wind_only_vs_reference,4.620609574347195,True
+core_monitors,Chicago,2024,other_compound_vs_reference,4.936823519800933,True
+core_monitors,Chicago,2024,episode_vs_wind_only,-0.13726005923336349,True
+core_monitors,Chicago,2024,episode_vs_heat_only,4.001888167571935,True
+core_monitors,Dallas,2024,episode_vs_reference,3.020197338465701,True
+core_monitors,Dallas,2024,heat_only_vs_reference,-0.9072161619937087,True
+core_monitors,Dallas,2024,wind_only_vs_reference,3.126739627718785,True
+core_monitors,Dallas,2024,other_compound_vs_reference,1.3980553025966567,True
+core_monitors,Dallas,2024,episode_vs_wind_only,-0.10654228925308429,True
+core_monitors,Dallas,2024,episode_vs_heat_only,3.9274135004594095,True
+core_monitors,Denver,2024,episode_vs_reference,1.83190179002748,True
+core_monitors,Denver,2024,heat_only_vs_reference,0.13062320280535472,True
+core_monitors,Denver,2024,wind_only_vs_reference,1.3568322794304883,True
+core_monitors,Denver,2024,other_compound_vs_reference,0.8307548385294217,True
+core_monitors,Denver,2024,episode_vs_wind_only,0.47506951059699176,True
+core_monitors,Denver,2024,episode_vs_heat_only,1.7012785872221254,True
+core_monitors,Houston,2024,episode_vs_reference,2.0539468673921175,True
+core_monitors,Houston,2024,heat_only_vs_reference,-1.1769675650849858,True
+core_monitors,Houston,2024,wind_only_vs_reference,3.496703926168009,True
+core_monitors,Houston,2024,other_compound_vs_reference,1.5045517593038653,True
+core_monitors,Houston,2024,episode_vs_wind_only,-1.4427570587758916,True
+core_monitors,Houston,2024,episode_vs_heat_only,3.2309144324771033,True
+core_monitors,Los Angeles,2024,episode_vs_reference,3.2860970026767675,True
+core_monitors,Los Angeles,2024,heat_only_vs_reference,1.101421059313206,True
+core_monitors,Los Angeles,2024,wind_only_vs_reference,2.329439494433571,True
+core_monitors,Los Angeles,2024,other_compound_vs_reference,3.2252363123267638,True
+core_monitors,Los Angeles,2024,episode_vs_wind_only,0.9566575082431967,True
+core_monitors,Los Angeles,2024,episode_vs_heat_only,2.1846759433635614,True
+core_monitors,New York,2024,episode_vs_reference,4.309751350283021,True
+core_monitors,New York,2024,heat_only_vs_reference,1.1874298395230336,True
+core_monitors,New York,2024,wind_only_vs_reference,4.157593673821575,True
+core_monitors,New York,2024,other_compound_vs_reference,3.8750541922985198,True
+core_monitors,New York,2024,episode_vs_wind_only,0.15215767646144585,True
+core_monitors,New York,2024,episode_vs_heat_only,3.122321510759987,True
+core_monitors,Philadelphia,2024,episode_vs_reference,1.9522998630509103,True
+core_monitors,Philadelphia,2024,heat_only_vs_reference,0.819003348701423,True
+core_monitors,Philadelphia,2024,wind_only_vs_reference,1.7641795557621773,True
+core_monitors,Philadelphia,2024,other_compound_vs_reference,1.6387192249588594,True
+core_monitors,Philadelphia,2024,episode_vs_wind_only,0.18812030728873297,True
+core_monitors,Philadelphia,2024,episode_vs_heat_only,1.1332965143494873,True
+core_monitors,Phoenix,2024,episode_vs_reference,3.8875134688481685,True
+core_monitors,Phoenix,2024,heat_only_vs_reference,-0.0401409798973793,True
+core_monitors,Phoenix,2024,wind_only_vs_reference,3.1267039628897857,True
+core_monitors,Phoenix,2024,other_compound_vs_reference,2.171728413290001,True
+core_monitors,Phoenix,2024,episode_vs_wind_only,0.7608095059583828,True
+core_monitors,Phoenix,2024,episode_vs_heat_only,3.927654448745548,True
+core_monitors,San Diego,2024,episode_vs_reference,2.456572703012708,True
+core_monitors,San Diego,2024,heat_only_vs_reference,0.9481174962524386,True
+core_monitors,San Diego,2024,wind_only_vs_reference,1.1101785400925364,True
+core_monitors,San Diego,2024,other_compound_vs_reference,2.263243121600409,True
+core_monitors,San Diego,2024,episode_vs_wind_only,1.3463941629201717,True
+core_monitors,San Diego,2024,episode_vs_heat_only,1.5084552067602695,True
+core_monitors,Seattle,2024,episode_vs_reference,6.242611728416974,True
+core_monitors,Seattle,2024,heat_only_vs_reference,3.6140796707080285,True
+core_monitors,Seattle,2024,wind_only_vs_reference,3.7955353583778133,True
+core_monitors,Seattle,2024,other_compound_vs_reference,7.431944410227622,True
+core_monitors,Seattle,2024,episode_vs_wind_only,2.4470763700391607,True
+core_monitors,Seattle,2024,episode_vs_heat_only,2.6285320577089455,True

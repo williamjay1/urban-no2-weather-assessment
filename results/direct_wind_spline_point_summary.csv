@@ -1,0 +1,2 @@
+model,contrast,estimate_ppb,status,cross_city_summary_lower,cross_city_summary_upper,cross_city_summary_note,n_cities,n_estimable_cities,missing_cities,uncertainty_status,n_station_days,n_city_days,n_strata,n_episode_station_days,n_episode_city_days,n_episodes
+direct_wind_spline,episode_vs_wind_only,,unavailable_all_11_city_target,,,"Cross-city t summary of dispersion, df=10 under approximate independent-city conditions; not guaranteed 95% coverage of the fixed heterogeneous 11-city target.",11,10,Denver,point_stage_year_diagnostics_pending,3825,738,1464,1682,322,149

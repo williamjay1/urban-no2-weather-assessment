@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "models": 20,
+  "pooled_contrasts": 98,
+  "city_contrasts": 1078,
+  "scheme_contrast_diagnostics_checked": 294,
+  "saved_replicate_contrast_values_checked": 1470000,
+  "fixed_city_sync_reconstruction_max_absolute_error": 0.0,
+  "all_point_stage_estimates_match": true,
+  "all_unavailable_points_preserved": true,
+  "all_attempts_including_failures_accounted": true,
+  "legacy_helper_unchanged": true,
+  "no_available_city_pooled_values_created": true,
+  "no_model_or_sample_changes": true,
+  "audit_script_sha256": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f",
+  "executed_analysis_script_sha256": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+  "review_note": "Sparse direct/persistent models describe support limits, not general robustness confirmation."
+}

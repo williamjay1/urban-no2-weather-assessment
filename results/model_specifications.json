@@ -1,0 +1,116 @@
+[
+  {
+    "model": "calendar_only",
+    "definition": "p80_p30_min2_sep7",
+    "adjusted": false
+  },
+  {
+    "model": "weather_adjusted",
+    "definition": "p80_p30_min2_sep7",
+    "adjusted": true
+  },
+  {
+    "model": "direct_episode_neither",
+    "definition": "p80_p30_min2_sep7",
+    "comparator": "neither"
+  },
+  {
+    "model": "direct_episode_wind",
+    "definition": "p80_p30_min2_sep7",
+    "comparator": "wind_only"
+  },
+  {
+    "model": "persistent_wind_comparator",
+    "definition": "p80_p30_min2_sep7",
+    "comparator": "wind_only",
+    "persistent": true
+  },
+  {
+    "model": "direct_wind_spline",
+    "definition": "p80_p30_min2_sep7",
+    "comparator": "wind_only",
+    "wind_adjust": true
+  },
+  {
+    "model": "four_weather_regimes",
+    "definition": "p80_p30_min2_sep7",
+    "label": "regime_factorial"
+  },
+  {
+    "model": "core_monitors",
+    "definition": "p80_p30_min2_sep7",
+    "core": true
+  },
+  {
+    "model": "equal_station_weights",
+    "definition": "p80_p30_min2_sep7",
+    "equal_site": true
+  },
+  {
+    "model": "exclude_2020",
+    "definition": "p80_p30_min2_sep7",
+    "years": [
+      2019,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "model": "period_2019_2022",
+    "definition": "p80_p30_min2_sep7",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "model": "period_2023_2024",
+    "definition": "p80_p30_min2_sep7",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "model": "extension_2025",
+    "definition": "p80_p30_min2_sep7",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "model": "phase_calendar_secondary",
+    "definition": "p80_p30_min2_sep7",
+    "adjusted": false,
+    "label": "phase"
+  },
+  {
+    "model": "phase_adjusted_secondary",
+    "definition": "p80_p30_min2_sep7",
+    "label": "phase"
+  },
+  {
+    "model": "city_median",
+    "definition": "p80_p30_min2_sep7"
+  },
+  {
+    "model": "p85_p30_min2_sep7",
+    "definition": "p85_p30_min2_sep7"
+  },
+  {
+    "model": "p80_p20_min2_sep7",
+    "definition": "p80_p20_min2_sep7"
+  },
+  {
+    "model": "p80_p30_min3_sep7",
+    "definition": "p80_p30_min3_sep7"
+  },
+  {
+    "model": "p80_p30_min2_allruns",
+    "definition": "p80_p30_min2_allruns"
+  }
+]

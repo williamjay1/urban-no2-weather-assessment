@@ -1,45 +1,40 @@
-# Data dictionary
+# Derived inputs and source fields
 
-Dates are local calendar dates in ISO 8601 format. Missing fields in CSV output represent unavailable observations or nonestimable quantities, never zero. NO2 units are ppb.
+## Weather city-days
 
-## station_daily.csv
+`data/weather/weather_daily.csv` has one row per `city` and `date`: 11 cities × 2,557 dates, 2019–2025. `date` is the EPA AQS fixed local standard date, not UTC and not a daylight-saving civil date.
+
+| Field | Unit | Construction |
+|---|---|---|
+| temperature_2m_max | °C | Maximum of 24 instantaneous hourly temperatures |
+| wind_speed_10m_mean | km/h | Scalar mean of 24 instantaneous hourly wind speeds |
+| relative_humidity_2m_mean | % | Mean of 24 instantaneous relative humidities |
+| wind_direction_10m_dominant | degrees | Speed-weighted vector/circular direction, atan2(mean(speed × sin(direction)), mean(speed × cos(direction))) modulo 360; not a modal wind direction |
+| precipitation_sum | mm | Sum of the 24 preceding-hour intervals whose starts fall in the local date |
+| shortwave_radiation_sum | MJ/m² | Sum of the same 24 hourly mean radiation values in W/m², multiplied by 0.0036 |
+
+Hourly JSON `time` values are UTC. Retained hourly fields are `temperature_2m`, `wind_speed_10m`, `relative_humidity_2m`, `precipitation`, `shortwave_radiation` and `wind_direction_10m`; their exact original units are checked against the source metadata. The hourly range includes one day of padding at both ends. Source response hashes refer to the unchanged complete JSON bytes.
+
+## NO2 station-days
+
+`data/stations/station_daily.csv` has one row per `city`, `station_id`, `date` and 138,303 rows across all months in 2019–2025. It is not the restricted warm-season model panel.
 
 | Field | Meaning |
 |---|---|
-| city | Fixed named urban domain |
-| station_id | Zero-padded AQS state-county-site identifier; retain as text |
-| date | AQS Date Local |
-| observation_count | Sum of valid hourly observation counts across retained occurrence codes |
-| n_pocs | Number of distinct collocated parameter occurrence codes |
-| min_observation_percent | Lowest reported observation percentage among retained codes |
-| latitude, longitude | Mean reported instrument coordinates within the site-date |
-| distance_km | Great-circle distance from the fixed centre; Earth radius 6371.0088 km |
-| no2_ppb | Observation-count-weighted mean across instruments at the site-date |
+| city | Fixed city assignment using the listed centre and 25 km radius |
+| station_id | Zero-padded state–county–site identifier; preserve it as text |
+| date | AQS Date Local, local standard date |
+| observation_count | Sum of weights used across retained collocated instruments; each instrument uses its observation count, with the documented minimum/fallback weight of one |
+| n_pocs | Number of distinct retained parameter occurrence codes (instruments), not number of geographic sites |
+| min_observation_percent | Minimum daily observation coverage percentage among the retained instruments |
+| latitude, longitude | Aggregated retained site coordinates in degrees |
+| distance_km | Haversine distance to the fixed city centre |
+| no2_ppb | Observation-count-weighted mean of retained instrument daily NO2 means, parts per billion |
 
-The source pollutant-standard field is a row-selection criterion, not a claim that the outcome is an hourly maximum. The outcome is the daily arithmetic mean from the selected one-hour measurement record.
+The daily input is unchanged from the prior audited station reconstruction; it is not interpolated and the weather rewrite does not alter NO2 dates or values. Native national AQS files are outside the compact package; their uncompressed CSV hashes and original ZIP download URLs are separately documented.
 
-## weather_daily.csv
+## Metadata and model outputs
 
-| Field | Unit / meaning |
-|---|---|
-| city, date | Join keys; one row per city-date |
-| temperature_2m_max | °C, daily maximum |
-| wind_speed_10m_mean | km/h, daily mean |
-| relative_humidity_2m_mean | %, daily mean |
-| precipitation_sum | mm per day |
-| shortwave_radiation_sum | MJ/m² per day |
-| wind_direction_10m_dominant | degrees, daily dominant direction |
+EPA `GMT Offset` supplies the fixed city standard offset after checking every included site and within-city agreement. Site and monitor metadata are snapshots; land use, setting, operating dates and agency fields are not assumed to provide unchanged annual historical classifications.
 
-See original responses for the returned grid point, elevation, timezone and metadata. The query used explicit ERA5 and timezone=auto. Responses were checked against the previously frozen exposure series; every daily maximum temperature and mean wind value agreed.
-
-## Model and support outputs
-
-`episode_manifest.csv`: weather-defined sustained episodes, with city, start/end dates, duration and year. `sample_support_by_city.csv` and `episode_calendar_support.csv`: direct calendar comparison availability, not newly matched pairs. `thresholds.csv`: warm-season 2019–2022 quantiles. `spline_specifications.json`: weather-only knots, boundaries and bases. `analysis_audit.json`: input hashes, tests, counts and uncertainty roles.
-
-`model_summary.csv`: one row per model and contrast. `estimate_ppb` is an equal-city mean. `ci_lower` and `ci_upper` are the approximate cross-city t limits described in `ci_method`. `bootstrap_conditional_lower/upper` and `synchronized_conditional_lower/upper` are diagnostic quantiles conditioned on rank-based estimability; accompanying valid/attempted counts must be used. An unavailable all-city contrast is kept as missing, not calculated from an arbitrary subset of cities. `leave_city_min/max` describe sensitivity point estimates rather than interval limits. Sample count fields refer to model observations. In the all-consecutive sensitivity, `episodes` (pooled file) and `n_episodes` (city file) preserve the original retained-event identifier count; use the exposure-day category counts or the weather reconstruction to identify the broadened run definition.
-
-`*_city_estimates.csv`: city-specific coefficients and contrasts, design rank/condition, category support, and delete-one-year jackknife limits when at least three years and all leave-year fits identify the contrast. A 2025 city has no interannual jackknife interval. Missing intervals are intentional, not collapsed to a zero-width bar.
-
-## Coverage audit
-
-`station_manifest.csv` lists site coordinates, first/last dates and counts across all months. `station_year_coverage.csv` counts qualifying warm-season days; completeness is valid days divided by 214, and the core criterion is at least 172 dates. `aqs_filter_flow.csv` records national-to-urban selection and deduplication counts. `source_manifest.csv` hashes the original unzipped national CSVs. The historical audit describes the previous matched-window analysis only; it is not the current primary model.
+`results/model_summary.csv` contains the 20-model, 98-contrast matrix, estimable-city counts, missing-city names, cross-city summaries, temporal diagnostics and all attempted/valid/failed bootstrap counts. Blank unavailable values are not zeros. `*_bootstrap_draws.npz` retains attempted draws including NaNs. `*_sufficient_statistics.npz` records model blocks used by the saved-result audit. `*_selected_station_days.csv` and `*_selected_strata.csv`, where generated, document restricted comparator samples. Consult the model specifications, thresholds, event manifests and support tables together; weather events, observed events and estimable contrasts are different denominators.

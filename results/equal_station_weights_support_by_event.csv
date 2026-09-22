@@ -1,0 +1,190 @@
+model,city,year,episode_id,observed_station_days,selected_station_days,observed_city_days,selected_city_days,any_selected_site_day,every_observed_site_day_selected,every_observed_city_day_has_a_selected_site
+equal_station_weights,Atlanta,2019,atlanta_2019-07-05,2,2,2,2,True,True,True
+equal_station_weights,Atlanta,2019,atlanta_2019-07-14,4,4,2,2,True,True,True
+equal_station_weights,Atlanta,2019,atlanta_2019-07-27,18,17,6,6,True,False,True
+equal_station_weights,Atlanta,2019,atlanta_2019-08-10,15,15,5,5,True,True,True
+equal_station_weights,Atlanta,2019,atlanta_2019-08-17,9,9,3,3,True,True,True
+equal_station_weights,Atlanta,2019,atlanta_2019-09-08,15,15,5,5,True,True,True
+equal_station_weights,Atlanta,2019,atlanta_2019-09-16,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2019,atlanta_2019-09-29,15,15,5,5,True,True,True
+equal_station_weights,Atlanta,2020,atlanta_2020-07-14,30,30,10,10,True,True,True
+equal_station_weights,Atlanta,2020,atlanta_2020-07-26,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2020,atlanta_2020-08-05,15,15,5,5,True,True,True
+equal_station_weights,Atlanta,2020,atlanta_2020-08-12,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2021,atlanta_2021-07-26,12,12,4,4,True,True,True
+equal_station_weights,Atlanta,2021,atlanta_2021-08-09,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2021,atlanta_2021-08-23,9,9,3,3,True,True,True
+equal_station_weights,Atlanta,2022,atlanta_2022-07-02,20,20,7,7,True,True,True
+equal_station_weights,Atlanta,2022,atlanta_2022-07-23,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2023,atlanta_2023-06-29,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2023,atlanta_2023-07-25,15,15,5,5,True,True,True
+equal_station_weights,Atlanta,2023,atlanta_2023-08-12,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2023,atlanta_2023-08-21,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2024,atlanta_2024-06-14,5,5,2,2,True,True,True
+equal_station_weights,Atlanta,2024,atlanta_2024-06-21,6,6,2,2,True,True,True
+equal_station_weights,Atlanta,2024,atlanta_2024-07-04,12,12,4,4,True,True,True
+equal_station_weights,Atlanta,2024,atlanta_2024-07-12,12,12,4,4,True,True,True
+equal_station_weights,Atlanta,2024,atlanta_2024-08-27,21,21,7,7,True,True,True
+equal_station_weights,Atlanta,2024,atlanta_2024-09-20,6,6,2,2,True,True,True
+equal_station_weights,Chicago,2019,chicago_2019-07-01,6,6,2,2,True,True,True
+equal_station_weights,Chicago,2020,chicago_2020-06-29,8,8,2,2,True,True,True
+equal_station_weights,Chicago,2020,chicago_2020-08-14,6,6,2,2,True,True,True
+equal_station_weights,Chicago,2021,chicago_2021-06-11,8,8,2,2,True,True,True
+equal_station_weights,Chicago,2021,chicago_2021-07-25,13,13,4,4,True,True,True
+equal_station_weights,Chicago,2021,chicago_2021-08-18,9,9,3,3,True,True,True
+equal_station_weights,Chicago,2021,chicago_2021-08-25,6,6,2,2,True,True,True
+equal_station_weights,Chicago,2022,chicago_2022-08-23,6,6,2,2,True,True,True
+equal_station_weights,Chicago,2023,chicago_2023-07-04,2,2,2,2,True,True,True
+equal_station_weights,Chicago,2023,chicago_2023-07-24,8,6,2,2,True,False,True
+equal_station_weights,Chicago,2024,chicago_2024-07-30,12,12,3,3,True,True,True
+equal_station_weights,Chicago,2024,chicago_2024-08-13,8,8,2,2,True,True,True
+equal_station_weights,Chicago,2024,chicago_2024-08-30,8,8,2,2,True,True,True
+equal_station_weights,Chicago,2024,chicago_2024-09-19,10,10,3,3,True,True,True
+equal_station_weights,Dallas,2019,dallas_2019-07-31,8,8,2,2,True,True,True
+equal_station_weights,Dallas,2019,dallas_2019-09-02,18,18,5,5,True,True,True
+equal_station_weights,Dallas,2019,dallas_2019-09-13,16,16,4,4,True,True,True
+equal_station_weights,Dallas,2021,dallas_2021-06-13,8,8,2,2,True,True,True
+equal_station_weights,Dallas,2021,dallas_2021-07-26,20,20,6,6,True,True,True
+equal_station_weights,Dallas,2021,dallas_2021-08-25,7,6,2,2,True,False,True
+equal_station_weights,Dallas,2022,dallas_2022-06-17,8,8,2,2,True,True,True
+equal_station_weights,Dallas,2022,dallas_2022-08-10,4,4,2,2,True,True,True
+equal_station_weights,Dallas,2022,dallas_2022-09-20,9,9,3,3,True,True,True
+equal_station_weights,Dallas,2023,dallas_2023-07-29,9,9,3,3,True,True,True
+equal_station_weights,Dallas,2023,dallas_2023-08-23,16,16,4,4,True,True,True
+equal_station_weights,Dallas,2024,dallas_2024-07-10,8,8,2,2,True,True,True
+equal_station_weights,Dallas,2024,dallas_2024-08-02,21,21,7,7,True,True,True
+equal_station_weights,Dallas,2024,dallas_2024-08-25,5,5,2,2,True,True,True
+equal_station_weights,Denver,2019,denver_2019-08-18,10,10,2,2,True,True,True
+equal_station_weights,Denver,2021,denver_2021-08-23,10,10,2,2,True,True,True
+equal_station_weights,Denver,2022,denver_2022-08-08,8,8,2,2,True,True,True
+equal_station_weights,Denver,2024,denver_2024-07-28,9,9,2,2,True,True,True
+equal_station_weights,Houston,2019,houston_2019-07-06,18,18,2,2,True,True,True
+equal_station_weights,Houston,2019,houston_2019-08-02,18,18,2,2,True,True,True
+equal_station_weights,Houston,2019,houston_2019-08-14,22,22,3,3,True,True,True
+equal_station_weights,Houston,2019,houston_2019-09-01,16,16,2,2,True,True,True
+equal_station_weights,Houston,2020,houston_2020-08-03,23,22,3,3,True,False,True
+equal_station_weights,Houston,2020,houston_2020-08-20,18,18,2,2,True,True,True
+equal_station_weights,Houston,2021,houston_2021-06-12,48,48,5,5,True,True,True
+equal_station_weights,Houston,2021,houston_2021-07-25,17,17,2,2,True,True,True
+equal_station_weights,Houston,2021,houston_2021-08-23,17,17,2,2,True,True,True
+equal_station_weights,Houston,2022,houston_2022-06-18,30,30,3,3,True,True,True
+equal_station_weights,Houston,2022,houston_2022-06-26,20,20,2,2,True,True,True
+equal_station_weights,Houston,2022,houston_2022-08-10,18,18,2,2,True,True,True
+equal_station_weights,Houston,2022,houston_2022-09-22,18,18,2,2,True,True,True
+equal_station_weights,Houston,2023,houston_2023-07-02,14,14,2,2,True,True,True
+equal_station_weights,Houston,2023,houston_2023-07-23,15,15,3,3,True,True,True
+equal_station_weights,Houston,2023,houston_2023-08-31,22,22,3,3,True,True,True
+equal_station_weights,Houston,2023,houston_2023-09-11,23,23,3,3,True,True,True
+equal_station_weights,Houston,2024,houston_2024-06-06,18,18,2,2,True,True,True
+equal_station_weights,Houston,2024,houston_2024-06-30,25,25,3,3,True,True,True
+equal_station_weights,Houston,2024,houston_2024-07-09,3,3,2,2,True,True,True
+equal_station_weights,Houston,2024,houston_2024-08-01,218,218,23,23,True,True,True
+equal_station_weights,Houston,2024,houston_2024-09-18,29,29,3,3,True,True,True
+equal_station_weights,Los Angeles,2019,los_angeles_2019-06-09,14,14,2,2,True,True,True
+equal_station_weights,Los Angeles,2019,los_angeles_2019-08-25,14,14,2,2,True,True,True
+equal_station_weights,Los Angeles,2019,los_angeles_2019-09-12,21,21,3,3,True,True,True
+equal_station_weights,Los Angeles,2020,los_angeles_2020-07-30,24,24,3,3,True,True,True
+equal_station_weights,Los Angeles,2020,los_angeles_2020-08-12,23,23,3,3,True,True,True
+equal_station_weights,Los Angeles,2020,los_angeles_2020-08-26,24,24,3,3,True,True,True
+equal_station_weights,Los Angeles,2020,los_angeles_2020-09-04,16,16,2,2,True,True,True
+equal_station_weights,Los Angeles,2020,los_angeles_2020-09-14,47,47,6,6,True,True,True
+equal_station_weights,Los Angeles,2020,los_angeles_2020-09-28,16,16,2,2,True,True,True
+equal_station_weights,Los Angeles,2020,los_angeles_2020-10-12,40,40,5,5,True,True,True
+equal_station_weights,Los Angeles,2021,los_angeles_2021-08-26,31,31,4,4,True,True,True
+equal_station_weights,Los Angeles,2021,los_angeles_2021-09-09,39,39,5,5,True,True,True
+equal_station_weights,Los Angeles,2022,los_angeles_2022-05-13,14,14,2,2,True,True,True
+equal_station_weights,Los Angeles,2022,los_angeles_2022-08-13,28,28,4,4,True,True,True
+equal_station_weights,Los Angeles,2022,los_angeles_2022-09-05,21,21,3,3,True,True,True
+equal_station_weights,Los Angeles,2022,los_angeles_2022-09-23,42,42,6,6,True,True,True
+equal_station_weights,Los Angeles,2023,los_angeles_2023-07-24,14,14,2,2,True,True,True
+equal_station_weights,Los Angeles,2023,los_angeles_2023-08-27,28,28,4,4,True,True,True
+equal_station_weights,Los Angeles,2023,los_angeles_2023-09-08,14,14,2,2,True,True,True
+equal_station_weights,Los Angeles,2023,los_angeles_2023-10-04,34,34,5,5,True,True,True
+equal_station_weights,Los Angeles,2024,los_angeles_2024-08-02,14,14,2,2,True,True,True
+equal_station_weights,Los Angeles,2024,los_angeles_2024-08-19,14,14,2,2,True,True,True
+equal_station_weights,Los Angeles,2024,los_angeles_2024-09-07,10,10,2,2,True,True,True
+equal_station_weights,Los Angeles,2024,los_angeles_2024-10-01,14,14,2,2,True,True,True
+equal_station_weights,New York,2019,new_york_2019-06-26,26,26,3,3,True,True,True
+equal_station_weights,New York,2019,new_york_2019-07-03,17,17,2,2,True,True,True
+equal_station_weights,New York,2019,new_york_2019-07-15,18,18,2,2,True,True,True
+equal_station_weights,New York,2019,new_york_2019-07-26,18,18,2,2,True,True,True
+equal_station_weights,New York,2019,new_york_2019-08-03,18,18,2,2,True,True,True
+equal_station_weights,New York,2019,new_york_2019-08-18,26,26,3,3,True,True,True
+equal_station_weights,New York,2020,new_york_2020-07-02,18,18,2,2,True,True,True
+equal_station_weights,New York,2020,new_york_2020-07-21,18,18,2,2,True,True,True
+equal_station_weights,New York,2020,new_york_2020-07-29,18,18,2,2,True,True,True
+equal_station_weights,New York,2021,new_york_2021-06-08,17,17,2,2,True,True,True
+equal_station_weights,New York,2021,new_york_2021-07-14,30,30,4,4,True,True,True
+equal_station_weights,New York,2021,new_york_2021-07-26,18,16,2,2,True,False,True
+equal_station_weights,New York,2021,new_york_2021-08-25,27,27,3,3,True,True,True
+equal_station_weights,New York,2022,new_york_2022-07-13,17,17,2,2,True,True,True
+equal_station_weights,New York,2022,new_york_2022-09-04,18,18,2,2,True,True,True
+equal_station_weights,New York,2023,new_york_2023-07-05,28,28,4,4,True,True,True
+equal_station_weights,New York,2023,new_york_2023-07-14,16,16,2,2,True,True,True
+equal_station_weights,New York,2023,new_york_2023-09-04,48,48,6,6,True,True,True
+equal_station_weights,New York,2024,new_york_2024-07-05,32,32,4,4,True,True,True
+equal_station_weights,New York,2024,new_york_2024-07-13,16,16,2,2,True,True,True
+equal_station_weights,New York,2024,new_york_2024-08-01,24,24,3,3,True,True,True
+equal_station_weights,Philadelphia,2019,philadelphia_2019-06-27,6,6,2,2,True,True,True
+equal_station_weights,Philadelphia,2019,philadelphia_2019-08-03,8,8,2,2,True,True,True
+equal_station_weights,Philadelphia,2019,philadelphia_2019-08-17,16,15,4,4,True,False,True
+equal_station_weights,Philadelphia,2020,philadelphia_2020-07-21,8,8,2,2,True,True,True
+equal_station_weights,Philadelphia,2021,philadelphia_2021-06-08,9,9,2,2,True,True,True
+equal_station_weights,Philadelphia,2021,philadelphia_2021-07-14,20,20,4,4,True,True,True
+equal_station_weights,Philadelphia,2021,philadelphia_2021-07-26,9,9,2,2,True,True,True
+equal_station_weights,Philadelphia,2021,philadelphia_2021-08-24,20,20,4,4,True,True,True
+equal_station_weights,Philadelphia,2022,philadelphia_2022-08-10,10,10,2,2,True,True,True
+equal_station_weights,Philadelphia,2023,philadelphia_2023-06-01,10,10,2,2,True,True,True
+equal_station_weights,Philadelphia,2023,philadelphia_2023-07-05,14,14,3,3,True,True,True
+equal_station_weights,Philadelphia,2023,philadelphia_2023-09-07,8,8,2,2,True,True,True
+equal_station_weights,Philadelphia,2024,philadelphia_2024-07-07,8,8,2,2,True,True,True
+equal_station_weights,Phoenix,2020,phoenix_2020-09-16,8,8,2,2,True,True,True
+equal_station_weights,Phoenix,2021,phoenix_2021-07-07,10,10,2,2,True,True,True
+equal_station_weights,Phoenix,2021,phoenix_2021-08-04,10,10,2,2,True,True,True
+equal_station_weights,Phoenix,2021,phoenix_2021-08-25,10,10,2,2,True,True,True
+equal_station_weights,Phoenix,2021,phoenix_2021-09-12,10,10,2,2,True,True,True
+equal_station_weights,Phoenix,2023,phoenix_2023-07-24,8,8,2,2,True,True,True
+equal_station_weights,Phoenix,2024,phoenix_2024-08-02,8,8,2,2,True,True,True
+equal_station_weights,Phoenix,2024,phoenix_2024-09-26,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2019,san_diego_2019-08-14,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2019,san_diego_2019-08-25,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2019,san_diego_2019-09-02,16,16,4,4,True,True,True
+equal_station_weights,San Diego,2019,san_diego_2019-09-13,12,12,3,3,True,True,True
+equal_station_weights,San Diego,2019,san_diego_2019-10-06,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2020,san_diego_2020-05-06,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2020,san_diego_2020-07-05,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2020,san_diego_2020-08-17,20,20,5,5,True,True,True
+equal_station_weights,San Diego,2020,san_diego_2020-09-04,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2020,san_diego_2020-09-22,10,10,3,3,True,True,True
+equal_station_weights,San Diego,2020,san_diego_2020-10-01,23,23,6,6,True,True,True
+equal_station_weights,San Diego,2020,san_diego_2020-10-14,12,12,3,3,True,True,True
+equal_station_weights,San Diego,2021,san_diego_2021-08-27,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2021,san_diego_2021-10-01,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2022,san_diego_2022-06-26,10,10,3,3,True,True,True
+equal_station_weights,San Diego,2022,san_diego_2022-08-09,7,7,2,2,True,True,True
+equal_station_weights,San Diego,2022,san_diego_2022-09-02,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2022,san_diego_2022-09-27,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2023,san_diego_2023-07-24,16,16,4,4,True,True,True
+equal_station_weights,San Diego,2023,san_diego_2023-08-28,12,12,3,3,True,True,True
+equal_station_weights,San Diego,2023,san_diego_2023-09-10,8,8,2,2,True,True,True
+equal_station_weights,San Diego,2023,san_diego_2023-10-04,16,16,4,4,True,True,True
+equal_station_weights,San Diego,2024,san_diego_2024-06-22,10,10,2,2,True,True,True
+equal_station_weights,San Diego,2024,san_diego_2024-08-13,15,15,3,3,True,True,True
+equal_station_weights,San Diego,2024,san_diego_2024-09-05,15,15,3,3,True,True,True
+equal_station_weights,San Diego,2024,san_diego_2024-10-01,9,9,2,2,True,True,True
+equal_station_weights,Seattle,2019,seattle_2019-08-05,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2019,seattle_2019-08-12,8,8,4,4,True,True,True
+equal_station_weights,Seattle,2019,seattle_2019-09-02,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2020,seattle_2020-08-27,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2021,seattle_2021-07-10,8,7,4,4,True,False,True
+equal_station_weights,Seattle,2021,seattle_2021-07-18,3,3,2,2,True,True,True
+equal_station_weights,Seattle,2021,seattle_2021-07-27,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2022,seattle_2022-07-29,6,6,3,3,True,True,True
+equal_station_weights,Seattle,2022,seattle_2022-08-14,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2023,seattle_2023-06-28,6,6,3,3,True,True,True
+equal_station_weights,Seattle,2023,seattle_2023-07-12,8,8,4,4,True,True,True
+equal_station_weights,Seattle,2023,seattle_2023-07-27,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2023,seattle_2023-08-06,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2023,seattle_2023-09-15,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2024,seattle_2024-07-11,4,4,2,2,True,True,True
+equal_station_weights,Seattle,2024,seattle_2024-08-02,4,4,2,2,True,True,True

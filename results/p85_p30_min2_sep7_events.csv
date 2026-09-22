@@ -1,0 +1,157 @@
+definition,city,year,episode_id,start_date,end_date,duration_days
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-07-05,2019-07-05,2019-07-06,2
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-07-14,2019-07-14,2019-07-15,2
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-07-29,2019-07-29,2019-07-30,2
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-08-10,2019-08-10,2019-08-14,5
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-08-17,2019-08-17,2019-08-19,3
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-09-08,2019-09-08,2019-09-12,5
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-09-16,2019-09-16,2019-09-17,2
+p85_p30_min2_sep7,Atlanta,2019,atlanta_2019-09-29,2019-09-29,2019-10-03,5
+p85_p30_min2_sep7,Atlanta,2020,atlanta_2020-07-17,2020-07-17,2020-07-21,5
+p85_p30_min2_sep7,Atlanta,2020,atlanta_2020-08-08,2020-08-08,2020-08-09,2
+p85_p30_min2_sep7,Atlanta,2021,atlanta_2021-07-28,2021-07-28,2021-07-29,2
+p85_p30_min2_sep7,Atlanta,2021,atlanta_2021-08-12,2021-08-12,2021-08-14,3
+p85_p30_min2_sep7,Atlanta,2022,atlanta_2022-07-04,2022-07-04,2022-07-08,5
+p85_p30_min2_sep7,Atlanta,2023,atlanta_2023-06-29,2023-06-29,2023-06-30,2
+p85_p30_min2_sep7,Atlanta,2023,atlanta_2023-07-25,2023-07-25,2023-07-29,5
+p85_p30_min2_sep7,Atlanta,2023,atlanta_2023-08-12,2023-08-12,2023-08-13,2
+p85_p30_min2_sep7,Atlanta,2023,atlanta_2023-08-21,2023-08-21,2023-08-22,2
+p85_p30_min2_sep7,Atlanta,2024,atlanta_2024-06-14,2024-06-14,2024-06-15,2
+p85_p30_min2_sep7,Atlanta,2024,atlanta_2024-06-21,2024-06-21,2024-06-22,2
+p85_p30_min2_sep7,Atlanta,2024,atlanta_2024-07-04,2024-07-04,2024-07-05,2
+p85_p30_min2_sep7,Atlanta,2024,atlanta_2024-07-12,2024-07-12,2024-07-15,4
+p85_p30_min2_sep7,Atlanta,2024,atlanta_2024-08-27,2024-08-27,2024-09-01,6
+p85_p30_min2_sep7,Atlanta,2024,atlanta_2024-09-20,2024-09-20,2024-09-21,2
+p85_p30_min2_sep7,Atlanta,2025,atlanta_2025-06-23,2025-06-23,2025-06-25,3
+p85_p30_min2_sep7,Atlanta,2025,atlanta_2025-07-07,2025-07-07,2025-07-08,2
+p85_p30_min2_sep7,Atlanta,2025,atlanta_2025-07-29,2025-07-29,2025-07-30,2
+p85_p30_min2_sep7,Atlanta,2025,atlanta_2025-08-17,2025-08-17,2025-08-18,2
+p85_p30_min2_sep7,Chicago,2019,chicago_2019-07-04,2019-07-04,2019-07-05,2
+p85_p30_min2_sep7,Chicago,2020,chicago_2020-07-02,2020-07-02,2020-07-03,2
+p85_p30_min2_sep7,Chicago,2021,chicago_2021-07-25,2021-07-25,2021-07-28,4
+p85_p30_min2_sep7,Chicago,2021,chicago_2021-08-25,2021-08-25,2021-08-26,2
+p85_p30_min2_sep7,Chicago,2023,chicago_2023-07-04,2023-07-04,2023-07-05,2
+p85_p30_min2_sep7,Chicago,2023,chicago_2023-07-27,2023-07-27,2023-07-28,2
+p85_p30_min2_sep7,Chicago,2024,chicago_2024-07-30,2024-07-30,2024-08-01,3
+p85_p30_min2_sep7,Chicago,2024,chicago_2024-09-19,2024-09-19,2024-09-21,3
+p85_p30_min2_sep7,Chicago,2025,chicago_2025-06-29,2025-06-29,2025-06-30,2
+p85_p30_min2_sep7,Chicago,2025,chicago_2025-07-27,2025-07-27,2025-07-29,3
+p85_p30_min2_sep7,Chicago,2025,chicago_2025-08-15,2025-08-15,2025-08-16,2
+p85_p30_min2_sep7,Dallas,2019,dallas_2019-09-04,2019-09-04,2019-09-06,3
+p85_p30_min2_sep7,Dallas,2019,dallas_2019-09-14,2019-09-14,2019-09-15,2
+p85_p30_min2_sep7,Dallas,2021,dallas_2021-07-26,2021-07-26,2021-07-27,2
+p85_p30_min2_sep7,Dallas,2022,dallas_2022-06-17,2022-06-17,2022-06-18,2
+p85_p30_min2_sep7,Dallas,2022,dallas_2022-08-10,2022-08-10,2022-08-11,2
+p85_p30_min2_sep7,Dallas,2023,dallas_2023-07-29,2023-07-29,2023-07-31,3
+p85_p30_min2_sep7,Dallas,2023,dallas_2023-08-23,2023-08-23,2023-08-26,4
+p85_p30_min2_sep7,Dallas,2024,dallas_2024-08-02,2024-08-02,2024-08-03,2
+p85_p30_min2_sep7,Dallas,2025,dallas_2025-07-29,2025-07-29,2025-07-31,3
+p85_p30_min2_sep7,Dallas,2025,dallas_2025-08-18,2025-08-18,2025-08-19,2
+p85_p30_min2_sep7,Denver,2019,denver_2019-08-18,2019-08-18,2019-08-19,2
+p85_p30_min2_sep7,Denver,2021,denver_2021-08-23,2021-08-23,2021-08-24,2
+p85_p30_min2_sep7,Denver,2024,denver_2024-07-28,2024-07-28,2024-07-29,2
+p85_p30_min2_sep7,Houston,2019,houston_2019-07-10,2019-07-10,2019-07-11,2
+p85_p30_min2_sep7,Houston,2019,houston_2019-08-14,2019-08-14,2019-08-16,3
+p85_p30_min2_sep7,Houston,2019,houston_2019-09-01,2019-09-01,2019-09-02,2
+p85_p30_min2_sep7,Houston,2020,houston_2020-08-03,2020-08-03,2020-08-05,3
+p85_p30_min2_sep7,Houston,2020,houston_2020-08-20,2020-08-20,2020-08-21,2
+p85_p30_min2_sep7,Houston,2021,houston_2021-06-13,2021-06-13,2021-06-16,4
+p85_p30_min2_sep7,Houston,2022,houston_2022-06-18,2022-06-18,2022-06-20,3
+p85_p30_min2_sep7,Houston,2022,houston_2022-06-26,2022-06-26,2022-06-27,2
+p85_p30_min2_sep7,Houston,2023,houston_2023-07-02,2023-07-02,2023-07-03,2
+p85_p30_min2_sep7,Houston,2023,houston_2023-07-23,2023-07-23,2023-07-25,3
+p85_p30_min2_sep7,Houston,2023,houston_2023-08-31,2023-08-31,2023-09-02,3
+p85_p30_min2_sep7,Houston,2023,houston_2023-09-11,2023-09-11,2023-09-13,3
+p85_p30_min2_sep7,Houston,2024,houston_2024-07-01,2024-07-01,2024-07-02,2
+p85_p30_min2_sep7,Houston,2024,houston_2024-08-02,2024-08-02,2024-08-03,2
+p85_p30_min2_sep7,Houston,2024,houston_2024-08-16,2024-08-16,2024-08-23,8
+p85_p30_min2_sep7,Houston,2025,houston_2025-07-23,2025-07-23,2025-07-24,2
+p85_p30_min2_sep7,Houston,2025,houston_2025-08-17,2025-08-17,2025-08-18,2
+p85_p30_min2_sep7,Los Angeles,2019,los_angeles_2019-09-02,2019-09-02,2019-09-05,4
+p85_p30_min2_sep7,Los Angeles,2019,los_angeles_2019-09-13,2019-09-13,2019-09-14,2
+p85_p30_min2_sep7,Los Angeles,2020,los_angeles_2020-07-31,2020-07-31,2020-08-01,2
+p85_p30_min2_sep7,Los Angeles,2020,los_angeles_2020-08-12,2020-08-12,2020-08-14,3
+p85_p30_min2_sep7,Los Angeles,2020,los_angeles_2020-08-26,2020-08-26,2020-08-28,3
+p85_p30_min2_sep7,Los Angeles,2020,los_angeles_2020-09-04,2020-09-04,2020-09-05,2
+p85_p30_min2_sep7,Los Angeles,2020,los_angeles_2020-09-15,2020-09-15,2020-09-18,4
+p85_p30_min2_sep7,Los Angeles,2020,los_angeles_2020-09-28,2020-09-28,2020-09-29,2
+p85_p30_min2_sep7,Los Angeles,2020,los_angeles_2020-10-12,2020-10-12,2020-10-16,5
+p85_p30_min2_sep7,Los Angeles,2021,los_angeles_2021-08-26,2021-08-26,2021-08-29,4
+p85_p30_min2_sep7,Los Angeles,2021,los_angeles_2021-09-09,2021-09-09,2021-09-12,4
+p85_p30_min2_sep7,Los Angeles,2022,los_angeles_2022-09-05,2022-09-05,2022-09-07,3
+p85_p30_min2_sep7,Los Angeles,2022,los_angeles_2022-09-25,2022-09-25,2022-09-28,4
+p85_p30_min2_sep7,Los Angeles,2023,los_angeles_2023-07-24,2023-07-24,2023-07-25,2
+p85_p30_min2_sep7,Los Angeles,2023,los_angeles_2023-08-27,2023-08-27,2023-08-30,4
+p85_p30_min2_sep7,Los Angeles,2023,los_angeles_2023-09-08,2023-09-08,2023-09-09,2
+p85_p30_min2_sep7,Los Angeles,2023,los_angeles_2023-10-04,2023-10-04,2023-10-07,4
+p85_p30_min2_sep7,Los Angeles,2024,los_angeles_2024-08-02,2024-08-02,2024-08-03,2
+p85_p30_min2_sep7,Los Angeles,2024,los_angeles_2024-08-19,2024-08-19,2024-08-20,2
+p85_p30_min2_sep7,Los Angeles,2024,los_angeles_2024-09-07,2024-09-07,2024-09-08,2
+p85_p30_min2_sep7,Los Angeles,2025,los_angeles_2025-08-20,2025-08-20,2025-08-22,3
+p85_p30_min2_sep7,Los Angeles,2025,los_angeles_2025-08-30,2025-08-30,2025-08-31,2
+p85_p30_min2_sep7,New York,2019,new_york_2019-06-26,2019-06-26,2019-06-28,3
+p85_p30_min2_sep7,New York,2019,new_york_2019-07-09,2019-07-09,2019-07-10,2
+p85_p30_min2_sep7,New York,2019,new_york_2019-08-18,2019-08-18,2019-08-20,3
+p85_p30_min2_sep7,New York,2020,new_york_2020-07-02,2020-07-02,2020-07-03,2
+p85_p30_min2_sep7,New York,2020,new_york_2020-07-21,2020-07-21,2020-07-22,2
+p85_p30_min2_sep7,New York,2020,new_york_2020-07-29,2020-07-29,2020-07-30,2
+p85_p30_min2_sep7,New York,2021,new_york_2021-06-08,2021-06-08,2021-06-09,2
+p85_p30_min2_sep7,New York,2021,new_york_2021-07-14,2021-07-14,2021-07-17,4
+p85_p30_min2_sep7,New York,2021,new_york_2021-07-26,2021-07-26,2021-07-27,2
+p85_p30_min2_sep7,New York,2021,new_york_2021-08-25,2021-08-25,2021-08-27,3
+p85_p30_min2_sep7,New York,2022,new_york_2022-07-13,2022-07-13,2022-07-14,2
+p85_p30_min2_sep7,New York,2023,new_york_2023-07-05,2023-07-05,2023-07-06,2
+p85_p30_min2_sep7,New York,2023,new_york_2023-09-04,2023-09-04,2023-09-09,6
+p85_p30_min2_sep7,New York,2024,new_york_2024-07-05,2024-07-05,2024-07-08,4
+p85_p30_min2_sep7,New York,2024,new_york_2024-07-13,2024-07-13,2024-07-14,2
+p85_p30_min2_sep7,New York,2024,new_york_2024-08-01,2024-08-01,2024-08-03,3
+p85_p30_min2_sep7,New York,2025,new_york_2025-07-08,2025-07-08,2025-07-09,2
+p85_p30_min2_sep7,New York,2025,new_york_2025-07-15,2025-07-15,2025-07-16,2
+p85_p30_min2_sep7,New York,2025,new_york_2025-07-28,2025-07-28,2025-07-30,3
+p85_p30_min2_sep7,New York,2025,new_york_2025-08-13,2025-08-13,2025-08-14,2
+p85_p30_min2_sep7,Philadelphia,2019,philadelphia_2019-06-27,2019-06-27,2019-06-28,2
+p85_p30_min2_sep7,Philadelphia,2019,philadelphia_2019-08-18,2019-08-18,2019-08-20,3
+p85_p30_min2_sep7,Philadelphia,2020,philadelphia_2020-07-21,2020-07-21,2020-07-22,2
+p85_p30_min2_sep7,Philadelphia,2021,philadelphia_2021-07-14,2021-07-14,2021-07-17,4
+p85_p30_min2_sep7,Philadelphia,2021,philadelphia_2021-07-26,2021-07-26,2021-07-27,2
+p85_p30_min2_sep7,Philadelphia,2021,philadelphia_2021-08-24,2021-08-24,2021-08-27,4
+p85_p30_min2_sep7,Philadelphia,2022,philadelphia_2022-08-10,2022-08-10,2022-08-11,2
+p85_p30_min2_sep7,Philadelphia,2023,philadelphia_2023-07-05,2023-07-05,2023-07-07,3
+p85_p30_min2_sep7,Philadelphia,2023,philadelphia_2023-09-07,2023-09-07,2023-09-08,2
+p85_p30_min2_sep7,Philadelphia,2024,philadelphia_2024-07-07,2024-07-07,2024-07-08,2
+p85_p30_min2_sep7,Philadelphia,2025,philadelphia_2025-06-29,2025-06-29,2025-06-30,2
+p85_p30_min2_sep7,Philadelphia,2025,philadelphia_2025-07-28,2025-07-28,2025-07-30,3
+p85_p30_min2_sep7,Philadelphia,2025,philadelphia_2025-08-12,2025-08-12,2025-08-14,3
+p85_p30_min2_sep7,Phoenix,2021,phoenix_2021-07-07,2021-07-07,2021-07-08,2
+p85_p30_min2_sep7,Phoenix,2021,phoenix_2021-08-04,2021-08-04,2021-08-05,2
+p85_p30_min2_sep7,Phoenix,2023,phoenix_2023-07-24,2023-07-24,2023-07-25,2
+p85_p30_min2_sep7,San Diego,2019,san_diego_2019-08-25,2019-08-25,2019-08-26,2
+p85_p30_min2_sep7,San Diego,2019,san_diego_2019-09-02,2019-09-02,2019-09-05,4
+p85_p30_min2_sep7,San Diego,2019,san_diego_2019-09-13,2019-09-13,2019-09-15,3
+p85_p30_min2_sep7,San Diego,2020,san_diego_2020-07-05,2020-07-05,2020-07-06,2
+p85_p30_min2_sep7,San Diego,2020,san_diego_2020-08-17,2020-08-17,2020-08-21,5
+p85_p30_min2_sep7,San Diego,2020,san_diego_2020-09-04,2020-09-04,2020-09-05,2
+p85_p30_min2_sep7,San Diego,2020,san_diego_2020-10-01,2020-10-01,2020-10-06,6
+p85_p30_min2_sep7,San Diego,2020,san_diego_2020-10-14,2020-10-14,2020-10-16,3
+p85_p30_min2_sep7,San Diego,2021,san_diego_2021-10-01,2021-10-01,2021-10-02,2
+p85_p30_min2_sep7,San Diego,2022,san_diego_2022-08-09,2022-08-09,2022-08-10,2
+p85_p30_min2_sep7,San Diego,2022,san_diego_2022-09-02,2022-09-02,2022-09-03,2
+p85_p30_min2_sep7,San Diego,2023,san_diego_2023-07-25,2023-07-25,2023-07-27,3
+p85_p30_min2_sep7,San Diego,2023,san_diego_2023-08-28,2023-08-28,2023-08-29,2
+p85_p30_min2_sep7,San Diego,2023,san_diego_2023-09-10,2023-09-10,2023-09-11,2
+p85_p30_min2_sep7,San Diego,2023,san_diego_2023-10-04,2023-10-04,2023-10-07,4
+p85_p30_min2_sep7,San Diego,2024,san_diego_2024-09-05,2024-09-05,2024-09-07,3
+p85_p30_min2_sep7,San Diego,2025,san_diego_2025-08-21,2025-08-21,2025-08-22,2
+p85_p30_min2_sep7,Seattle,2019,seattle_2019-08-05,2019-08-05,2019-08-06,2
+p85_p30_min2_sep7,Seattle,2019,seattle_2019-08-12,2019-08-12,2019-08-14,3
+p85_p30_min2_sep7,Seattle,2021,seattle_2021-07-10,2021-07-10,2021-07-13,4
+p85_p30_min2_sep7,Seattle,2021,seattle_2021-07-18,2021-07-18,2021-07-19,2
+p85_p30_min2_sep7,Seattle,2021,seattle_2021-07-27,2021-07-27,2021-07-28,2
+p85_p30_min2_sep7,Seattle,2022,seattle_2022-07-29,2022-07-29,2022-07-31,3
+p85_p30_min2_sep7,Seattle,2022,seattle_2022-08-14,2022-08-14,2022-08-15,2
+p85_p30_min2_sep7,Seattle,2023,seattle_2023-07-13,2023-07-13,2023-07-15,3
+p85_p30_min2_sep7,Seattle,2023,seattle_2023-08-01,2023-08-01,2023-08-04,4
+p85_p30_min2_sep7,Seattle,2023,seattle_2023-09-15,2023-09-15,2023-09-16,2
+p85_p30_min2_sep7,Seattle,2024,seattle_2024-07-11,2024-07-11,2024-07-12,2
+p85_p30_min2_sep7,Seattle,2024,seattle_2024-08-02,2024-08-02,2024-08-03,2
+p85_p30_min2_sep7,Seattle,2025,seattle_2025-08-24,2025-08-24,2025-08-26,3

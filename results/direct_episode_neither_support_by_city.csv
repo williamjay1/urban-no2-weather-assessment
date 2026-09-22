@@ -1,0 +1,12 @@
+model,city,input_station_days,input_city_days,input_episode_station_days,input_episode_city_days,input_observed_events,comparator,persistent_only,n_station_days,n_city_days,n_stations,n_strata,n_episode_station_days,n_episode_city_days,n_episodes,n_compound_city_days,n_years_observed,n_year_blocks,rank_at_pinv_tolerance,parameters,condition_number,weighted_rmse,total_weight,station_days_episode,city_days_episode,station_days_neither,city_days_neither,station_days_heat_only,city_days_heat_only,station_days_wind_only,city_days_wind_only,station_days_other_compound,city_days_other_compound,both_present_strata
+direct_episode_neither,Atlanta,3704,1284,289,99,27,neither,False,516,177,3,165,218,75,26,75,6,6,12,12,329.0712116530988,2.733653886722508,176.99999999999997,218,75,298,102,0,0,0,0,0,0,165
+direct_episode_neither,Chicago,4663,1284,110,33,14,neither,False,194,59,4,73,74,23,12,23,6,6,12,12,887.8015853885737,2.7576599765995,59.0,74,23,120,36,0,0,0,0,0,0,73
+direct_episode_neither,Dallas,4551,1284,157,46,14,neither,False,266,78,4,91,99,30,11,30,5,6,12,12,1057.9382834517005,1.8644136233551425,78.0,99,30,167,48,0,0,0,0,0,0,91
+direct_episode_neither,Denver,6049,1284,37,8,4,neither,False,50,11,5,23,23,5,4,5,4,6,6,12,2.2789938202349752e+19,1.3547120938131383,11.0,23,5,27,6,0,0,0,0,0,0,23
+direct_episode_neither,Houston,11010,1284,650,76,22,neither,False,677,82,10,252,318,37,16,37,6,6,12,12,4275.33213648301,2.4784455989497616,82.0,318,37,359,45,0,0,0,0,0,0,252
+direct_episode_neither,Los Angeles,9254,1284,556,76,24,neither,False,1116,157,8,378,436,61,22,61,6,6,12,12,1657.9827619027296,2.8666082619900837,156.99999999999997,436,61,680,96,0,0,0,0,0,0,378
+direct_episode_neither,New York,10749,1284,468,56,21,neither,False,968,119,9,324,381,46,20,46,6,6,12,12,2743.9439650961226,3.2056088071219153,119.0,381,46,587,73,0,0,0,0,0,0,324
+direct_episode_neither,Philadelphia,5982,1284,146,33,13,neither,False,251,61,5,83,90,22,12,22,6,6,12,12,800.3541232562958,3.0254337058351464,61.00000000000001,90,22,161,39,0,0,0,0,0,0,83
+direct_episode_neither,Phoenix,5991,1284,72,16,8,neither,False,131,30,5,44,49,11,7,11,3,6,12,12,11086.213188380127,1.899908443108484,30.0,49,11,82,19,0,0,0,0,0,0,44
+direct_episode_neither,San Diego,5057,1284,291,72,26,neither,False,631,161,5,226,229,58,26,58,6,6,12,12,2467.043859589627,1.4349384963410206,161.0,229,58,402,103,0,0,0,0,0,0,226
+direct_episode_neither,Seattle,2448,1282,79,40,16,neither,False,136,71,2,50,56,29,15,29,6,6,12,12,2969.785562800095,3.0889070700082804,71.0,56,29,80,42,0,0,0,0,0,0,50

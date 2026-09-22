@@ -1,0 +1,397 @@
+model,city,omitted_year,contrast,estimate_ppb,estimable
+equal_station_weights,Atlanta,2019,episode_vs_reference,2.188034908592693,True
+equal_station_weights,Atlanta,2019,heat_only_vs_reference,-0.0645291540517497,True
+equal_station_weights,Atlanta,2019,wind_only_vs_reference,1.7420116961470626,True
+equal_station_weights,Atlanta,2019,other_compound_vs_reference,1.1239026592535564,True
+equal_station_weights,Atlanta,2019,episode_vs_wind_only,0.4460232124456305,True
+equal_station_weights,Atlanta,2019,episode_vs_heat_only,2.252564062644443,True
+equal_station_weights,Chicago,2019,episode_vs_reference,4.696839105487499,True
+equal_station_weights,Chicago,2019,heat_only_vs_reference,0.05629887960356372,True
+equal_station_weights,Chicago,2019,wind_only_vs_reference,4.231524067993183,True
+equal_station_weights,Chicago,2019,other_compound_vs_reference,4.223916174216477,True
+equal_station_weights,Chicago,2019,episode_vs_wind_only,0.46531503749431646,True
+equal_station_weights,Chicago,2019,episode_vs_heat_only,4.640540225883935,True
+equal_station_weights,Dallas,2019,episode_vs_reference,2.1119932272272757,True
+equal_station_weights,Dallas,2019,heat_only_vs_reference,-1.1423170833058165,True
+equal_station_weights,Dallas,2019,wind_only_vs_reference,3.158606807641641,True
+equal_station_weights,Dallas,2019,other_compound_vs_reference,1.542940152656677,True
+equal_station_weights,Dallas,2019,episode_vs_wind_only,-1.0466135804143653,True
+equal_station_weights,Dallas,2019,episode_vs_heat_only,3.254310310533092,True
+equal_station_weights,Denver,2019,episode_vs_reference,0.33893999573900924,True
+equal_station_weights,Denver,2019,heat_only_vs_reference,0.6549322883987141,True
+equal_station_weights,Denver,2019,wind_only_vs_reference,1.3604958337974615,True
+equal_station_weights,Denver,2019,other_compound_vs_reference,1.1998554064173799,True
+equal_station_weights,Denver,2019,episode_vs_wind_only,-1.0215558380584522,True
+equal_station_weights,Denver,2019,episode_vs_heat_only,-0.31599229265970485,True
+equal_station_weights,Houston,2019,episode_vs_reference,1.9099220321278008,True
+equal_station_weights,Houston,2019,heat_only_vs_reference,-1.6607395860822964,True
+equal_station_weights,Houston,2019,wind_only_vs_reference,3.6962245295915914,True
+equal_station_weights,Houston,2019,other_compound_vs_reference,1.1239290972059843,True
+equal_station_weights,Houston,2019,episode_vs_wind_only,-1.7863024974637907,True
+equal_station_weights,Houston,2019,episode_vs_heat_only,3.570661618210097,True
+equal_station_weights,Los Angeles,2019,episode_vs_reference,3.060557969361132,True
+equal_station_weights,Los Angeles,2019,heat_only_vs_reference,0.6485926838399068,True
+equal_station_weights,Los Angeles,2019,wind_only_vs_reference,2.525237132153357,True
+equal_station_weights,Los Angeles,2019,other_compound_vs_reference,2.739456403649648,True
+equal_station_weights,Los Angeles,2019,episode_vs_wind_only,0.5353208372077751,True
+equal_station_weights,Los Angeles,2019,episode_vs_heat_only,2.4119652855212252,True
+equal_station_weights,New York,2019,episode_vs_reference,4.863342040620806,True
+equal_station_weights,New York,2019,heat_only_vs_reference,1.058027068377425,True
+equal_station_weights,New York,2019,wind_only_vs_reference,4.320202551850909,True
+equal_station_weights,New York,2019,other_compound_vs_reference,3.5266356089027218,True
+equal_station_weights,New York,2019,episode_vs_wind_only,0.5431394887698966,True
+equal_station_weights,New York,2019,episode_vs_heat_only,3.8053149722433806,True
+equal_station_weights,Philadelphia,2019,episode_vs_reference,2.2983283818971563,True
+equal_station_weights,Philadelphia,2019,heat_only_vs_reference,0.7892330884135433,True
+equal_station_weights,Philadelphia,2019,wind_only_vs_reference,2.0241732478496837,True
+equal_station_weights,Philadelphia,2019,other_compound_vs_reference,1.9608274060657074,True
+equal_station_weights,Philadelphia,2019,episode_vs_wind_only,0.2741551340474726,True
+equal_station_weights,Philadelphia,2019,episode_vs_heat_only,1.5090952934836128,True
+equal_station_weights,Phoenix,2019,episode_vs_reference,2.99705639180796,True
+equal_station_weights,Phoenix,2019,heat_only_vs_reference,-0.42779150968123386,True
+equal_station_weights,Phoenix,2019,wind_only_vs_reference,3.009222445937033,True
+equal_station_weights,Phoenix,2019,other_compound_vs_reference,1.4482473014489956,True
+equal_station_weights,Phoenix,2019,episode_vs_wind_only,-0.0121660541290729,True
+equal_station_weights,Phoenix,2019,episode_vs_heat_only,3.4248479014891937,True
+equal_station_weights,San Diego,2019,episode_vs_reference,2.177488289558781,True
+equal_station_weights,San Diego,2019,heat_only_vs_reference,0.5987306492807896,True
+equal_station_weights,San Diego,2019,wind_only_vs_reference,1.1758055832668082,True
+equal_station_weights,San Diego,2019,other_compound_vs_reference,1.6494840321731161,True
+equal_station_weights,San Diego,2019,episode_vs_wind_only,1.0016827062919726,True
+equal_station_weights,San Diego,2019,episode_vs_heat_only,1.5787576402779913,True
+equal_station_weights,Seattle,2019,episode_vs_reference,6.788146070904713,True
+equal_station_weights,Seattle,2019,heat_only_vs_reference,4.126686542423236,True
+equal_station_weights,Seattle,2019,wind_only_vs_reference,3.666242334087804,True
+equal_station_weights,Seattle,2019,other_compound_vs_reference,7.838520002481609,True
+equal_station_weights,Seattle,2019,episode_vs_wind_only,3.1219037368169085,True
+equal_station_weights,Seattle,2019,episode_vs_heat_only,2.661459528481476,True
+equal_station_weights,Atlanta,2020,episode_vs_reference,2.472879434007485,True
+equal_station_weights,Atlanta,2020,heat_only_vs_reference,-0.029256183595211344,True
+equal_station_weights,Atlanta,2020,wind_only_vs_reference,1.829534859083722,True
+equal_station_weights,Atlanta,2020,other_compound_vs_reference,1.1484389523633662,True
+equal_station_weights,Atlanta,2020,episode_vs_wind_only,0.643344574923763,True
+equal_station_weights,Atlanta,2020,episode_vs_heat_only,2.502135617602696,True
+equal_station_weights,Chicago,2020,episode_vs_reference,4.964544702651728,True
+equal_station_weights,Chicago,2020,heat_only_vs_reference,0.6509274231971114,True
+equal_station_weights,Chicago,2020,wind_only_vs_reference,4.510705257050691,True
+equal_station_weights,Chicago,2020,other_compound_vs_reference,4.572296192799314,True
+equal_station_weights,Chicago,2020,episode_vs_wind_only,0.4538394456010373,True
+equal_station_weights,Chicago,2020,episode_vs_heat_only,4.313617279454617,True
+equal_station_weights,Dallas,2020,episode_vs_reference,2.1974709750116705,True
+equal_station_weights,Dallas,2020,heat_only_vs_reference,-1.3821252903213344,True
+equal_station_weights,Dallas,2020,wind_only_vs_reference,3.1737476394619204,True
+equal_station_weights,Dallas,2020,other_compound_vs_reference,1.328127799174414,True
+equal_station_weights,Dallas,2020,episode_vs_wind_only,-0.9762766644502499,True
+equal_station_weights,Dallas,2020,episode_vs_heat_only,3.579596265333005,True
+equal_station_weights,Denver,2020,episode_vs_reference,1.6011778618490962,True
+equal_station_weights,Denver,2020,heat_only_vs_reference,0.2600897993207285,True
+equal_station_weights,Denver,2020,wind_only_vs_reference,1.394739610487446,True
+equal_station_weights,Denver,2020,other_compound_vs_reference,0.9110748137327072,True
+equal_station_weights,Denver,2020,episode_vs_wind_only,0.20643825136165006,True
+equal_station_weights,Denver,2020,episode_vs_heat_only,1.3410880625283677,True
+equal_station_weights,Houston,2020,episode_vs_reference,1.5736826092532246,True
+equal_station_weights,Houston,2020,heat_only_vs_reference,-1.2988257656735962,True
+equal_station_weights,Houston,2020,wind_only_vs_reference,3.6620051420839665,True
+equal_station_weights,Houston,2020,other_compound_vs_reference,1.3205025474090286,True
+equal_station_weights,Houston,2020,episode_vs_wind_only,-2.088322532830742,True
+equal_station_weights,Houston,2020,episode_vs_heat_only,2.872508374926821,True
+equal_station_weights,Los Angeles,2020,episode_vs_reference,3.137479082184093,True
+equal_station_weights,Los Angeles,2020,heat_only_vs_reference,1.063790736782767,True
+equal_station_weights,Los Angeles,2020,wind_only_vs_reference,2.630801097871645,True
+equal_station_weights,Los Angeles,2020,other_compound_vs_reference,3.4221133150286462,True
+equal_station_weights,Los Angeles,2020,episode_vs_wind_only,0.5066779843124483,True
+equal_station_weights,Los Angeles,2020,episode_vs_heat_only,2.073688345401326,True
+equal_station_weights,New York,2020,episode_vs_reference,4.336740469238078,True
+equal_station_weights,New York,2020,heat_only_vs_reference,1.1578514059453415,True
+equal_station_weights,New York,2020,wind_only_vs_reference,4.400924505063815,True
+equal_station_weights,New York,2020,other_compound_vs_reference,3.7682979181345213,True
+equal_station_weights,New York,2020,episode_vs_wind_only,-0.06418403582573617,True
+equal_station_weights,New York,2020,episode_vs_heat_only,3.178889063292737,True
+equal_station_weights,Philadelphia,2020,episode_vs_reference,2.0375003142447192,True
+equal_station_weights,Philadelphia,2020,heat_only_vs_reference,0.6895210959853479,True
+equal_station_weights,Philadelphia,2020,wind_only_vs_reference,2.0385943899976753,True
+equal_station_weights,Philadelphia,2020,other_compound_vs_reference,1.8732265036222526,True
+equal_station_weights,Philadelphia,2020,episode_vs_wind_only,-0.0010940757529560585,True
+equal_station_weights,Philadelphia,2020,episode_vs_heat_only,1.3479792182593713,True
+equal_station_weights,Phoenix,2020,episode_vs_reference,2.7597018014770844,True
+equal_station_weights,Phoenix,2020,heat_only_vs_reference,-0.05692573274903856,True
+equal_station_weights,Phoenix,2020,wind_only_vs_reference,3.0770280550290163,True
+equal_station_weights,Phoenix,2020,other_compound_vs_reference,2.4455170573769993,True
+equal_station_weights,Phoenix,2020,episode_vs_wind_only,-0.3173262535519319,True
+equal_station_weights,Phoenix,2020,episode_vs_heat_only,2.816627534226123,True
+equal_station_weights,San Diego,2020,episode_vs_reference,1.8435052588324827,True
+equal_station_weights,San Diego,2020,heat_only_vs_reference,0.5732631762071276,True
+equal_station_weights,San Diego,2020,wind_only_vs_reference,1.221720500714413,True
+equal_station_weights,San Diego,2020,other_compound_vs_reference,1.9009292207792385,True
+equal_station_weights,San Diego,2020,episode_vs_wind_only,0.6217847581180698,True
+equal_station_weights,San Diego,2020,episode_vs_heat_only,1.270242082625355,True
+equal_station_weights,Seattle,2020,episode_vs_reference,6.878662629614636,True
+equal_station_weights,Seattle,2020,heat_only_vs_reference,3.8277807880501835,True
+equal_station_weights,Seattle,2020,wind_only_vs_reference,3.7630120475793616,True
+equal_station_weights,Seattle,2020,other_compound_vs_reference,8.15195899965759,True
+equal_station_weights,Seattle,2020,episode_vs_wind_only,3.1156505820352747,True
+equal_station_weights,Seattle,2020,episode_vs_heat_only,3.0508818415644527,True
+equal_station_weights,Atlanta,2021,episode_vs_reference,2.324956627088697,True
+equal_station_weights,Atlanta,2021,heat_only_vs_reference,-0.02330541398103214,True
+equal_station_weights,Atlanta,2021,wind_only_vs_reference,1.7555414572007453,True
+equal_station_weights,Atlanta,2021,other_compound_vs_reference,1.1003723328637685,True
+equal_station_weights,Atlanta,2021,episode_vs_wind_only,0.5694151698879519,True
+equal_station_weights,Atlanta,2021,episode_vs_heat_only,2.3482620410697295,True
+equal_station_weights,Chicago,2021,episode_vs_reference,4.938973834088392,True
+equal_station_weights,Chicago,2021,heat_only_vs_reference,0.3285835666914547,True
+equal_station_weights,Chicago,2021,wind_only_vs_reference,4.563581000083696,True
+equal_station_weights,Chicago,2021,other_compound_vs_reference,4.484379253258997,True
+equal_station_weights,Chicago,2021,episode_vs_wind_only,0.37539283400469614,True
+equal_station_weights,Chicago,2021,episode_vs_heat_only,4.610390267396937,True
+equal_station_weights,Dallas,2021,episode_vs_reference,2.6632031061511166,True
+equal_station_weights,Dallas,2021,heat_only_vs_reference,-0.8743458143464082,True
+equal_station_weights,Dallas,2021,wind_only_vs_reference,3.1082041411039496,True
+equal_station_weights,Dallas,2021,other_compound_vs_reference,1.3262968991550768,True
+equal_station_weights,Dallas,2021,episode_vs_wind_only,-0.44500103495283305,True
+equal_station_weights,Dallas,2021,episode_vs_heat_only,3.5375489204975246,True
+equal_station_weights,Denver,2021,episode_vs_reference,2.235254230922081,True
+equal_station_weights,Denver,2021,heat_only_vs_reference,0.4424131961997019,True
+equal_station_weights,Denver,2021,wind_only_vs_reference,1.4526304870792477,True
+equal_station_weights,Denver,2021,other_compound_vs_reference,0.9500090961396088,True
+equal_station_weights,Denver,2021,episode_vs_wind_only,0.7826237438428332,True
+equal_station_weights,Denver,2021,episode_vs_heat_only,1.7928410347223789,True
+equal_station_weights,Houston,2021,episode_vs_reference,1.7238776820095798,True
+equal_station_weights,Houston,2021,heat_only_vs_reference,-1.3558767597619632,True
+equal_station_weights,Houston,2021,wind_only_vs_reference,3.6703020786414964,True
+equal_station_weights,Houston,2021,other_compound_vs_reference,0.971774038880389,True
+equal_station_weights,Houston,2021,episode_vs_wind_only,-1.9464243966319166,True
+equal_station_weights,Houston,2021,episode_vs_heat_only,3.0797544417715432,True
+equal_station_weights,Los Angeles,2021,episode_vs_reference,3.0070085156395843,True
+equal_station_weights,Los Angeles,2021,heat_only_vs_reference,0.7759517967257108,True
+equal_station_weights,Los Angeles,2021,wind_only_vs_reference,2.0143890566546054,True
+equal_station_weights,Los Angeles,2021,other_compound_vs_reference,2.5461643474777813,True
+equal_station_weights,Los Angeles,2021,episode_vs_wind_only,0.9926194589849788,True
+equal_station_weights,Los Angeles,2021,episode_vs_heat_only,2.2310567189138735,True
+equal_station_weights,New York,2021,episode_vs_reference,4.0838153077623245,True
+equal_station_weights,New York,2021,heat_only_vs_reference,1.2749061919556879,True
+equal_station_weights,New York,2021,wind_only_vs_reference,4.4043203065168965,True
+equal_station_weights,New York,2021,other_compound_vs_reference,4.060582958907153,True
+equal_station_weights,New York,2021,episode_vs_wind_only,-0.32050499875457206,True
+equal_station_weights,New York,2021,episode_vs_heat_only,2.8089091158066366,True
+equal_station_weights,Philadelphia,2021,episode_vs_reference,1.3548094377436124,True
+equal_station_weights,Philadelphia,2021,heat_only_vs_reference,1.0025037707329256,True
+equal_station_weights,Philadelphia,2021,wind_only_vs_reference,2.004271498634966,True
+equal_station_weights,Philadelphia,2021,other_compound_vs_reference,1.928605542154055,True
+equal_station_weights,Philadelphia,2021,episode_vs_wind_only,-0.6494620608913535,True
+equal_station_weights,Philadelphia,2021,episode_vs_heat_only,0.3523056670106868,True
+equal_station_weights,Phoenix,2021,episode_vs_reference,3.211377631590381,True
+equal_station_weights,Phoenix,2021,heat_only_vs_reference,-0.15503475375673004,True
+equal_station_weights,Phoenix,2021,wind_only_vs_reference,3.206161962609981,True
+equal_station_weights,Phoenix,2021,other_compound_vs_reference,2.1461426564101473,True
+equal_station_weights,Phoenix,2021,episode_vs_wind_only,0.005215668980400157,True
+equal_station_weights,Phoenix,2021,episode_vs_heat_only,3.366412385347111,True
+equal_station_weights,San Diego,2021,episode_vs_reference,2.2289562709326294,True
+equal_station_weights,San Diego,2021,heat_only_vs_reference,0.5678379098510317,True
+equal_station_weights,San Diego,2021,wind_only_vs_reference,1.197054958725031,True
+equal_station_weights,San Diego,2021,other_compound_vs_reference,1.7726567699377804,True
+equal_station_weights,San Diego,2021,episode_vs_wind_only,1.0319013122075984,True
+equal_station_weights,San Diego,2021,episode_vs_heat_only,1.6611183610815976,True
+equal_station_weights,Seattle,2021,episode_vs_reference,6.219224614334249,True
+equal_station_weights,Seattle,2021,heat_only_vs_reference,3.7271746587552883,True
+equal_station_weights,Seattle,2021,wind_only_vs_reference,3.5319099478867546,True
+equal_station_weights,Seattle,2021,other_compound_vs_reference,7.2425228960290955,True
+equal_station_weights,Seattle,2021,episode_vs_wind_only,2.6873146664474943,True
+equal_station_weights,Seattle,2021,episode_vs_heat_only,2.4920499555789606,True
+equal_station_weights,Atlanta,2022,episode_vs_reference,2.6733821865855156,True
+equal_station_weights,Atlanta,2022,heat_only_vs_reference,0.24928418205086572,True
+equal_station_weights,Atlanta,2022,wind_only_vs_reference,1.8798037113849628,True
+equal_station_weights,Atlanta,2022,other_compound_vs_reference,1.6753217180927082,True
+equal_station_weights,Atlanta,2022,episode_vs_wind_only,0.7935784752005528,True
+equal_station_weights,Atlanta,2022,episode_vs_heat_only,2.42409800453465,True
+equal_station_weights,Chicago,2022,episode_vs_reference,4.500604116078781,True
+equal_station_weights,Chicago,2022,heat_only_vs_reference,0.6061016754182633,True
+equal_station_weights,Chicago,2022,wind_only_vs_reference,4.015740117851459,True
+equal_station_weights,Chicago,2022,other_compound_vs_reference,4.396652249962816,True
+equal_station_weights,Chicago,2022,episode_vs_wind_only,0.48486399822732196,True
+equal_station_weights,Chicago,2022,episode_vs_heat_only,3.894502440660518,True
+equal_station_weights,Dallas,2022,episode_vs_reference,2.1352352471212215,True
+equal_station_weights,Dallas,2022,heat_only_vs_reference,-1.3813650385664862,True
+equal_station_weights,Dallas,2022,wind_only_vs_reference,2.953668084716852,True
+equal_station_weights,Dallas,2022,other_compound_vs_reference,1.4562948927540902,True
+equal_station_weights,Dallas,2022,episode_vs_wind_only,-0.8184328375956307,True
+equal_station_weights,Dallas,2022,episode_vs_heat_only,3.5166002856877077,True
+equal_station_weights,Denver,2022,episode_vs_reference,2.391331947917955,True
+equal_station_weights,Denver,2022,heat_only_vs_reference,0.6726215825634345,True
+equal_station_weights,Denver,2022,wind_only_vs_reference,1.1248556433339179,True
+equal_station_weights,Denver,2022,other_compound_vs_reference,1.3944498224877577,True
+equal_station_weights,Denver,2022,episode_vs_wind_only,1.266476304584037,True
+equal_station_weights,Denver,2022,episode_vs_heat_only,1.7187103653545204,True
+equal_station_weights,Houston,2022,episode_vs_reference,1.7783151571915652,True
+equal_station_weights,Houston,2022,heat_only_vs_reference,-1.3089668261394438,True
+equal_station_weights,Houston,2022,wind_only_vs_reference,3.7449995645607563,True
+equal_station_weights,Houston,2022,other_compound_vs_reference,1.397832089898868,True
+equal_station_weights,Houston,2022,episode_vs_wind_only,-1.9666844073691911,True
+equal_station_weights,Houston,2022,episode_vs_heat_only,3.087281983331009,True
+equal_station_weights,Los Angeles,2022,episode_vs_reference,2.947335371873725,True
+equal_station_weights,Los Angeles,2022,heat_only_vs_reference,0.6587660283840688,True
+equal_station_weights,Los Angeles,2022,wind_only_vs_reference,2.2156112160183854,True
+equal_station_weights,Los Angeles,2022,other_compound_vs_reference,3.0518211333549545,True
+equal_station_weights,Los Angeles,2022,episode_vs_wind_only,0.7317241558553396,True
+equal_station_weights,Los Angeles,2022,episode_vs_heat_only,2.288569343489656,True
+equal_station_weights,New York,2022,episode_vs_reference,4.94948722079518,True
+equal_station_weights,New York,2022,heat_only_vs_reference,1.0616858393462276,True
+equal_station_weights,New York,2022,wind_only_vs_reference,4.213740306004867,True
+equal_station_weights,New York,2022,other_compound_vs_reference,4.153922480732669,True
+equal_station_weights,New York,2022,episode_vs_wind_only,0.7357469147903126,True
+equal_station_weights,New York,2022,episode_vs_heat_only,3.887801381448952,True
+equal_station_weights,Philadelphia,2022,episode_vs_reference,2.3430263154953903,True
+equal_station_weights,Philadelphia,2022,heat_only_vs_reference,1.0013857345760935,True
+equal_station_weights,Philadelphia,2022,wind_only_vs_reference,1.9582842309807567,True
+equal_station_weights,Philadelphia,2022,other_compound_vs_reference,2.0167718549233813,True
+equal_station_weights,Philadelphia,2022,episode_vs_wind_only,0.38474208451463365,True
+equal_station_weights,Philadelphia,2022,episode_vs_heat_only,1.3416405809192968,True
+equal_station_weights,Phoenix,2022,episode_vs_reference,3.121438115203275,True
+equal_station_weights,Phoenix,2022,heat_only_vs_reference,0.18283438097966132,True
+equal_station_weights,Phoenix,2022,wind_only_vs_reference,3.195504320858003,True
+equal_station_weights,Phoenix,2022,other_compound_vs_reference,2.196191706060853,True
+equal_station_weights,Phoenix,2022,episode_vs_wind_only,-0.0740662056547281,True
+equal_station_weights,Phoenix,2022,episode_vs_heat_only,2.9386037342236135,True
+equal_station_weights,San Diego,2022,episode_vs_reference,2.1931224441193953,True
+equal_station_weights,San Diego,2022,heat_only_vs_reference,0.6952229908693062,True
+equal_station_weights,San Diego,2022,wind_only_vs_reference,1.0212497257020552,True
+equal_station_weights,San Diego,2022,other_compound_vs_reference,1.7653323983632203,True
+equal_station_weights,San Diego,2022,episode_vs_wind_only,1.17187271841734,True
+equal_station_weights,San Diego,2022,episode_vs_heat_only,1.497899453250089,True
+equal_station_weights,Seattle,2022,episode_vs_reference,4.794469677795489,True
+equal_station_weights,Seattle,2022,heat_only_vs_reference,3.072954992266158,True
+equal_station_weights,Seattle,2022,wind_only_vs_reference,3.602923365361868,True
+equal_station_weights,Seattle,2022,other_compound_vs_reference,7.086964648529756,True
+equal_station_weights,Seattle,2022,episode_vs_wind_only,1.1915463124336214,True
+equal_station_weights,Seattle,2022,episode_vs_heat_only,1.7215146855293315,True
+equal_station_weights,Atlanta,2023,episode_vs_reference,2.6864144111351522,True
+equal_station_weights,Atlanta,2023,heat_only_vs_reference,0.18621784986424028,True
+equal_station_weights,Atlanta,2023,wind_only_vs_reference,2.060318409703048,True
+equal_station_weights,Atlanta,2023,other_compound_vs_reference,1.9158152296510353,True
+equal_station_weights,Atlanta,2023,episode_vs_wind_only,0.6260960014321042,True
+equal_station_weights,Atlanta,2023,episode_vs_heat_only,2.500196561270912,True
+equal_station_weights,Chicago,2023,episode_vs_reference,4.290836242085311,True
+equal_station_weights,Chicago,2023,heat_only_vs_reference,0.6066767326103988,True
+equal_station_weights,Chicago,2023,wind_only_vs_reference,4.485746488353276,True
+equal_station_weights,Chicago,2023,other_compound_vs_reference,4.398605562206804,True
+equal_station_weights,Chicago,2023,episode_vs_wind_only,-0.19491024626796527,True
+equal_station_weights,Chicago,2023,episode_vs_heat_only,3.6841595094749118,True
+equal_station_weights,Dallas,2023,episode_vs_reference,2.7662090726849424,True
+equal_station_weights,Dallas,2023,heat_only_vs_reference,-0.7378611846932965,True
+equal_station_weights,Dallas,2023,wind_only_vs_reference,3.0587240497458774,True
+equal_station_weights,Dallas,2023,other_compound_vs_reference,2.011910638618651,True
+equal_station_weights,Dallas,2023,episode_vs_wind_only,-0.292514977060935,True
+equal_station_weights,Dallas,2023,episode_vs_heat_only,3.504070257378239,True
+equal_station_weights,Denver,2023,episode_vs_reference,1.7785621197854948,True
+equal_station_weights,Denver,2023,heat_only_vs_reference,0.7818106935348892,True
+equal_station_weights,Denver,2023,wind_only_vs_reference,1.1694015321182314,True
+equal_station_weights,Denver,2023,other_compound_vs_reference,0.8331737477033541,True
+equal_station_weights,Denver,2023,episode_vs_wind_only,0.6091605876672634,True
+equal_station_weights,Denver,2023,episode_vs_heat_only,0.9967514262506056,True
+equal_station_weights,Houston,2023,episode_vs_reference,1.7108710140760455,True
+equal_station_weights,Houston,2023,heat_only_vs_reference,-0.7889537336582902,True
+equal_station_weights,Houston,2023,wind_only_vs_reference,3.4926734009721025,True
+equal_station_weights,Houston,2023,other_compound_vs_reference,1.5820351747916044,True
+equal_station_weights,Houston,2023,episode_vs_wind_only,-1.781802386896057,True
+equal_station_weights,Houston,2023,episode_vs_heat_only,2.4998247477343356,True
+equal_station_weights,Los Angeles,2023,episode_vs_reference,2.702329353708447,True
+equal_station_weights,Los Angeles,2023,heat_only_vs_reference,0.8738062400582384,True
+equal_station_weights,Los Angeles,2023,wind_only_vs_reference,2.4049830546970563,True
+equal_station_weights,Los Angeles,2023,other_compound_vs_reference,3.1128158420269574,True
+equal_station_weights,Los Angeles,2023,episode_vs_wind_only,0.29734629901139087,True
+equal_station_weights,Los Angeles,2023,episode_vs_heat_only,1.828523113650209,True
+equal_station_weights,New York,2023,episode_vs_reference,4.679110872136999,True
+equal_station_weights,New York,2023,heat_only_vs_reference,1.269975462695565,True
+equal_station_weights,New York,2023,wind_only_vs_reference,4.447257955077224,True
+equal_station_weights,New York,2023,other_compound_vs_reference,3.65825997877666,True
+equal_station_weights,New York,2023,episode_vs_wind_only,0.23185291705977473,True
+equal_station_weights,New York,2023,episode_vs_heat_only,3.4091354094414337,True
+equal_station_weights,Philadelphia,2023,episode_vs_reference,2.342651027625269,True
+equal_station_weights,Philadelphia,2023,heat_only_vs_reference,0.9108503616116087,True
+equal_station_weights,Philadelphia,2023,wind_only_vs_reference,2.092970882389445,True
+equal_station_weights,Philadelphia,2023,other_compound_vs_reference,1.9191744062393563,True
+equal_station_weights,Philadelphia,2023,episode_vs_wind_only,0.24968014523582394,True
+equal_station_weights,Philadelphia,2023,episode_vs_heat_only,1.4318006660136602,True
+equal_station_weights,Phoenix,2023,episode_vs_reference,3.1994250234886725,True
+equal_station_weights,Phoenix,2023,heat_only_vs_reference,-0.07857539378951395,True
+equal_station_weights,Phoenix,2023,wind_only_vs_reference,3.142266996175728,True
+equal_station_weights,Phoenix,2023,other_compound_vs_reference,2.3510201132250796,True
+equal_station_weights,Phoenix,2023,episode_vs_wind_only,0.057158027312944615,True
+equal_station_weights,Phoenix,2023,episode_vs_heat_only,3.2780004172781867,True
+equal_station_weights,San Diego,2023,episode_vs_reference,2.1686879343321888,True
+equal_station_weights,San Diego,2023,heat_only_vs_reference,0.6014813614791635,True
+equal_station_weights,San Diego,2023,wind_only_vs_reference,1.176547377629291,True
+equal_station_weights,San Diego,2023,other_compound_vs_reference,2.008228042490656,True
+equal_station_weights,San Diego,2023,episode_vs_wind_only,0.9921405567028978,True
+equal_station_weights,San Diego,2023,episode_vs_heat_only,1.5672065728530251,True
+equal_station_weights,Seattle,2023,episode_vs_reference,7.674478355104077,True
+equal_station_weights,Seattle,2023,heat_only_vs_reference,3.20317520218714,True
+equal_station_weights,Seattle,2023,wind_only_vs_reference,3.7456349079895435,True
+equal_station_weights,Seattle,2023,other_compound_vs_reference,8.413156127585564,True
+equal_station_weights,Seattle,2023,episode_vs_wind_only,3.928843447114534,True
+equal_station_weights,Seattle,2023,episode_vs_heat_only,4.471303152916938,True
+equal_station_weights,Atlanta,2024,episode_vs_reference,2.368995946044439,True
+equal_station_weights,Atlanta,2024,heat_only_vs_reference,0.12246191312154406,True
+equal_station_weights,Atlanta,2024,wind_only_vs_reference,1.8805423808461432,True
+equal_station_weights,Atlanta,2024,other_compound_vs_reference,1.1608416818236262,True
+equal_station_weights,Atlanta,2024,episode_vs_wind_only,0.48845356519829597,True
+equal_station_weights,Atlanta,2024,episode_vs_heat_only,2.246534032922895,True
+equal_station_weights,Chicago,2024,episode_vs_reference,4.481159693237888,True
+equal_station_weights,Chicago,2024,heat_only_vs_reference,0.5259641607088721,True
+equal_station_weights,Chicago,2024,wind_only_vs_reference,4.497147772801261,True
+equal_station_weights,Chicago,2024,other_compound_vs_reference,4.591369277219254,True
+equal_station_weights,Chicago,2024,episode_vs_wind_only,-0.015988079563372892,True
+equal_station_weights,Chicago,2024,episode_vs_heat_only,3.9551955325290162,True
+equal_station_weights,Dallas,2024,episode_vs_reference,2.6468359205778613,True
+equal_station_weights,Dallas,2024,heat_only_vs_reference,-0.8769602273145944,True
+equal_station_weights,Dallas,2024,wind_only_vs_reference,3.2497808478781147,True
+equal_station_weights,Dallas,2024,other_compound_vs_reference,1.7206664524264899,True
+equal_station_weights,Dallas,2024,episode_vs_wind_only,-0.6029449273002534,True
+equal_station_weights,Dallas,2024,episode_vs_heat_only,3.5237961478924555,True
+equal_station_weights,Denver,2024,episode_vs_reference,2.091368699602032,True
+equal_station_weights,Denver,2024,heat_only_vs_reference,0.17389326957704104,True
+equal_station_weights,Denver,2024,wind_only_vs_reference,1.367902454147901,True
+equal_station_weights,Denver,2024,other_compound_vs_reference,0.8474989539686575,True
+equal_station_weights,Denver,2024,episode_vs_wind_only,0.723466245454131,True
+equal_station_weights,Denver,2024,episode_vs_heat_only,1.917475430024991,True
+equal_station_weights,Houston,2024,episode_vs_reference,1.9529571089983024,True
+equal_station_weights,Houston,2024,heat_only_vs_reference,-1.0686981422288668,True
+equal_station_weights,Houston,2024,wind_only_vs_reference,3.4140797797137776,True
+equal_station_weights,Houston,2024,other_compound_vs_reference,1.5721204537338123,True
+equal_station_weights,Houston,2024,episode_vs_wind_only,-1.4611226707154752,True
+equal_station_weights,Houston,2024,episode_vs_heat_only,3.0216552512271693,True
+equal_station_weights,Los Angeles,2024,episode_vs_reference,3.142281828398955,True
+equal_station_weights,Los Angeles,2024,heat_only_vs_reference,1.0008398388310553,True
+equal_station_weights,Los Angeles,2024,wind_only_vs_reference,2.2527392223242613,True
+equal_station_weights,Los Angeles,2024,other_compound_vs_reference,3.112098674977547,True
+equal_station_weights,Los Angeles,2024,episode_vs_wind_only,0.8895426060746936,True
+equal_station_weights,Los Angeles,2024,episode_vs_heat_only,2.1414419895678996,True
+equal_station_weights,New York,2024,episode_vs_reference,4.345632895659245,True
+equal_station_weights,New York,2024,heat_only_vs_reference,1.199561709064539,True
+equal_station_weights,New York,2024,wind_only_vs_reference,4.155913150230566,True
+equal_station_weights,New York,2024,other_compound_vs_reference,3.8350571779881935,True
+equal_station_weights,New York,2024,episode_vs_wind_only,0.18971974542867898,True
+equal_station_weights,New York,2024,episode_vs_heat_only,3.146071186594706,True
+equal_station_weights,Philadelphia,2024,episode_vs_reference,2.0630429680133058,True
+equal_station_weights,Philadelphia,2024,heat_only_vs_reference,0.783381607520993,True
+equal_station_weights,Philadelphia,2024,wind_only_vs_reference,1.8244202604396764,True
+equal_station_weights,Philadelphia,2024,other_compound_vs_reference,1.6641224046993814,True
+equal_station_weights,Philadelphia,2024,episode_vs_wind_only,0.23862270757362936,True
+equal_station_weights,Philadelphia,2024,episode_vs_heat_only,1.2796613604923128,True
+equal_station_weights,Phoenix,2024,episode_vs_reference,3.701823920073172,True
+equal_station_weights,Phoenix,2024,heat_only_vs_reference,-0.061072149544989296,True
+equal_station_weights,Phoenix,2024,wind_only_vs_reference,3.187756341992303,True
+equal_station_weights,Phoenix,2024,other_compound_vs_reference,2.290460963979264,True
+equal_station_weights,Phoenix,2024,episode_vs_wind_only,0.5140675780808688,True
+equal_station_weights,Phoenix,2024,episode_vs_heat_only,3.7628960696181615,True
+equal_station_weights,San Diego,2024,episode_vs_reference,2.5505383328977573,True
+equal_station_weights,San Diego,2024,heat_only_vs_reference,0.9642177279809914,True
+equal_station_weights,San Diego,2024,wind_only_vs_reference,1.1001403153579878,True
+equal_station_weights,San Diego,2024,other_compound_vs_reference,2.3120945357565006,True
+equal_station_weights,San Diego,2024,episode_vs_wind_only,1.4503980175397695,True
+equal_station_weights,San Diego,2024,episode_vs_heat_only,1.586320604916766,True
+equal_station_weights,Seattle,2024,episode_vs_reference,6.175102912520973,True
+equal_station_weights,Seattle,2024,heat_only_vs_reference,3.461334903405056,True
+equal_station_weights,Seattle,2024,wind_only_vs_reference,3.7614670514251185,True
+equal_station_weights,Seattle,2024,other_compound_vs_reference,7.444687495298114,True
+equal_station_weights,Seattle,2024,episode_vs_wind_only,2.413635861095855,True
+equal_station_weights,Seattle,2024,episode_vs_heat_only,2.7137680091159173,True

@@ -1,0 +1,12 @@
+model,city,input_station_days,input_city_days,input_episode_station_days,input_episode_city_days,input_observed_events,comparator,persistent_only,n_station_days,n_city_days,n_stations,n_strata,n_episode_station_days,n_episode_city_days,n_episodes,n_compound_city_days,n_years_observed,n_year_blocks,rank_at_pinv_tolerance,parameters,condition_number,weighted_rmse,total_weight,station_days_episode,city_days_episode,station_days_neither,city_days_neither,station_days_heat_only,city_days_heat_only,station_days_wind_only,city_days_wind_only,station_days_other_compound,city_days_other_compound
+city_median,Atlanta,1284,1284,99,99,27,multicategory,False,1284,1284,1,294,99,99,27,133,6,6,15,15,232.70243000943603,2.5075542805192717,1284.0,99,99,780,780,136,136,235,235,34,34
+city_median,Chicago,1284,1284,33,33,14,multicategory,False,1284,1284,1,294,33,33,14,98,6,6,15,15,153.6595312345644,3.3622463360224373,1284.0,33,33,738,738,158,158,290,290,65,65
+city_median,Dallas,1284,1284,46,46,14,multicategory,False,1284,1284,1,294,46,46,14,85,6,6,15,15,170.70009610645175,2.036623277820357,1284.0,46,46,686,686,218,218,295,295,39,39
+city_median,Denver,1284,1284,8,8,4,multicategory,False,1284,1284,1,294,8,8,4,41,6,6,15,15,222.28168359647665,3.228969294601445,1284.0,8,8,676,676,223,223,344,344,33,33
+city_median,Houston,1284,1284,76,76,22,multicategory,False,1284,1284,1,294,76,76,22,118,6,6,15,15,434.4324269586816,2.3187406741983616,1284.0,76,76,664,664,207,207,295,295,42,42
+city_median,Los Angeles,1284,1284,76,76,24,multicategory,False,1284,1284,1,294,76,76,24,127,6,6,15,15,813.1481988036733,2.279422461702118,1284.0,76,76,743,743,112,112,302,302,51,51
+city_median,New York,1284,1284,56,56,21,multicategory,False,1284,1284,1,294,56,56,21,98,6,6,15,15,217.83055981125946,3.0728073387658883,1284.0,56,56,751,751,142,142,293,293,42,42
+city_median,Philadelphia,1284,1284,33,33,13,multicategory,False,1284,1284,1,294,33,33,13,76,6,6,15,15,166.42679990231144,2.5555930305199315,1284.0,33,33,730,730,164,164,314,314,43,43
+city_median,Phoenix,1284,1284,16,16,8,multicategory,False,1284,1284,1,294,16,16,8,49,6,6,15,15,414.63025961010544,2.620556943428117,1284.0,16,16,666,666,241,241,328,328,33,33
+city_median,San Diego,1284,1284,72,72,26,multicategory,False,1284,1284,1,294,72,72,26,110,6,6,15,15,654.2933721825017,1.325835034980149,1284.0,72,72,735,735,140,140,299,299,38,38
+city_median,Seattle,1282,1282,40,40,16,multicategory,False,1282,1282,1,294,40,40,16,104,6,6,15,15,520.744190612816,3.2683067069646117,1282.0,40,40,735,735,179,179,264,264,64,64

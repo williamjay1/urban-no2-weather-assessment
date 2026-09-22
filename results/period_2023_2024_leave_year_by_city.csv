@@ -1,0 +1,133 @@
+model,city,omitted_year,contrast,estimate_ppb,estimable
+period_2023_2024,Atlanta,2023,episode_vs_reference,2.9852664510900024,True
+period_2023_2024,Atlanta,2023,heat_only_vs_reference,-0.3758163193450562,True
+period_2023_2024,Atlanta,2023,wind_only_vs_reference,1.5219464326905858,True
+period_2023_2024,Atlanta,2023,other_compound_vs_reference,5.1005192020978365,True
+period_2023_2024,Atlanta,2023,episode_vs_wind_only,1.4633200183994166,True
+period_2023_2024,Atlanta,2023,episode_vs_heat_only,3.3610827704350585,True
+period_2023_2024,Chicago,2023,episode_vs_reference,5.3462873614228625,True
+period_2023_2024,Chicago,2023,heat_only_vs_reference,0.29831365525143116,True
+period_2023_2024,Chicago,2023,wind_only_vs_reference,3.938847133912571,True
+period_2023_2024,Chicago,2023,other_compound_vs_reference,4.444886079749772,True
+period_2023_2024,Chicago,2023,episode_vs_wind_only,1.4074402275102917,True
+period_2023_2024,Chicago,2023,episode_vs_heat_only,5.047973706171431,True
+period_2023_2024,Dallas,2023,episode_vs_reference,0.901999756822364,True
+period_2023_2024,Dallas,2023,heat_only_vs_reference,-2.120387470660611,True
+period_2023_2024,Dallas,2023,wind_only_vs_reference,2.2759356467628393,True
+period_2023_2024,Dallas,2023,other_compound_vs_reference,0.24716536077764584,True
+period_2023_2024,Dallas,2023,episode_vs_wind_only,-1.3739358899404754,True
+period_2023_2024,Dallas,2023,episode_vs_heat_only,3.022387227482975,True
+period_2023_2024,Denver,2023,episode_vs_reference,1.3904521522358642,True
+period_2023_2024,Denver,2023,heat_only_vs_reference,1.8694254671415722,True
+period_2023_2024,Denver,2023,wind_only_vs_reference,0.7910291087674641,True
+period_2023_2024,Denver,2023,other_compound_vs_reference,1.4125408133020727,True
+period_2023_2024,Denver,2023,episode_vs_wind_only,0.5994230434684,True
+period_2023_2024,Denver,2023,episode_vs_heat_only,-0.47897331490570805,True
+period_2023_2024,Houston,2023,episode_vs_reference,1.155146278496533,True
+period_2023_2024,Houston,2023,heat_only_vs_reference,-1.2493330243528649,True
+period_2023_2024,Houston,2023,wind_only_vs_reference,4.24705598831415,True
+period_2023_2024,Houston,2023,other_compound_vs_reference,-1.1737815610378148,True
+period_2023_2024,Houston,2023,episode_vs_wind_only,-3.0919097098176174,True
+period_2023_2024,Houston,2023,episode_vs_heat_only,2.404479302849398,True
+period_2023_2024,Los Angeles,2023,episode_vs_reference,1.6381833728552477,True
+period_2023_2024,Los Angeles,2023,heat_only_vs_reference,-0.293570080020021,True
+period_2023_2024,Los Angeles,2023,wind_only_vs_reference,2.4001026252488287,True
+period_2023_2024,Los Angeles,2023,other_compound_vs_reference,1.3386613000695096,True
+period_2023_2024,Los Angeles,2023,episode_vs_wind_only,-0.7619192523935809,True
+period_2023_2024,Los Angeles,2023,episode_vs_heat_only,1.9317534528752687,True
+period_2023_2024,New York,2023,episode_vs_reference,6.425774715205316,True
+period_2023_2024,New York,2023,heat_only_vs_reference,0.9382538084810853,True
+period_2023_2024,New York,2023,wind_only_vs_reference,5.006635573216379,True
+period_2023_2024,New York,2023,other_compound_vs_reference,5.02263847963631,True
+period_2023_2024,New York,2023,episode_vs_wind_only,1.4191391419889365,True
+period_2023_2024,New York,2023,episode_vs_heat_only,5.487520906724231,True
+period_2023_2024,Philadelphia,2023,episode_vs_reference,2.0738742229349563,True
+period_2023_2024,Philadelphia,2023,heat_only_vs_reference,0.9713605436311805,True
+period_2023_2024,Philadelphia,2023,wind_only_vs_reference,2.745013805961783,True
+period_2023_2024,Philadelphia,2023,other_compound_vs_reference,2.557916394802885,True
+period_2023_2024,Philadelphia,2023,episode_vs_wind_only,-0.6711395830268265,True
+period_2023_2024,Philadelphia,2023,episode_vs_heat_only,1.1025136793037758,True
+period_2023_2024,Phoenix,2023,episode_vs_reference,0.6358598933924382,True
+period_2023_2024,Phoenix,2023,heat_only_vs_reference,-0.11383844687165745,True
+period_2023_2024,Phoenix,2023,wind_only_vs_reference,2.943846015660255,True
+period_2023_2024,Phoenix,2023,other_compound_vs_reference,1.8692171188191389,True
+period_2023_2024,Phoenix,2023,episode_vs_wind_only,-2.307986122267817,True
+period_2023_2024,Phoenix,2023,episode_vs_heat_only,0.7496983402640957,True
+period_2023_2024,San Diego,2023,episode_vs_reference,0.9500652991258458,True
+period_2023_2024,San Diego,2023,heat_only_vs_reference,-0.7089914950643184,True
+period_2023_2024,San Diego,2023,wind_only_vs_reference,1.3658394680290065,True
+period_2023_2024,San Diego,2023,other_compound_vs_reference,0.30355020152282464,True
+period_2023_2024,San Diego,2023,episode_vs_wind_only,-0.41577416890316066,True
+period_2023_2024,San Diego,2023,episode_vs_heat_only,1.6590567941901642,True
+period_2023_2024,Seattle,2023,episode_vs_reference,8.477807014342936,True
+period_2023_2024,Seattle,2023,heat_only_vs_reference,4.790728970274964,True
+period_2023_2024,Seattle,2023,wind_only_vs_reference,3.218518454871186,True
+period_2023_2024,Seattle,2023,other_compound_vs_reference,9.871732333123678,True
+period_2023_2024,Seattle,2023,episode_vs_wind_only,5.2592885594717504,True
+period_2023_2024,Seattle,2023,episode_vs_heat_only,3.687078044067972,True
+period_2023_2024,Atlanta,2024,episode_vs_reference,1.2714721303808214,True
+period_2023_2024,Atlanta,2024,heat_only_vs_reference,-0.6120743464069531,True
+period_2023_2024,Atlanta,2024,wind_only_vs_reference,0.5694318683654792,True
+period_2023_2024,Atlanta,2024,other_compound_vs_reference,-1.325143429873416,True
+period_2023_2024,Atlanta,2024,episode_vs_wind_only,0.7020402620153422,True
+period_2023_2024,Atlanta,2024,episode_vs_heat_only,1.8835464767877745,True
+period_2023_2024,Chicago,2024,episode_vs_reference,7.520745529335454,True
+period_2023_2024,Chicago,2024,heat_only_vs_reference,-0.4828175200719267,True
+period_2023_2024,Chicago,2024,wind_only_vs_reference,3.5673019502440826,True
+period_2023_2024,Chicago,2024,other_compound_vs_reference,5.032013815716698,True
+period_2023_2024,Chicago,2024,episode_vs_wind_only,3.953443579091372,True
+period_2023_2024,Chicago,2024,episode_vs_heat_only,8.003563049407381,True
+period_2023_2024,Dallas,2024,episode_vs_reference,-0.9830239188970974,True
+period_2023_2024,Dallas,2024,heat_only_vs_reference,-2.3581754886648003,True
+period_2023_2024,Dallas,2024,wind_only_vs_reference,3.4031363222201554,True
+period_2023_2024,Dallas,2024,other_compound_vs_reference,-0.535796671805729,True
+period_2023_2024,Dallas,2024,episode_vs_wind_only,-4.386160241117253,True
+period_2023_2024,Dallas,2024,episode_vs_heat_only,1.375151569767703,True
+period_2023_2024,Denver,2024,episode_vs_reference,,False
+period_2023_2024,Denver,2024,heat_only_vs_reference,-0.6905735566668408,True
+period_2023_2024,Denver,2024,wind_only_vs_reference,1.8553815557999123,True
+period_2023_2024,Denver,2024,other_compound_vs_reference,2.6335682722695024,True
+period_2023_2024,Denver,2024,episode_vs_wind_only,,False
+period_2023_2024,Denver,2024,episode_vs_heat_only,,False
+period_2023_2024,Houston,2024,episode_vs_reference,1.1666124029604275,True
+period_2023_2024,Houston,2024,heat_only_vs_reference,-3.149317988255459,True
+period_2023_2024,Houston,2024,wind_only_vs_reference,4.206424200102402,True
+period_2023_2024,Houston,2024,other_compound_vs_reference,-0.4540762147927212,True
+period_2023_2024,Houston,2024,episode_vs_wind_only,-3.039811797141975,True
+period_2023_2024,Houston,2024,episode_vs_heat_only,4.315930391215886,True
+period_2023_2024,Los Angeles,2024,episode_vs_reference,4.8031532306343765,True
+period_2023_2024,Los Angeles,2024,heat_only_vs_reference,0.8129253436135948,True
+period_2023_2024,Los Angeles,2024,wind_only_vs_reference,2.0340078216754396,True
+period_2023_2024,Los Angeles,2024,other_compound_vs_reference,2.4271075650795844,True
+period_2023_2024,Los Angeles,2024,episode_vs_wind_only,2.769145408958937,True
+period_2023_2024,Los Angeles,2024,episode_vs_heat_only,3.9902278870207817,True
+period_2023_2024,New York,2024,episode_vs_reference,4.369802687017664,True
+period_2023_2024,New York,2024,heat_only_vs_reference,0.8924945306788548,True
+period_2023_2024,New York,2024,wind_only_vs_reference,3.384207926788141,True
+period_2023_2024,New York,2024,other_compound_vs_reference,4.506927415602344,True
+period_2023_2024,New York,2024,episode_vs_wind_only,0.9855947602295232,True
+period_2023_2024,New York,2024,episode_vs_heat_only,3.4773081563388093,True
+period_2023_2024,Philadelphia,2024,episode_vs_reference,2.1140313026711945,True
+period_2023_2024,Philadelphia,2024,heat_only_vs_reference,1.1237972644549443,True
+period_2023_2024,Philadelphia,2024,wind_only_vs_reference,2.204539243166691,True
+period_2023_2024,Philadelphia,2024,other_compound_vs_reference,1.8143512723460942,True
+period_2023_2024,Philadelphia,2024,episode_vs_wind_only,-0.09050794049549626,True
+period_2023_2024,Philadelphia,2024,episode_vs_heat_only,0.9902340382162502,True
+period_2023_2024,Phoenix,2024,episode_vs_reference,2.7720491868135637,True
+period_2023_2024,Phoenix,2024,heat_only_vs_reference,-0.2896347202489643,True
+period_2023_2024,Phoenix,2024,wind_only_vs_reference,3.00464755664406,True
+period_2023_2024,Phoenix,2024,other_compound_vs_reference,1.3000926757270768,True
+period_2023_2024,Phoenix,2024,episode_vs_wind_only,-0.2325983698304963,True
+period_2023_2024,Phoenix,2024,episode_vs_heat_only,3.061683907062528,True
+period_2023_2024,San Diego,2024,episode_vs_reference,2.458830984908923,True
+period_2023_2024,San Diego,2024,heat_only_vs_reference,0.9936619295288248,True
+period_2023_2024,San Diego,2024,wind_only_vs_reference,1.1186023291269023,True
+period_2023_2024,San Diego,2024,other_compound_vs_reference,1.674187812024115,True
+period_2023_2024,San Diego,2024,episode_vs_wind_only,1.3402286557820209,True
+period_2023_2024,San Diego,2024,episode_vs_heat_only,1.4651690553800982,True
+period_2023_2024,Seattle,2024,episode_vs_reference,4.534868341907966,True
+period_2023_2024,Seattle,2024,heat_only_vs_reference,6.238886967877088,True
+period_2023_2024,Seattle,2024,wind_only_vs_reference,3.5333775036176935,True
+period_2023_2024,Seattle,2024,other_compound_vs_reference,6.1228658525337245,True
+period_2023_2024,Seattle,2024,episode_vs_wind_only,1.0014908382902727,True
+period_2023_2024,Seattle,2024,episode_vs_heat_only,-1.7040186259691215,True

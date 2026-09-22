@@ -1,0 +1,421 @@
+definition,comparator,city,year,episode_id,weather_days,observed_city_days,observed_station_days,supported_city_days,supported_station_days,all_weather_days_have_observation,all_weather_days_have_supported_site,all_observed_station_days_supported
+p80_p20_min2_sep7,neither,Atlanta,2019,atlanta_2019-07-05,2,2,2,2,2,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2019,atlanta_2019-07-27,6,6,18,5,14,True,False,False
+p80_p20_min2_sep7,neither,Atlanta,2019,atlanta_2019-08-11,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2019,atlanta_2019-09-09,4,4,12,2,6,True,False,False
+p80_p20_min2_sep7,neither,Atlanta,2019,atlanta_2019-09-16,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,neither,Atlanta,2019,atlanta_2019-09-29,5,5,15,4,12,True,False,False
+p80_p20_min2_sep7,neither,Atlanta,2020,atlanta_2020-07-14,9,9,27,8,24,True,False,False
+p80_p20_min2_sep7,neither,Atlanta,2020,atlanta_2020-07-26,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2020,atlanta_2020-08-07,3,3,9,3,9,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2021,atlanta_2021-07-26,4,4,12,4,12,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2021,atlanta_2021-08-09,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2021,atlanta_2021-08-23,3,3,9,3,8,True,True,False
+p80_p20_min2_sep7,neither,Atlanta,2022,atlanta_2022-07-02,7,7,20,7,20,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2022,atlanta_2022-07-23,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2023,atlanta_2023-06-29,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2023,atlanta_2023-07-25,5,5,15,2,6,True,False,False
+p80_p20_min2_sep7,neither,Atlanta,2023,atlanta_2023-08-21,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,neither,Atlanta,2024,atlanta_2024-06-14,2,2,5,2,5,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2024,atlanta_2024-07-06,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2024,atlanta_2024-08-27,4,4,12,4,12,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2024,atlanta_2024-09-20,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2025,atlanta_2025-06-22,4,4,12,4,12,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2025,atlanta_2025-07-29,3,3,9,3,9,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2025,atlanta_2025-08-15,4,4,12,4,12,True,True,True
+p80_p20_min2_sep7,neither,Atlanta,2025,atlanta_2025-09-19,2,0,0,0,0,False,False,False
+p80_p20_min2_sep7,neither,Chicago,2019,chicago_2019-07-04,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Chicago,2020,chicago_2020-07-02,2,2,8,2,6,True,True,False
+p80_p20_min2_sep7,neither,Chicago,2020,chicago_2020-08-20,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2021,chicago_2021-06-11,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,Chicago,2021,chicago_2021-07-25,4,4,13,3,10,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2021,chicago_2021-08-18,3,3,9,0,0,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2021,chicago_2021-08-25,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2022,chicago_2022-08-23,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2024,chicago_2024-08-03,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,Chicago,2025,chicago_2025-06-30,5,5,15,3,8,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2025,chicago_2025-07-14,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2025,chicago_2025-07-26,4,4,12,2,6,True,False,False
+p80_p20_min2_sep7,neither,Chicago,2025,chicago_2025-08-15,2,2,8,1,3,True,False,False
+p80_p20_min2_sep7,neither,Dallas,2019,dallas_2019-08-05,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,neither,Dallas,2019,dallas_2019-09-02,5,5,18,5,17,True,True,False
+p80_p20_min2_sep7,neither,Dallas,2021,dallas_2021-06-13,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,Dallas,2021,dallas_2021-07-26,5,5,16,5,16,True,True,True
+p80_p20_min2_sep7,neither,Dallas,2022,dallas_2022-06-17,2,2,8,2,7,True,True,False
+p80_p20_min2_sep7,neither,Dallas,2022,dallas_2022-09-21,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,neither,Dallas,2023,dallas_2023-07-29,3,3,9,2,6,True,False,False
+p80_p20_min2_sep7,neither,Dallas,2023,dallas_2023-08-23,4,4,16,0,0,True,False,False
+p80_p20_min2_sep7,neither,Dallas,2024,dallas_2024-07-10,2,2,8,1,3,True,False,False
+p80_p20_min2_sep7,neither,Dallas,2024,dallas_2024-08-05,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,neither,Dallas,2025,dallas_2025-07-29,3,3,9,3,9,True,True,True
+p80_p20_min2_sep7,neither,Dallas,2025,dallas_2025-08-18,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,neither,Denver,2022,denver_2022-08-08,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,neither,Houston,2019,houston_2019-07-10,2,2,18,2,18,True,True,True
+p80_p20_min2_sep7,neither,Houston,2019,houston_2019-08-02,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,neither,Houston,2019,houston_2019-08-15,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,neither,Houston,2020,houston_2020-08-20,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,neither,Houston,2021,houston_2021-06-12,5,5,48,5,46,True,True,False
+p80_p20_min2_sep7,neither,Houston,2021,houston_2021-07-29,3,3,26,3,26,True,True,True
+p80_p20_min2_sep7,neither,Houston,2021,houston_2021-08-23,2,2,17,2,14,True,True,False
+p80_p20_min2_sep7,neither,Houston,2022,houston_2022-08-10,2,2,18,0,0,True,False,False
+p80_p20_min2_sep7,neither,Houston,2023,houston_2023-07-23,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,neither,Houston,2023,houston_2023-09-11,3,3,23,2,16,True,False,False
+p80_p20_min2_sep7,neither,Houston,2024,houston_2024-06-06,2,2,18,2,16,True,True,False
+p80_p20_min2_sep7,neither,Houston,2024,houston_2024-06-30,3,3,25,2,15,True,False,False
+p80_p20_min2_sep7,neither,Houston,2024,houston_2024-07-09,2,2,3,1,2,True,False,False
+p80_p20_min2_sep7,neither,Houston,2024,houston_2024-08-01,6,6,59,4,39,True,False,False
+p80_p20_min2_sep7,neither,Houston,2024,houston_2024-08-08,11,11,105,7,67,True,False,False
+p80_p20_min2_sep7,neither,Houston,2024,houston_2024-08-21,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,neither,Houston,2024,houston_2024-09-18,3,3,29,3,29,True,True,True
+p80_p20_min2_sep7,neither,Houston,2025,houston_2025-07-28,3,3,30,3,30,True,True,True
+p80_p20_min2_sep7,neither,Houston,2025,houston_2025-08-17,2,2,20,0,0,True,False,False
+p80_p20_min2_sep7,neither,Los Angeles,2019,los_angeles_2019-09-03,3,3,20,3,20,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2019,los_angeles_2019-09-12,3,3,21,3,21,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2020,los_angeles_2020-09-14,2,2,16,2,14,True,True,False
+p80_p20_min2_sep7,neither,Los Angeles,2020,los_angeles_2020-09-28,2,2,16,2,14,True,True,False
+p80_p20_min2_sep7,neither,Los Angeles,2020,los_angeles_2020-10-12,5,5,40,3,24,True,False,False
+p80_p20_min2_sep7,neither,Los Angeles,2021,los_angeles_2021-08-26,3,3,23,3,23,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2021,los_angeles_2021-09-11,3,3,24,3,22,True,True,False
+p80_p20_min2_sep7,neither,Los Angeles,2022,los_angeles_2022-09-23,6,6,42,6,42,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2023,los_angeles_2023-08-27,4,4,28,4,28,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2023,los_angeles_2023-10-07,2,2,14,1,7,True,False,False
+p80_p20_min2_sep7,neither,Los Angeles,2024,los_angeles_2024-08-19,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2024,los_angeles_2024-09-07,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2024,los_angeles_2024-10-01,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,neither,Los Angeles,2025,los_angeles_2025-08-06,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,neither,New York,2019,new_york_2019-07-09,2,2,16,1,8,True,False,False
+p80_p20_min2_sep7,neither,New York,2019,new_york_2019-07-26,2,2,18,1,8,True,False,False
+p80_p20_min2_sep7,neither,New York,2019,new_york_2019-08-03,2,2,18,2,18,True,True,True
+p80_p20_min2_sep7,neither,New York,2020,new_york_2020-07-29,2,2,18,2,18,True,True,True
+p80_p20_min2_sep7,neither,New York,2021,new_york_2021-06-08,2,2,17,2,17,True,True,True
+p80_p20_min2_sep7,neither,New York,2021,new_york_2021-07-14,2,2,15,2,15,True,True,True
+p80_p20_min2_sep7,neither,New York,2021,new_york_2021-07-26,2,2,18,2,16,True,True,False
+p80_p20_min2_sep7,neither,New York,2021,new_york_2021-08-25,3,3,27,2,18,True,False,False
+p80_p20_min2_sep7,neither,New York,2022,new_york_2022-09-04,2,2,18,2,18,True,True,True
+p80_p20_min2_sep7,neither,New York,2023,new_york_2023-07-07,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,neither,New York,2023,new_york_2023-09-04,6,6,48,6,48,True,True,True
+p80_p20_min2_sep7,neither,New York,2024,new_york_2024-07-06,3,3,24,3,24,True,True,True
+p80_p20_min2_sep7,neither,New York,2025,new_york_2025-07-28,3,3,24,2,16,True,False,False
+p80_p20_min2_sep7,neither,New York,2025,new_york_2025-08-13,2,2,15,2,15,True,True,True
+p80_p20_min2_sep7,neither,Philadelphia,2019,philadelphia_2019-07-03,3,3,15,1,5,True,False,False
+p80_p20_min2_sep7,neither,Philadelphia,2019,philadelphia_2019-08-03,2,2,8,2,7,True,True,False
+p80_p20_min2_sep7,neither,Philadelphia,2019,philadelphia_2019-08-17,4,4,16,3,10,True,False,False
+p80_p20_min2_sep7,neither,Philadelphia,2021,philadelphia_2021-06-08,2,2,9,2,9,True,True,True
+p80_p20_min2_sep7,neither,Philadelphia,2021,philadelphia_2021-07-14,2,2,10,1,5,True,False,False
+p80_p20_min2_sep7,neither,Philadelphia,2021,philadelphia_2021-07-26,2,2,9,1,4,True,False,False
+p80_p20_min2_sep7,neither,Philadelphia,2021,philadelphia_2021-08-25,3,3,15,0,0,True,False,False
+p80_p20_min2_sep7,neither,Philadelphia,2022,philadelphia_2022-08-10,2,2,10,2,9,True,True,False
+p80_p20_min2_sep7,neither,Philadelphia,2023,philadelphia_2023-06-01,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,neither,Philadelphia,2023,philadelphia_2023-07-05,3,3,14,1,5,True,False,False
+p80_p20_min2_sep7,neither,Philadelphia,2024,philadelphia_2024-07-07,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,neither,Philadelphia,2025,philadelphia_2025-06-29,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,neither,Philadelphia,2025,philadelphia_2025-07-28,2,2,10,2,9,True,True,False
+p80_p20_min2_sep7,neither,Philadelphia,2025,philadelphia_2025-08-12,3,3,12,3,12,True,True,True
+p80_p20_min2_sep7,neither,Phoenix,2021,phoenix_2021-08-25,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,neither,Phoenix,2025,phoenix_2025-08-22,2,2,9,2,9,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2019,san_diego_2019-09-13,3,3,12,3,12,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2020,san_diego_2020-07-05,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2020,san_diego_2020-08-17,5,5,20,5,20,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2020,san_diego_2020-09-04,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,neither,San Diego,2020,san_diego_2020-09-23,2,2,7,2,7,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2020,san_diego_2020-10-01,6,6,23,4,15,True,False,False
+p80_p20_min2_sep7,neither,San Diego,2020,san_diego_2020-10-15,2,2,8,1,3,True,False,False
+p80_p20_min2_sep7,neither,San Diego,2022,san_diego_2022-08-13,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2022,san_diego_2022-09-06,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2022,san_diego_2022-09-27,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2023,san_diego_2023-07-24,4,4,16,4,16,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2023,san_diego_2023-08-28,3,3,12,3,12,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2023,san_diego_2023-09-10,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2023,san_diego_2023-10-06,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,neither,San Diego,2024,san_diego_2024-08-13,3,3,15,2,10,True,False,False
+p80_p20_min2_sep7,neither,San Diego,2024,san_diego_2024-09-05,3,3,15,3,15,True,True,True
+p80_p20_min2_sep7,neither,San Diego,2024,san_diego_2024-10-01,2,2,9,2,8,True,True,False
+p80_p20_min2_sep7,neither,San Diego,2025,san_diego_2025-08-20,4,4,16,3,12,True,False,False
+p80_p20_min2_sep7,neither,Seattle,2019,seattle_2019-08-05,2,2,4,1,2,True,False,False
+p80_p20_min2_sep7,neither,Seattle,2020,seattle_2020-08-27,2,2,4,2,4,True,True,True
+p80_p20_min2_sep7,neither,Seattle,2021,seattle_2021-07-18,2,2,3,0,0,True,False,False
+p80_p20_min2_sep7,neither,Seattle,2022,seattle_2022-07-29,3,3,6,3,6,True,True,True
+p80_p20_min2_sep7,neither,Seattle,2023,seattle_2023-07-12,3,3,6,2,3,True,False,False
+p80_p20_min2_sep7,neither,Seattle,2023,seattle_2023-07-27,2,2,4,1,2,True,False,False
+p80_p20_min2_sep7,neither,Seattle,2025,seattle_2025-07-30,2,2,2,2,2,True,True,True
+p80_p20_min2_sep7,neither,Seattle,2025,seattle_2025-08-24,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,wind_only,Atlanta,2019,atlanta_2019-07-05,2,2,2,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2019,atlanta_2019-07-27,6,6,18,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2019,atlanta_2019-08-11,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,wind_only,Atlanta,2019,atlanta_2019-09-09,4,4,12,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2019,atlanta_2019-09-16,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2019,atlanta_2019-09-29,5,5,15,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2020,atlanta_2020-07-14,9,9,27,5,15,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2020,atlanta_2020-07-26,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2020,atlanta_2020-08-07,3,3,9,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2021,atlanta_2021-07-26,4,4,12,3,9,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2021,atlanta_2021-08-09,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2021,atlanta_2021-08-23,3,3,9,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2022,atlanta_2022-07-02,7,7,20,3,8,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2022,atlanta_2022-07-23,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2023,atlanta_2023-06-29,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2023,atlanta_2023-07-25,5,5,15,2,6,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2023,atlanta_2023-08-21,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2024,atlanta_2024-06-14,2,2,5,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2024,atlanta_2024-07-06,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2024,atlanta_2024-08-27,4,4,12,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2024,atlanta_2024-09-20,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2025,atlanta_2025-06-22,4,4,12,2,5,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2025,atlanta_2025-07-29,3,3,9,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2025,atlanta_2025-08-15,4,4,12,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Atlanta,2025,atlanta_2025-09-19,2,0,0,0,0,False,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2019,chicago_2019-07-04,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2020,chicago_2020-07-02,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2020,chicago_2020-08-20,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,wind_only,Chicago,2021,chicago_2021-06-11,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2021,chicago_2021-07-25,4,4,13,2,6,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2021,chicago_2021-08-18,3,3,9,2,6,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2021,chicago_2021-08-25,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2022,chicago_2022-08-23,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2024,chicago_2024-08-03,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2025,chicago_2025-06-30,5,5,15,2,6,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2025,chicago_2025-07-14,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2025,chicago_2025-07-26,4,4,12,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Chicago,2025,chicago_2025-08-15,2,2,8,2,7,True,True,False
+p80_p20_min2_sep7,wind_only,Dallas,2019,dallas_2019-08-05,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Dallas,2019,dallas_2019-09-02,5,5,18,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Dallas,2021,dallas_2021-06-13,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Dallas,2021,dallas_2021-07-26,5,5,16,5,16,True,True,True
+p80_p20_min2_sep7,wind_only,Dallas,2022,dallas_2022-06-17,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Dallas,2022,dallas_2022-09-21,2,2,6,2,4,True,True,False
+p80_p20_min2_sep7,wind_only,Dallas,2023,dallas_2023-07-29,3,3,9,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Dallas,2023,dallas_2023-08-23,4,4,16,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Dallas,2024,dallas_2024-07-10,2,2,8,2,7,True,True,False
+p80_p20_min2_sep7,wind_only,Dallas,2024,dallas_2024-08-05,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Dallas,2025,dallas_2025-07-29,3,3,9,3,9,True,True,True
+p80_p20_min2_sep7,wind_only,Dallas,2025,dallas_2025-08-18,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,wind_only,Denver,2022,denver_2022-08-08,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,wind_only,Houston,2019,houston_2019-07-10,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2019,houston_2019-08-02,2,2,18,1,8,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2019,houston_2019-08-15,2,2,14,1,8,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2020,houston_2020-08-20,2,2,18,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2021,houston_2021-06-12,5,5,48,3,22,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2021,houston_2021-07-29,3,3,26,3,23,True,True,False
+p80_p20_min2_sep7,wind_only,Houston,2021,houston_2021-08-23,2,2,17,2,17,True,True,True
+p80_p20_min2_sep7,wind_only,Houston,2022,houston_2022-08-10,2,2,18,2,18,True,True,True
+p80_p20_min2_sep7,wind_only,Houston,2023,houston_2023-07-23,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2023,houston_2023-09-11,3,3,23,2,15,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2024,houston_2024-06-06,2,2,18,2,16,True,True,False
+p80_p20_min2_sep7,wind_only,Houston,2024,houston_2024-06-30,3,3,25,2,16,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2024,houston_2024-07-09,2,2,3,2,3,True,True,True
+p80_p20_min2_sep7,wind_only,Houston,2024,houston_2024-08-01,6,6,59,1,8,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2024,houston_2024-08-08,11,11,105,2,16,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2024,houston_2024-08-21,2,2,18,1,8,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2024,houston_2024-09-18,3,3,29,2,18,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2025,houston_2025-07-28,3,3,30,1,10,True,False,False
+p80_p20_min2_sep7,wind_only,Houston,2025,houston_2025-08-17,2,2,20,2,20,True,True,True
+p80_p20_min2_sep7,wind_only,Los Angeles,2019,los_angeles_2019-09-03,3,3,20,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Los Angeles,2019,los_angeles_2019-09-12,3,3,21,1,7,True,False,False
+p80_p20_min2_sep7,wind_only,Los Angeles,2020,los_angeles_2020-09-14,2,2,16,2,16,True,True,True
+p80_p20_min2_sep7,wind_only,Los Angeles,2020,los_angeles_2020-09-28,2,2,16,2,16,True,True,True
+p80_p20_min2_sep7,wind_only,Los Angeles,2020,los_angeles_2020-10-12,5,5,40,5,40,True,True,True
+p80_p20_min2_sep7,wind_only,Los Angeles,2021,los_angeles_2021-08-26,3,3,23,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Los Angeles,2021,los_angeles_2021-09-11,3,3,24,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Los Angeles,2022,los_angeles_2022-09-23,6,6,42,3,21,True,False,False
+p80_p20_min2_sep7,wind_only,Los Angeles,2023,los_angeles_2023-08-27,4,4,28,2,14,True,False,False
+p80_p20_min2_sep7,wind_only,Los Angeles,2023,los_angeles_2023-10-07,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,wind_only,Los Angeles,2024,los_angeles_2024-08-19,2,2,14,1,7,True,False,False
+p80_p20_min2_sep7,wind_only,Los Angeles,2024,los_angeles_2024-09-07,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,wind_only,Los Angeles,2024,los_angeles_2024-10-01,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,wind_only,Los Angeles,2025,los_angeles_2025-08-06,2,2,14,1,7,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2019,new_york_2019-07-09,2,2,16,1,8,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2019,new_york_2019-07-26,2,2,18,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2019,new_york_2019-08-03,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2020,new_york_2020-07-29,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2021,new_york_2021-06-08,2,2,17,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2021,new_york_2021-07-14,2,2,15,1,7,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2021,new_york_2021-07-26,2,2,18,1,8,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2021,new_york_2021-08-25,3,3,27,2,18,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2022,new_york_2022-09-04,2,2,18,2,16,True,True,False
+p80_p20_min2_sep7,wind_only,New York,2023,new_york_2023-07-07,2,2,14,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2023,new_york_2023-09-04,6,6,48,4,29,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2024,new_york_2024-07-06,3,3,24,2,16,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2025,new_york_2025-07-28,3,3,24,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,New York,2025,new_york_2025-08-13,2,2,15,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2019,philadelphia_2019-07-03,3,3,15,3,15,True,True,True
+p80_p20_min2_sep7,wind_only,Philadelphia,2019,philadelphia_2019-08-03,2,2,8,1,3,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2019,philadelphia_2019-08-17,4,4,16,3,10,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2021,philadelphia_2021-06-08,2,2,9,1,5,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2021,philadelphia_2021-07-14,2,2,10,2,9,True,True,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2021,philadelphia_2021-07-26,2,2,9,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2021,philadelphia_2021-08-25,3,3,15,3,15,True,True,True
+p80_p20_min2_sep7,wind_only,Philadelphia,2022,philadelphia_2022-08-10,2,2,10,1,5,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2023,philadelphia_2023-06-01,2,2,10,2,9,True,True,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2023,philadelphia_2023-07-05,3,3,14,2,9,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2024,philadelphia_2024-07-07,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2025,philadelphia_2025-06-29,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2025,philadelphia_2025-07-28,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Philadelphia,2025,philadelphia_2025-08-12,3,3,12,1,4,True,False,False
+p80_p20_min2_sep7,wind_only,Phoenix,2021,phoenix_2021-08-25,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,wind_only,Phoenix,2025,phoenix_2025-08-22,2,2,9,1,5,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2019,san_diego_2019-09-13,3,3,12,2,8,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2020,san_diego_2020-07-05,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2020,san_diego_2020-08-17,5,5,20,1,4,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2020,san_diego_2020-09-04,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,wind_only,San Diego,2020,san_diego_2020-09-23,2,2,7,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2020,san_diego_2020-10-01,6,6,23,6,23,True,True,True
+p80_p20_min2_sep7,wind_only,San Diego,2020,san_diego_2020-10-15,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,wind_only,San Diego,2022,san_diego_2022-08-13,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2022,san_diego_2022-09-06,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2022,san_diego_2022-09-27,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2023,san_diego_2023-07-24,4,4,16,2,8,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2023,san_diego_2023-08-28,3,3,12,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2023,san_diego_2023-09-10,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2023,san_diego_2023-10-06,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,wind_only,San Diego,2024,san_diego_2024-08-13,3,3,15,1,5,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2024,san_diego_2024-09-05,3,3,15,1,5,True,False,False
+p80_p20_min2_sep7,wind_only,San Diego,2024,san_diego_2024-10-01,2,2,9,2,9,True,True,True
+p80_p20_min2_sep7,wind_only,San Diego,2025,san_diego_2025-08-20,4,4,16,3,11,True,False,False
+p80_p20_min2_sep7,wind_only,Seattle,2019,seattle_2019-08-05,2,2,4,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Seattle,2020,seattle_2020-08-27,2,2,4,1,2,True,False,False
+p80_p20_min2_sep7,wind_only,Seattle,2021,seattle_2021-07-18,2,2,3,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Seattle,2022,seattle_2022-07-29,3,3,6,3,6,True,True,True
+p80_p20_min2_sep7,wind_only,Seattle,2023,seattle_2023-07-12,3,3,6,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Seattle,2023,seattle_2023-07-27,2,2,4,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Seattle,2025,seattle_2025-07-30,2,2,2,0,0,True,False,False
+p80_p20_min2_sep7,wind_only,Seattle,2025,seattle_2025-08-24,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2019,atlanta_2019-07-05,2,2,2,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2019,atlanta_2019-07-27,6,6,18,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2019,atlanta_2019-08-11,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2019,atlanta_2019-09-09,4,4,12,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2019,atlanta_2019-09-16,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2019,atlanta_2019-09-29,5,5,15,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2020,atlanta_2020-07-14,9,9,27,5,15,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2020,atlanta_2020-07-26,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2020,atlanta_2020-08-07,3,3,9,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2021,atlanta_2021-07-26,4,4,12,3,9,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2021,atlanta_2021-08-09,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2021,atlanta_2021-08-23,3,3,9,1,3,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2022,atlanta_2022-07-02,7,7,20,1,3,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2022,atlanta_2022-07-23,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2023,atlanta_2023-06-29,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2023,atlanta_2023-07-25,5,5,15,2,6,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2023,atlanta_2023-08-21,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2024,atlanta_2024-06-14,2,2,5,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2024,atlanta_2024-07-06,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2024,atlanta_2024-08-27,4,4,12,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2024,atlanta_2024-09-20,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2025,atlanta_2025-06-22,4,4,12,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2025,atlanta_2025-07-29,3,3,9,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2025,atlanta_2025-08-15,4,4,12,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Atlanta,2025,atlanta_2025-09-19,2,0,0,0,0,False,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2019,chicago_2019-07-04,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2020,chicago_2020-07-02,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2020,chicago_2020-08-20,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2021,chicago_2021-06-11,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2021,chicago_2021-07-25,4,4,13,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2021,chicago_2021-08-18,3,3,9,1,3,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2021,chicago_2021-08-25,2,2,6,1,3,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2022,chicago_2022-08-23,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2024,chicago_2024-08-03,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2025,chicago_2025-06-30,5,5,15,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2025,chicago_2025-07-14,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2025,chicago_2025-07-26,4,4,12,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Chicago,2025,chicago_2025-08-15,2,2,8,1,3,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2019,dallas_2019-08-05,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2019,dallas_2019-09-02,5,5,18,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2021,dallas_2021-06-13,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2021,dallas_2021-07-26,5,5,16,5,16,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2022,dallas_2022-06-17,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2022,dallas_2022-09-21,2,2,6,2,4,True,True,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2023,dallas_2023-07-29,3,3,9,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2023,dallas_2023-08-23,4,4,16,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2024,dallas_2024-07-10,2,2,8,2,6,True,True,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2024,dallas_2024-08-05,2,2,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2025,dallas_2025-07-29,3,3,9,3,9,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Dallas,2025,dallas_2025-08-18,2,2,6,2,6,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Denver,2022,denver_2022-08-08,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Houston,2019,houston_2019-07-10,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2019,houston_2019-08-02,2,2,18,1,8,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2019,houston_2019-08-15,2,2,14,1,8,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2020,houston_2020-08-20,2,2,18,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2021,houston_2021-06-12,5,5,48,2,16,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2021,houston_2021-07-29,3,3,26,3,23,True,True,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2021,houston_2021-08-23,2,2,17,2,17,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Houston,2022,houston_2022-08-10,2,2,18,2,18,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Houston,2023,houston_2023-07-23,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2023,houston_2023-09-11,3,3,23,1,7,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2024,houston_2024-06-06,2,2,18,2,16,True,True,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2024,houston_2024-06-30,3,3,25,2,16,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2024,houston_2024-07-09,2,2,3,2,3,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Houston,2024,houston_2024-08-01,6,6,59,1,8,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2024,houston_2024-08-08,11,11,105,2,16,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2024,houston_2024-08-21,2,2,18,1,8,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2024,houston_2024-09-18,3,3,29,1,10,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2025,houston_2025-07-28,3,3,30,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Houston,2025,houston_2025-08-17,2,2,20,2,20,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2019,los_angeles_2019-09-03,3,3,20,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2019,los_angeles_2019-09-12,3,3,21,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2020,los_angeles_2020-09-14,2,2,16,2,16,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2020,los_angeles_2020-09-28,2,2,16,2,16,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2020,los_angeles_2020-10-12,5,5,40,5,40,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2021,los_angeles_2021-08-26,3,3,23,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2021,los_angeles_2021-09-11,3,3,24,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2022,los_angeles_2022-09-23,6,6,42,2,14,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2023,los_angeles_2023-08-27,4,4,28,2,14,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2023,los_angeles_2023-10-07,2,2,14,1,7,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2024,los_angeles_2024-08-19,2,2,14,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2024,los_angeles_2024-09-07,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2024,los_angeles_2024-10-01,2,2,14,2,14,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Los Angeles,2025,los_angeles_2025-08-06,2,2,14,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2019,new_york_2019-07-09,2,2,16,1,8,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2019,new_york_2019-07-26,2,2,18,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2019,new_york_2019-08-03,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2020,new_york_2020-07-29,2,2,18,1,9,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2021,new_york_2021-06-08,2,2,17,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2021,new_york_2021-07-14,2,2,15,1,7,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2021,new_york_2021-07-26,2,2,18,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2021,new_york_2021-08-25,3,3,27,2,18,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2022,new_york_2022-09-04,2,2,18,2,16,True,True,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2023,new_york_2023-07-07,2,2,14,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2023,new_york_2023-09-04,6,6,48,3,22,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2024,new_york_2024-07-06,3,3,24,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2025,new_york_2025-07-28,3,3,24,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,New York,2025,new_york_2025-08-13,2,2,15,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2019,philadelphia_2019-07-03,3,3,15,3,15,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2019,philadelphia_2019-08-03,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2019,philadelphia_2019-08-17,4,4,16,2,7,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2021,philadelphia_2021-06-08,2,2,9,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2021,philadelphia_2021-07-14,2,2,10,1,4,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2021,philadelphia_2021-07-26,2,2,9,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2021,philadelphia_2021-08-25,3,3,15,3,15,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2022,philadelphia_2022-08-10,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2023,philadelphia_2023-06-01,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2023,philadelphia_2023-07-05,3,3,14,2,9,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2024,philadelphia_2024-07-07,2,2,8,1,4,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2025,philadelphia_2025-06-29,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2025,philadelphia_2025-07-28,2,2,10,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Philadelphia,2025,philadelphia_2025-08-12,3,3,12,1,4,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Phoenix,2021,phoenix_2021-08-25,2,2,10,2,10,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,Phoenix,2025,phoenix_2025-08-22,2,2,9,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2019,san_diego_2019-09-13,3,3,12,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2020,san_diego_2020-07-05,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2020,san_diego_2020-08-17,5,5,20,1,4,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2020,san_diego_2020-09-04,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2020,san_diego_2020-09-23,2,2,7,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2020,san_diego_2020-10-01,6,6,23,6,23,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2020,san_diego_2020-10-15,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2022,san_diego_2022-08-13,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2022,san_diego_2022-09-06,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2022,san_diego_2022-09-27,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2023,san_diego_2023-07-24,4,4,16,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2023,san_diego_2023-08-28,3,3,12,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2023,san_diego_2023-09-10,2,2,8,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2023,san_diego_2023-10-06,2,2,8,2,8,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2024,san_diego_2024-08-13,3,3,15,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2024,san_diego_2024-09-05,3,3,15,1,5,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2024,san_diego_2024-10-01,2,2,9,2,9,True,True,True
+p80_p20_min2_sep7,persistent_wind_only,San Diego,2025,san_diego_2025-08-20,4,4,16,1,4,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2019,seattle_2019-08-05,2,2,4,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2020,seattle_2020-08-27,2,2,4,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2021,seattle_2021-07-18,2,2,3,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2022,seattle_2022-07-29,3,3,6,2,4,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2023,seattle_2023-07-12,3,3,6,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2023,seattle_2023-07-27,2,2,4,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2025,seattle_2025-07-30,2,2,2,0,0,True,False,False
+p80_p20_min2_sep7,persistent_wind_only,Seattle,2025,seattle_2025-08-24,2,2,6,1,3,True,False,False

@@ -1,0 +1,11 @@
+{
+  "source_file": "pilot/wasp_weather_alignment.py",
+  "source_sha256": "698b3d538e3eb0e4d5179c74535a4e5b504c75c76669b576a9d2dbf5c02f12bd",
+  "source_first_line": 62,
+  "source_last_line": 77,
+  "function": "aggregate",
+  "function_sha256": "af7aa5285ed41ee0daff7323215d7e3160fe0e1c490544f4368758aaab421a91",
+  "extraction": "AST source segment copied verbatim; only numpy and pandas imports added",
+  "portable_module": "scripts/wasp_weather_aggregation.py",
+  "portable_module_sha256": "50eca444c64b3261e58980750ca69a21c54372ad13cd8646ce0290e863daa4c6"
+}

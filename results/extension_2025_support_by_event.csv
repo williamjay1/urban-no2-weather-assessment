@@ -1,0 +1,30 @@
+model,city,year,episode_id,observed_station_days,selected_station_days,observed_city_days,selected_city_days,any_selected_site_day,every_observed_site_day_selected,every_observed_city_day_has_a_selected_site
+extension_2025,Atlanta,2025,atlanta_2025-06-22,12,12,4,4,True,True,True
+extension_2025,Atlanta,2025,atlanta_2025-07-07,6,6,2,2,True,True,True
+extension_2025,Atlanta,2025,atlanta_2025-07-29,9,9,3,3,True,True,True
+extension_2025,Atlanta,2025,atlanta_2025-08-15,12,12,4,4,True,True,True
+extension_2025,Chicago,2025,chicago_2025-06-29,18,18,6,6,True,True,True
+extension_2025,Chicago,2025,chicago_2025-07-14,8,8,2,2,True,True,True
+extension_2025,Chicago,2025,chicago_2025-07-26,12,12,4,4,True,True,True
+extension_2025,Chicago,2025,chicago_2025-08-15,8,8,2,2,True,True,True
+extension_2025,Dallas,2025,dallas_2025-07-29,12,12,4,4,True,True,True
+extension_2025,Dallas,2025,dallas_2025-08-18,6,6,2,2,True,True,True
+extension_2025,Houston,2025,houston_2025-07-23,20,20,2,2,True,True,True
+extension_2025,Houston,2025,houston_2025-08-17,20,20,2,2,True,True,True
+extension_2025,Los Angeles,2025,los_angeles_2025-08-06,14,14,2,2,True,True,True
+extension_2025,Los Angeles,2025,los_angeles_2025-08-20,19,19,3,3,True,True,True
+extension_2025,Los Angeles,2025,los_angeles_2025-08-30,14,14,2,2,True,True,True
+extension_2025,Los Angeles,2025,los_angeles_2025-10-28,14,14,2,2,True,True,True
+extension_2025,New York,2025,new_york_2025-07-08,16,16,2,2,True,True,True
+extension_2025,New York,2025,new_york_2025-07-28,24,24,3,3,True,True,True
+extension_2025,New York,2025,new_york_2025-08-13,15,15,2,2,True,True,True
+extension_2025,Philadelphia,2025,philadelphia_2025-06-29,10,10,2,2,True,True,True
+extension_2025,Philadelphia,2025,philadelphia_2025-07-11,8,8,2,2,True,True,True
+extension_2025,Philadelphia,2025,philadelphia_2025-07-28,15,15,3,3,True,True,True
+extension_2025,Philadelphia,2025,philadelphia_2025-08-12,12,12,3,3,True,True,True
+extension_2025,Phoenix,2025,phoenix_2025-08-22,9,9,2,2,True,True,True
+extension_2025,San Diego,2025,san_diego_2025-08-20,16,16,4,4,True,True,True
+extension_2025,San Diego,2025,san_diego_2025-08-30,8,8,2,2,True,True,True
+extension_2025,Seattle,2025,seattle_2025-06-09,5,5,2,2,True,True,True
+extension_2025,Seattle,2025,seattle_2025-07-30,5,5,3,3,True,True,True
+extension_2025,Seattle,2025,seattle_2025-08-24,9,9,3,3,True,True,True

@@ -1,0 +1,7 @@
+model,omitted_year,contrast,estimate_ppb,n_cities,n_estimable_cities,missing_cities
+direct_wind_spline,2019,episode_vs_wind_only,,11,9,Denver;Seattle
+direct_wind_spline,2020,episode_vs_wind_only,,11,9,Denver;Seattle
+direct_wind_spline,2021,episode_vs_wind_only,,11,8,Denver;Phoenix;Seattle
+direct_wind_spline,2022,episode_vs_wind_only,,11,9,Denver;Seattle
+direct_wind_spline,2023,episode_vs_wind_only,,11,9,Denver;Seattle
+direct_wind_spline,2024,episode_vs_wind_only,,11,10,Denver

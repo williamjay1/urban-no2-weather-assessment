@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "prepared_utc": "2026-09-22T16:57:52.300070+00:00",
+  "published": false,
+  "stage": "inputs and portable weather reconstruction only",
+  "station_sha256": "4e29a55138f84a2f051c34ca6685940813a927982ee314067eed020e4fe603ea",
+  "station_identical_to_v1": true,
+  "weather_sha256": "4192fc343133634e463a59ce735cebe27e8aea4999c03dc1e8859d027aa64853",
+  "final_analysis_copied": false,
+  "final_figures_copied": false,
+  "final_manuscript_copied": false,
+  "historical_event_audit": {
+    "source_file": "WASP_2025_EVENT_LINEAGE_AUDIT_20260923.md",
+    "sha256": "d4e5de880615ff07ddae003e06bcdb4d71212d23630e1bf8d734e41dc310c128",
+    "scope": "Separate historical audit; not the new UTC event count or a satellite QA repair"
+  }
+}

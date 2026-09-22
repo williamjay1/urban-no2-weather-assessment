@@ -1,0 +1,2259 @@
+{
+  "status": "PASS",
+  "comparison": "exact; no numeric tolerance",
+  "files_compared": 271,
+  "csv_files": 226,
+  "npz_files": 40,
+  "json_files": 5,
+  "numeric_csv_cells_checked": 6342487,
+  "npz_array_values_checked": 7642280,
+  "source_and_reproduced_manifest_verified": true,
+  "models": 20,
+  "pooled_contrasts": 98,
+  "source_only_provenance": [
+    {
+      "file": "FINAL_CODE_FREEZE.json",
+      "sha256": "602ee35fb35a9146658f13a26183e5a6c1210dd7b2781b2cf7155ad8d6a818d7",
+      "reason": "Owner-authored freeze provenance; verified against run identities, not a generated scientific result"
+    }
+  ],
+  "seed": 20260923,
+  "bootstrap_attempts_per_scheme": 5000,
+  "episode_counts": {
+    "2019": 37,
+    "2020": 28,
+    "2021": 33,
+    "2022": 24,
+    "2023": 32,
+    "2024": 35,
+    "2025": 30
+  },
+  "all_unavailable_11_city_points_preserved": true,
+  "input_sha256": {
+    "weather/weather_daily.csv": "4192fc343133634e463a59ce735cebe27e8aea4999c03dc1e8859d027aa64853",
+    "stations/station_daily.csv": "4e29a55138f84a2f051c34ca6685940813a927982ee314067eed020e4fe603ea",
+    "provenance/time_alignment_audit.json": "5e56184ae15cdaec9877a5a6a196b6e4e61dce17aa96df49dda80852957d4fbb"
+  },
+  "source_analysis_script_sha256": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+  "reproduced_analysis_script_sha256": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f",
+  "execution_metadata_differences": [
+    {
+      "file": "analysis_audit.json",
+      "field": "completed_utc",
+      "reference": "2026-09-22T16:51:58.444758+00:00",
+      "reproduced": "2026-09-22T17:06:45.961371+00:00",
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "analysis_audit.json",
+      "field": "elapsed_seconds",
+      "reference": 190.5061618000036,
+      "reproduced": 158.34919169999193,
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "analysis_audit.json",
+      "field": "script_sha256",
+      "reference": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+      "reproduced": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f",
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "analysis_audit.json",
+      "field": "started_utc",
+      "reference": "2026-09-22T16:48:48.233585+00:00",
+      "reproduced": "2026-09-22T17:04:07.907733+00:00",
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "analysis_audit.json",
+      "field": "tests",
+      "reference": {
+        "tests_run": 13,
+        "failures": 0,
+        "errors": 0,
+        "legacy_tests": {
+          "weighted_fixed_effects_matches_explicit_dummies": true,
+          "batched_contrasts": true,
+          "run_dates": true
+        }
+      },
+      "reproduced": {
+        "tests_run": 15,
+        "failures": 0,
+        "errors": 0,
+        "legacy_tests": {
+          "weighted_fixed_effects_matches_explicit_dummies": true,
+          "batched_contrasts": true,
+          "run_dates": true
+        }
+      },
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "run_specification.json",
+      "field": "script_sha256",
+      "reference": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+      "reproduced": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f",
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "run_specification.json",
+      "field": "started_utc",
+      "reference": "2026-09-22T16:48:48.233585+00:00",
+      "reproduced": "2026-09-22T17:04:07.907733+00:00",
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "run_specification.json",
+      "field": "tests",
+      "reference": {
+        "tests_run": 13,
+        "failures": 0,
+        "errors": 0,
+        "legacy_tests": {
+          "weighted_fixed_effects_matches_explicit_dummies": true,
+          "batched_contrasts": true,
+          "run_dates": true
+        }
+      },
+      "reproduced": {
+        "tests_run": 15,
+        "failures": 0,
+        "errors": 0,
+        "legacy_tests": {
+          "weighted_fixed_effects_matches_explicit_dummies": true,
+          "batched_contrasts": true,
+          "run_dates": true
+        }
+      },
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    },
+    {
+      "file": "verification_audit.json",
+      "field": "executed_analysis_script_sha256",
+      "reference": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+      "reproduced": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f",
+      "reason": "Execution timestamp/runtime, confirmed portable script revision, or expanded passing tests; not a scientific result"
+    }
+  ],
+  "failed_files": [],
+  "files": [
+    {
+      "file": "all_city_leave_year_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 5610,
+      "columns": 6,
+      "numeric_cells": 11220,
+      "status": "PASS"
+    },
+    {
+      "file": "analysis_audit.json",
+      "byte_identical": false,
+      "status": "PASS"
+    },
+    {
+      "file": "analysis_station_daily.csv",
+      "byte_identical": true,
+      "rows": 80952,
+      "columns": 40,
+      "numeric_cells": 2104752,
+      "status": "PASS"
+    },
+    {
+      "file": "analysis_weather_daily.csv",
+      "byte_identical": true,
+      "rows": 28127,
+      "columns": 37,
+      "numeric_cells": 703175,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 1371,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "calendar_only_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "city_estimability_review.csv",
+      "byte_identical": true,
+      "rows": 1078,
+      "columns": 27,
+      "numeric_cells": 20482,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "city_median_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "core_monitors_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "descriptive_city_daily.csv",
+      "byte_identical": true,
+      "rows": 16469,
+      "columns": 39,
+      "numeric_cells": 444663,
+      "status": "PASS"
+    },
+    {
+      "file": "descriptive_counts_city_regime.csv",
+      "byte_identical": true,
+      "rows": 263,
+      "columns": 8,
+      "numeric_cells": 1052,
+      "status": "PASS"
+    },
+    {
+      "file": "descriptive_distributions_city_regime.csv",
+      "byte_identical": true,
+      "rows": 4734,
+      "columns": 13,
+      "numeric_cells": 37872,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 3,
+      "columns": 13,
+      "numeric_cells": 21,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 100000,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 41,
+      "numeric_cells": 385,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_leave_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 7,
+      "numeric_cells": 33,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_leave_year.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 7,
+      "numeric_cells": 24,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 6,
+      "numeric_cells": 132,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 31,
+      "numeric_cells": 297,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_point_summary.csv",
+      "byte_identical": true,
+      "rows": 1,
+      "columns": 17,
+      "numeric_cells": 11,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_selected_station_days.csv",
+      "byte_identical": true,
+      "rows": 4936,
+      "columns": 9,
+      "numeric_cells": 9872,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_selected_strata.csv",
+      "byte_identical": true,
+      "rows": 1709,
+      "columns": 6,
+      "numeric_cells": 6836,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 10338,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 35,
+      "numeric_cells": 341,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_neither_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 3,
+      "columns": 13,
+      "numeric_cells": 21,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 100000,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 41,
+      "numeric_cells": 385,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_leave_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 7,
+      "numeric_cells": 33,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_leave_year.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 7,
+      "numeric_cells": 24,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 6,
+      "numeric_cells": 132,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 31,
+      "numeric_cells": 297,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_point_summary.csv",
+      "byte_identical": true,
+      "rows": 1,
+      "columns": 17,
+      "numeric_cells": 11,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_selected_station_days.csv",
+      "byte_identical": true,
+      "rows": 3825,
+      "columns": 9,
+      "numeric_cells": 7650,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_selected_strata.csv",
+      "byte_identical": true,
+      "rows": 1464,
+      "columns": 6,
+      "numeric_cells": 5856,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 10338,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 35,
+      "numeric_cells": 341,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_episode_wind_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 3,
+      "columns": 13,
+      "numeric_cells": 21,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 100000,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 41,
+      "numeric_cells": 385,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_leave_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 7,
+      "numeric_cells": 33,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_leave_year.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 7,
+      "numeric_cells": 24,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 6,
+      "numeric_cells": 132,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 31,
+      "numeric_cells": 297,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_point_summary.csv",
+      "byte_identical": true,
+      "rows": 1,
+      "columns": 17,
+      "numeric_cells": 11,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_selected_station_days.csv",
+      "byte_identical": true,
+      "rows": 3825,
+      "columns": 9,
+      "numeric_cells": 7650,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_selected_strata.csv",
+      "byte_identical": true,
+      "rows": 1464,
+      "columns": 6,
+      "numeric_cells": 5856,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15888,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 35,
+      "numeric_cells": 341,
+      "status": "PASS"
+    },
+    {
+      "file": "direct_wind_spline_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "episode_counts_city_year.csv",
+      "byte_identical": true,
+      "rows": 77,
+      "columns": 3,
+      "numeric_cells": 154,
+      "status": "PASS"
+    },
+    {
+      "file": "episode_manifest.csv",
+      "byte_identical": true,
+      "rows": 219,
+      "columns": 7,
+      "numeric_cells": 438,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "equal_station_weights_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 445000,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_leave_year.csv",
+      "byte_identical": true,
+      "rows": 30,
+      "columns": 7,
+      "numeric_cells": 150,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 330,
+      "columns": 6,
+      "numeric_cells": 660,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 13327,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "exclude_2020_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 161,
+      "columns": 11,
+      "numeric_cells": 805,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 425000,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_leave_year.csv",
+      "byte_identical": true,
+      "rows": 0,
+      "columns": 7,
+      "numeric_cells": 0,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 0,
+      "columns": 6,
+      "numeric_cells": 0,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 66,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 2763,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "extension_2025_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 29,
+      "columns": 11,
+      "numeric_cells": 145,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 13981,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "four_weather_regimes_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "low_wind_run_length_distributions.csv",
+      "byte_identical": true,
+      "rows": 154,
+      "columns": 14,
+      "numeric_cells": 1848,
+      "status": "PASS"
+    },
+    {
+      "file": "low_wind_run_manifest.csv",
+      "byte_identical": true,
+      "rows": 4490,
+      "columns": 8,
+      "numeric_cells": 8980,
+      "status": "PASS"
+    },
+    {
+      "file": "model_specifications.json",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "model_summary.csv",
+      "byte_identical": true,
+      "rows": 98,
+      "columns": 36,
+      "numeric_cells": 2842,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_binary_support_city_year.csv",
+      "byte_identical": true,
+      "rows": 231,
+      "columns": 10,
+      "numeric_cells": 1617,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_event_support.csv",
+      "byte_identical": true,
+      "rows": 420,
+      "columns": 13,
+      "numeric_cells": 2520,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_events.csv",
+      "byte_identical": true,
+      "rows": 140,
+      "columns": 7,
+      "numeric_cells": 280,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 144,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 118,
+      "columns": 11,
+      "numeric_cells": 590,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_thresholds.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 9,
+      "numeric_cells": 77,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p20_min2_sep7_weather.csv",
+      "byte_identical": true,
+      "rows": 28127,
+      "columns": 37,
+      "numeric_cells": 703175,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_binary_support_city_year.csv",
+      "byte_identical": true,
+      "rows": 231,
+      "columns": 10,
+      "numeric_cells": 1617,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_event_support.csv",
+      "byte_identical": true,
+      "rows": 756,
+      "columns": 13,
+      "numeric_cells": 4536,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_events.csv",
+      "byte_identical": true,
+      "rows": 252,
+      "columns": 7,
+      "numeric_cells": 504,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 218,
+      "columns": 11,
+      "numeric_cells": 1090,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_thresholds.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 9,
+      "numeric_cells": 77,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_allruns_weather.csv",
+      "byte_identical": true,
+      "rows": 28127,
+      "columns": 37,
+      "numeric_cells": 703175,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_sep7_binary_support_city_year.csv",
+      "byte_identical": true,
+      "rows": 231,
+      "columns": 10,
+      "numeric_cells": 1617,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min2_sep7_event_support.csv",
+      "byte_identical": true,
+      "rows": 657,
+      "columns": 13,
+      "numeric_cells": 3942,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_binary_support_city_year.csv",
+      "byte_identical": true,
+      "rows": 231,
+      "columns": 10,
+      "numeric_cells": 1617,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_event_support.csv",
+      "byte_identical": true,
+      "rows": 306,
+      "columns": 13,
+      "numeric_cells": 1836,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_events.csv",
+      "byte_identical": true,
+      "rows": 102,
+      "columns": 7,
+      "numeric_cells": 204,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 144,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 66,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 86,
+      "columns": 11,
+      "numeric_cells": 430,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_thresholds.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 9,
+      "numeric_cells": 77,
+      "status": "PASS"
+    },
+    {
+      "file": "p80_p30_min3_sep7_weather.csv",
+      "byte_identical": true,
+      "rows": 28127,
+      "columns": 37,
+      "numeric_cells": 703175,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_binary_support_city_year.csv",
+      "byte_identical": true,
+      "rows": 231,
+      "columns": 10,
+      "numeric_cells": 1617,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_event_support.csv",
+      "byte_identical": true,
+      "rows": 468,
+      "columns": 13,
+      "numeric_cells": 2808,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_events.csv",
+      "byte_identical": true,
+      "rows": 156,
+      "columns": 7,
+      "numeric_cells": 312,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 134,
+      "columns": 11,
+      "numeric_cells": 670,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_thresholds.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 9,
+      "numeric_cells": 77,
+      "status": "PASS"
+    },
+    {
+      "file": "p85_p30_min2_sep7_weather.csv",
+      "byte_identical": true,
+      "rows": 28127,
+      "columns": 37,
+      "numeric_cells": 703175,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 440000,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_leave_year.csv",
+      "byte_identical": true,
+      "rows": 24,
+      "columns": 7,
+      "numeric_cells": 120,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 264,
+      "columns": 6,
+      "numeric_cells": 528,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 10686,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2019_2022_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 122,
+      "columns": 11,
+      "numeric_cells": 610,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 430000,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_leave_year.csv",
+      "byte_identical": true,
+      "rows": 12,
+      "columns": 7,
+      "numeric_cells": 48,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 132,
+      "columns": 6,
+      "numeric_cells": 264,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 5404,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "period_2023_2024_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 67,
+      "columns": 11,
+      "numeric_cells": 335,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 3,
+      "columns": 13,
+      "numeric_cells": 21,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 100000,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 41,
+      "numeric_cells": 385,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_leave_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 7,
+      "numeric_cells": 33,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_leave_year.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 7,
+      "numeric_cells": 24,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 6,
+      "numeric_cells": 132,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 31,
+      "numeric_cells": 297,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_point_summary.csv",
+      "byte_identical": true,
+      "rows": 1,
+      "columns": 17,
+      "numeric_cells": 11,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_selected_station_days.csv",
+      "byte_identical": true,
+      "rows": 2923,
+      "columns": 9,
+      "numeric_cells": 5846,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_selected_strata.csv",
+      "byte_identical": true,
+      "rows": 1139,
+      "columns": 6,
+      "numeric_cells": 4556,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 10338,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 35,
+      "numeric_cells": 341,
+      "status": "PASS"
+    },
+    {
+      "file": "persistent_wind_comparator_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 15,
+      "columns": 13,
+      "numeric_cells": 105,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 380000,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 55,
+      "columns": 40,
+      "numeric_cells": 1870,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_leave_city.csv",
+      "byte_identical": true,
+      "rows": 55,
+      "columns": 7,
+      "numeric_cells": 165,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_leave_year.csv",
+      "byte_identical": true,
+      "rows": 30,
+      "columns": 7,
+      "numeric_cells": 150,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 330,
+      "columns": 6,
+      "numeric_cells": 660,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 55,
+      "columns": 30,
+      "numeric_cells": 1430,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_point_summary.csv",
+      "byte_identical": true,
+      "rows": 5,
+      "columns": 17,
+      "numeric_cells": 60,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 18070,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_adjusted_secondary_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 15,
+      "columns": 13,
+      "numeric_cells": 105,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 380000,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 55,
+      "columns": 40,
+      "numeric_cells": 1870,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_leave_city.csv",
+      "byte_identical": true,
+      "rows": 55,
+      "columns": 7,
+      "numeric_cells": 165,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_leave_year.csv",
+      "byte_identical": true,
+      "rows": 30,
+      "columns": 7,
+      "numeric_cells": 150,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 330,
+      "columns": 6,
+      "numeric_cells": 660,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 55,
+      "columns": 30,
+      "numeric_cells": 1430,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_point_summary.csv",
+      "byte_identical": true,
+      "rows": 5,
+      "columns": 17,
+      "numeric_cells": 60,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 2032,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "phase_calendar_secondary_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    },
+    {
+      "file": "point_model_summary.csv",
+      "byte_identical": true,
+      "rows": 98,
+      "columns": 17,
+      "numeric_cells": 1078,
+      "status": "PASS"
+    },
+    {
+      "file": "restricted_support_review.csv",
+      "byte_identical": true,
+      "rows": 176,
+      "columns": 27,
+      "numeric_cells": 3344,
+      "status": "PASS"
+    },
+    {
+      "file": "run_specification.json",
+      "byte_identical": false,
+      "status": "PASS"
+    },
+    {
+      "file": "spline_specifications.json",
+      "byte_identical": true,
+      "status": "PASS"
+    },
+    {
+      "file": "station_year_coverage.csv",
+      "byte_identical": true,
+      "rows": 406,
+      "columns": 5,
+      "numeric_cells": 812,
+      "status": "PASS"
+    },
+    {
+      "file": "thresholds.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 9,
+      "numeric_cells": 77,
+      "status": "PASS"
+    },
+    {
+      "file": "verification_audit.json",
+      "byte_identical": false,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_bootstrap_diagnostics.csv",
+      "byte_identical": true,
+      "rows": 18,
+      "columns": 13,
+      "numeric_cells": 126,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_bootstrap_draws.npz",
+      "byte_identical": true,
+      "arrays": 5,
+      "array_values": 450000,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 40,
+      "numeric_cells": 2244,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_leave_city.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 7,
+      "numeric_cells": 198,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_leave_year.csv",
+      "byte_identical": true,
+      "rows": 36,
+      "columns": 7,
+      "numeric_cells": 180,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_leave_year_by_city.csv",
+      "byte_identical": true,
+      "rows": 396,
+      "columns": 6,
+      "numeric_cells": 792,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_point_city_estimates.csv",
+      "byte_identical": true,
+      "rows": 66,
+      "columns": 30,
+      "numeric_cells": 1716,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_point_summary.csv",
+      "byte_identical": true,
+      "rows": 6,
+      "columns": 17,
+      "numeric_cells": 72,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_sufficient_statistics.npz",
+      "byte_identical": true,
+      "arrays": 7,
+      "array_values": 15968,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_support_by_city.csv",
+      "byte_identical": true,
+      "rows": 11,
+      "columns": 34,
+      "numeric_cells": 330,
+      "status": "PASS"
+    },
+    {
+      "file": "weather_adjusted_support_by_event.csv",
+      "byte_identical": true,
+      "rows": 189,
+      "columns": 11,
+      "numeric_cells": 945,
+      "status": "PASS"
+    }
+  ],
+  "figures_reproduced": false,
+  "manuscript_verified": false,
+  "published": false
+}

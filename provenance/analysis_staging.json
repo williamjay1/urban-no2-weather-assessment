@@ -1,0 +1,30 @@
+{
+  "owner_confirmation": "Dewey confirmed frozen final sources on 2026-09-23; only portable output validation and saved-result diagnostics changed; no publication authorized.",
+  "confirmed_scripts": {
+    "wasp_analysis.py": "3ec0f9738db0fa8f274ac08bdcf2bf60cced7faaff8220b8b2af15b771491a1f",
+    "test_wasp_analysis.py": "ec1e3c12edb677303e42351c71c46fa0aa13dce81f032eb0cfd1358ec7baf0af",
+    "calendar_station_analysis.py": "339bbbd61e9af5293e4ad5eb8d889189d420b8e7d7ab161e38a0b20c2b63813a"
+  },
+  "original_executed_analysis_sha256": "19472614d0a3c97dfbe53c35a2ee335cddc7f6f86f998459875e5551d4d17c40",
+  "original_executed_test_sha256": "7868c9865b95662fa4b495dfb71706609f004c574359ce5927cfc4877cc20931",
+  "original_function_ast_changes": [
+    "main"
+  ],
+  "added_functions": [
+    "validate_output_path",
+    "verify_saved_analysis"
+  ],
+  "all_original_non_main_function_asts_identical": true,
+  "source_manifest_sha256": "ad5cf455df5edf513c0769ecae3fb32ef8336f267d6557a427adf92112904aed",
+  "reference_output_files": 272,
+  "excluded_source_only_files": [
+    "STATISTICAL_REVIEW.md",
+    "executed_test_wasp_analysis.py",
+    "executed_wasp_analysis.py"
+  ],
+  "source_models": 20,
+  "source_pooled_contrasts": 98,
+  "source_completed": true,
+  "final_independent_reproduction": "PENDING",
+  "published": false
+}

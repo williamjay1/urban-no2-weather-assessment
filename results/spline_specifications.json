@@ -1,354 +1,904 @@
 {
   "Atlanta": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        66.0,
-        76.0
-      ],
-      "lower": 34.0,
-      "upper": 97.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        65.95833333333333,
+        76.45833333333333
+      ],
+      "lower": 35.041666666666664,
+      "upper": 96.75,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.051387924967792785,
+          0.4864178710714546,
+          0.39229671217823503,
+          0.0698974917825178
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.6931471805599453,
-        1.8191291184271186
+        1.791759469228055
       ],
       "lower": 0.0,
-      "upper": 4.749270529961848,
-      "df": 3,
-      "log1p": true
+      "upper": 4.6061696863211745,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.5381106058612587,
+          0.1378821104879131,
+          0.2922970652196753,
+          0.031710218431152286
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        18.01,
-        22.763333333333332
-      ],
-      "lower": 1.41,
-      "upper": 31.04,
       "df": 3,
-      "log1p": false
+      "knots": [
+        18.012,
+        22.764
+      ],
+      "lower": 1.4076,
+      "upper": 31.0356,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.07135716197975514,
+          0.48812839202258607,
+          0.3525026240010024,
+          0.08801182199665654
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        5.2138888888888895,
+        6.084722222222222
+      ],
+      "lower": 3.1625,
+      "upper": 6.770833333333333,
+      "reference_days": 368,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.08971204315562137,
+          0.4739100888955799,
+          0.28426643647986866,
+          0.15211143146893003
+        ]
+      ]
     }
   },
   "Chicago": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        66.0,
-        77.0
-      ],
-      "lower": 38.0,
-      "upper": 95.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        66.5,
+        76.47222222222221
+      ],
+      "lower": 38.25,
+      "upper": 95.45833333333331,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.059060553692128134,
+          0.49077569534919047,
+          0.36805619260184763,
+          0.08210755835683421
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.7419373447293773,
         1.8666341147229357
       ],
       "lower": 0.0,
-      "upper": 4.377014092850337,
-      "df": 3,
-      "log1p": true
+      "upper": 4.393213824064446,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.5556235118757492,
+          0.15368284896961762,
+          0.2605529808257761,
+          0.030140658328856807
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        16.73,
-        23.67
-      ],
-      "lower": 1.56,
-      "upper": 31.66,
       "df": 3,
-      "log1p": false
+      "knots": [
+        16.7328,
+        23.6688
+      ],
+      "lower": 1.5552,
+      "upper": 31.6584,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.08623789413659054,
+          0.44543930073876326,
+          0.360374634219505,
+          0.10794817090514135
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        7.895833333333333,
+        9.433333333333334
+      ],
+      "lower": 4.3,
+      "upper": 10.729166666666666,
+      "reference_days": 388,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.06638065264635651,
+          0.47811991111060886,
+          0.3144811217857726,
+          0.14101831445726187
+        ]
+      ]
     }
   },
   "Dallas": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        58.0,
-        70.0
-      ],
-      "lower": 29.0,
-      "upper": 95.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        58.13888888888888,
+        70.33333333333333
+      ],
+      "lower": 28.625,
+      "upper": 95.45833333333331,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.06743108908075907,
+          0.4498086140535035,
+          0.40644020970864086,
+          0.07632008715709626
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
-        0.5104200437900248,
-        1.728666456774237
+        0.47000362924573563,
+        1.7227665977411035
       ],
       "lower": 0.0,
-      "upper": 4.551769409260976,
-      "df": 3,
-      "log1p": true
+      "upper": 4.525044141508807,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.6278588869162909,
+          0.12485709003394252,
+          0.20893533689815877,
+          0.03834868615160689
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        18.916666666666664,
-        24.226666666666663
-      ],
-      "lower": 1.57,
-      "upper": 30.57,
       "df": 3,
-      "log1p": false
+      "knots": [
+        18.9168,
+        24.2256
+      ],
+      "lower": 1.5732,
+      "upper": 30.5676,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.0685718048289573,
+          0.5057955968922825,
+          0.3242984471304349,
+          0.10133415114832521
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        6.893055555555556,
+        8.169444444444444
+      ],
+      "lower": 4.316666666666666,
+      "upper": 9.179166666666667,
+      "reference_days": 380,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.08060765029690854,
+          0.47967859210451774,
+          0.2864034909449981,
+          0.15331026665357578
+        ]
+      ]
     }
   },
   "Denver": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        41.0,
-        54.0
-      ],
-      "lower": 19.0,
-      "upper": 97.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        40.54166666666666,
+        53.93055555555555
+      ],
+      "lower": 19.166666666666668,
+      "upper": 96.83333333333331,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.07786286715821528,
+          0.3686873267257145,
+          0.48113283778925386,
+          0.07231696832681662
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.4700036292457356,
-        1.0986122886681098
+        1.1631508098056809
       ],
       "lower": 0.0,
-      "upper": 3.703768066607687,
-      "df": 3,
-      "log1p": true
+      "upper": 3.6938669956249757,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.5904380185202192,
+          0.1073981759483875,
+          0.2684115799568738,
+          0.03375222557451809
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        21.146666666666665,
-        26.063333333333333
-      ],
-      "lower": 4.79,
-      "upper": 32.52,
       "df": 3,
-      "log1p": false
+      "knots": [
+        21.146399999999996,
+        26.0664
+      ],
+      "lower": 4.7916,
+      "upper": 32.5188,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.06263610863329247,
+          0.5074184721135647,
+          0.33222369397134843,
+          0.09772172528179457
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        6.133333333333333,
+        6.7
+      ],
+      "lower": 3.329166666666667,
+      "upper": 7.066666666666666,
+      "reference_days": 385,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.04347736216673991,
+          0.6404300054835119,
+          0.11879063428657226,
+          0.19730199806317564
+        ]
+      ]
     }
   },
   "Houston": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        73.0,
-        80.0
-      ],
-      "lower": 29.0,
-      "upper": 97.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        73.20833333333333,
+        80.04166666666667
+      ],
+      "lower": 28.70833333333333,
+      "upper": 97.5,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.03013687371481134,
+          0.5848219336574683,
+          0.3234187597679389,
+          0.06162243285978113
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.6931471805599453,
-        1.8510485380429125
+        1.8562979903656263
       ],
       "lower": 0.0,
-      "upper": 5.1065513509260825,
-      "df": 3,
-      "log1p": true
+      "upper": 5.099256485749784,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.4783533997835416,
+          0.1635490258144107,
+          0.32860251546787156,
+          0.029495058934175665
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
+      "df": 3,
       "knots": [
         18.0,
-        22.53
+        22.5252
       ],
-      "lower": 2.12,
-      "upper": 30.26,
+      "lower": 2.124,
+      "upper": 30.258,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.06946981842648481,
+          0.4937339370312783,
+          0.3515873776709927,
+          0.08520886687124352
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
       "df": 3,
-      "log1p": false
+      "knots": [
+        6.195833333333333,
+        7.263888888888888
+      ],
+      "lower": 3.6791666666666663,
+      "upper": 8.204166666666667,
+      "reference_days": 413,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.08467911962115827,
+          0.4791327392896905,
+          0.2975080855896351,
+          0.13868005549951623
+        ]
+      ]
     }
   },
   "Los Angeles": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        60.0,
-        68.0
-      ],
-      "lower": 10.0,
-      "upper": 87.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        59.5,
+        67.84722222222221
+      ],
+      "lower": 10.041666666666666,
+      "upper": 86.83333333333333,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.04348485653092122,
+          0.5734208796063239,
+          0.3270125814612558,
+          0.05608168240150046
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.18232155679395465,
-        0.6931471805599453
+        0.5306282510621704
       ],
       "lower": 0.0,
-      "upper": 3.7887247890836524,
-      "df": 3,
-      "log1p": true
+      "upper": 3.835141961092188,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.9100163500770059,
+          -0.019729001107777255,
+          0.10285061973978123,
+          0.006862031290989279
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        23.38,
-        28.0
-      ],
-      "lower": 3.12,
-      "upper": 32.3,
       "df": 3,
-      "log1p": false
+      "knots": [
+        23.379599999999996,
+        28.002000000000002
+      ],
+      "lower": 3.1176,
+      "upper": 32.2992,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.044822603742701334,
+          0.5885095660840384,
+          0.2603597595059331,
+          0.10630807066732777
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        5.4527777777777775,
+        5.954166666666667
+      ],
+      "lower": 3.1,
+      "upper": 6.404166666666666,
+      "reference_days": 429,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.04550518680813977,
+          0.6203204125062319,
+          0.15148894838088758,
+          0.1826854523047408
+        ]
+      ]
     }
   },
   "New York": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        66.0,
-        76.0
-      ],
-      "lower": 30.0,
-      "upper": 95.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        65.86111111111111,
+        75.83333333333333
+      ],
+      "lower": 29.666666666666668,
+      "upper": 95.33333333333331,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.046444671257627794,
+          0.5145747060319322,
+          0.3506958175977638,
+          0.08828480511267672
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.6931471805599453,
-        1.916922612182061
+        1.9021075263969203
       ],
       "lower": 0.0,
-      "upper": 4.634728988229636,
-      "df": 3,
-      "log1p": true
+      "upper": 4.640537329825382,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.566977610398808,
+          0.1337474972788406,
+          0.2695341010085188,
+          0.029740791313833285
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        15.116666666666665,
-        22.12
-      ],
-      "lower": 0.79,
-      "upper": 30.98,
       "df": 3,
-      "log1p": false
+      "knots": [
+        15.1176,
+        22.122
+      ],
+      "lower": 0.7919999999999999,
+      "upper": 30.9816,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.09367399107244188,
+          0.41715370421337783,
+          0.3852425825812973,
+          0.10392972213288307
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        6.458333333333333,
+        7.375
+      ],
+      "lower": 3.654166666666667,
+      "upper": 8.15,
+      "reference_days": 391,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.06451346898232532,
+          0.5375466948280913,
+          0.24338048933442663,
+          0.15455934685515632
+        ]
+      ]
     }
   },
   "Philadelphia": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        61.0,
-        73.0
-      ],
-      "lower": 24.0,
-      "upper": 96.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        60.79166666666666,
+        72.43055555555556
+      ],
+      "lower": 23.83333333333333,
+      "upper": 95.25,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.049814424104269645,
+          0.4993557106899282,
+          0.3688357307105886,
+          0.081994134495213
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
-        0.6931471805599453,
+        0.7256739566728996,
         1.9315214116032138
       ],
       "lower": 0.0,
-      "upper": 4.1956970564823886,
-      "df": 3,
-      "log1p": true
+      "upper": 4.178992036282385,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.5641965812195524,
+          0.15581023317076775,
+          0.2404727923705477,
+          0.03952039323913059
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        15.95,
-        22.34
-      ],
-      "lower": 0.81,
-      "upper": 31.36,
       "df": 3,
-      "log1p": false
+      "knots": [
+        15.948,
+        22.3392
+      ],
+      "lower": 0.8136,
+      "upper": 31.356,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.09411878063065124,
+          0.4344713215244214,
+          0.37790870361694345,
+          0.09350119422798406
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        6.131944444444444,
+        7.058333333333334
+      ],
+      "lower": 3.0083333333333333,
+      "upper": 7.845833333333334,
+      "reference_days": 390,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.05764399667274039,
+          0.5628103096194305,
+          0.1998554453588499,
+          0.17969024834897943
+        ]
+      ]
     }
   },
   "Phoenix": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        18.0,
-        28.0
-      ],
-      "lower": 6.0,
-      "upper": 85.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        17.708333333333332,
+        27.597222222222214
+      ],
+      "lower": 6.375,
+      "upper": 84.91666666666667,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.108911277425096,
+          0.22621271076579696,
+          0.6237730917389177,
+          0.041102920070189695
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
-        0.33647223662121295,
-        0.7884573603642702
+        0.262364264467491,
+        0.7419373447293773
       ],
       "lower": 0.0,
       "upper": 3.6888794541139363,
-      "df": 3,
-      "log1p": true
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.8531588595835833,
+          0.008603563874315332,
+          0.12627670570903363,
+          0.011960870833066397
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        23.94,
-        28.403333333333332
-      ],
-      "lower": 4.24,
-      "upper": 32.9,
       "df": 3,
-      "log1p": false
+      "knots": [
+        23.9388,
+        28.4052
+      ],
+      "lower": 4.2408,
+      "upper": 32.9004,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.032271958568002246,
+          0.6063616646232207,
+          0.22368300523977938,
+          0.137683371568998
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        5.516666666666667,
+        6.191666666666666
+      ],
+      "lower": 3.5416666666666665,
+      "upper": 6.729166666666667,
+      "reference_days": 377,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.05846182999168418,
+          0.5144920784517351,
+          0.2652506213999518,
+          0.1617954701566294
+        ]
+      ]
     }
   },
   "San Diego": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        66.0,
-        73.0
-      ],
-      "lower": 14.0,
-      "upper": 90.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        66.36111111111111,
+        72.58333333333333
+      ],
+      "lower": 14.416666666666666,
+      "upper": 90.125,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.03272829637162512,
+          0.6192033034866706,
+          0.29416208886086226,
+          0.05390631128084153
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.262364264467491,
-        0.7884573603642702
+        0.7419373447293773
       ],
       "lower": 0.0,
-      "upper": 3.520460802488973,
-      "df": 3,
-      "log1p": true
+      "upper": 3.456316680883235,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.8842005117246703,
+          0.01836836599954378,
+          0.08905820388639245,
+          0.008372918389393006
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        23.343333333333334,
-        27.953333333333333
-      ],
-      "lower": 3.42,
-      "upper": 32.18,
       "df": 3,
-      "log1p": false
+      "knots": [
+        23.3412,
+        27.9576
+      ],
+      "lower": 3.4236,
+      "upper": 32.184,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.04259563678328947,
+          0.5815979811839381,
+          0.26381685994082454,
+          0.11198952209194746
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        5.879166666666666,
+        6.325
+      ],
+      "lower": 3.633333333333333,
+      "upper": 6.658333333333334,
+      "reference_days": 409,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.04346923721843247,
+          0.6391796892633073,
+          0.12714319504451202,
+          0.19020787847374832
+        ]
+      ]
     }
   },
   "Seattle": {
     "relative_humidity_2m_mean": {
-      "knots": [
-        70.0,
-        78.0
-      ],
-      "lower": 31.0,
-      "upper": 95.0,
       "df": 3,
-      "log1p": false
+      "knots": [
+        70.31944444444444,
+        77.59722222222221
+      ],
+      "lower": 32.291666666666664,
+      "upper": 95.58333333333331,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.021296730108173203,
+          0.5512407787127706,
+          0.3498328525441651,
+          0.07762963863489161
+        ]
+      ]
     },
     "precipitation_sum": {
+      "df": 3,
       "knots": [
         0.7419373447293773,
-        1.791759469228055
+        1.7227665977411035
       ],
       "lower": 0.0,
-      "upper": 3.8110970868381857,
-      "df": 3,
-      "log1p": true
+      "upper": 3.871201010907891,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": true,
+      "center_constraint": [
+        [
+          0.5870012131427463,
+          0.14326484910488632,
+          0.23818396355834254,
+          0.031549974194023785
+        ]
+      ]
     },
     "shortwave_radiation_sum": {
-      "knots": [
-        13.18,
-        21.05333333333333
-      ],
-      "lower": 0.82,
-      "upper": 31.24,
       "df": 3,
-      "log1p": false
+      "knots": [
+        13.1832,
+        21.0564
+      ],
+      "lower": 0.8244,
+      "upper": 31.2408,
+      "reference_days": 1284,
+      "reference": "2019-2024 warm days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.09438710695615714,
+          0.42352396421622646,
+          0.3591056341814112,
+          0.1229832946462054
+        ]
+      ]
+    },
+    "wind_speed_10m_mean": {
+      "df": 3,
+      "knots": [
+        4.520833333333333,
+        5.2625
+      ],
+      "lower": 2.2625,
+      "upper": 5.8500000000000005,
+      "reference_days": 369,
+      "reference": "2019-2024 warm low-wind P30 days",
+      "log1p": false,
+      "center_constraint": [
+        [
+          0.06237576227556985,
+          0.513187396667765,
+          0.259967658306554,
+          0.1644691827501112
+        ]
+      ]
     }
   }
 }

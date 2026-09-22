@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "scope": "weather raw-to-derived and NO2 input identity only",
+  "input_files_hash_verified": 24,
+  "utc_hours": 675576,
+  "city_days": 28127,
+  "numeric_values_checked": 168762,
+  "absolute_tolerance": 1e-10,
+  "all_values_bit_equal": true,
+  "csv_byte_identical": true,
+  "per_variable": {
+    "temperature_2m_max": {
+      "values": 28127,
+      "not_bit_equal": 0,
+      "max_absolute_difference": 0.0,
+      "above_tolerance": 0
+    },
+    "wind_speed_10m_mean": {
+      "values": 28127,
+      "not_bit_equal": 0,
+      "max_absolute_difference": 0.0,
+      "above_tolerance": 0
+    },
+    "relative_humidity_2m_mean": {
+      "values": 28127,
+      "not_bit_equal": 0,
+      "max_absolute_difference": 0.0,
+      "above_tolerance": 0
+    },
+    "wind_direction_10m_dominant": {
+      "values": 28127,
+      "not_bit_equal": 0,
+      "max_absolute_difference": 0.0,
+      "above_tolerance": 0
+    },
+    "precipitation_sum": {
+      "values": 28127,
+      "not_bit_equal": 0,
+      "max_absolute_difference": 0.0,
+      "above_tolerance": 0
+    },
+    "shortwave_radiation_sum": {
+      "values": 28127,
+      "not_bit_equal": 0,
+      "max_absolute_difference": 0.0,
+      "above_tolerance": 0
+    }
+  },
+  "fixed_aqs_standard_offsets": {
+    "Atlanta": -5,
+    "Chicago": -6,
+    "Dallas": -6,
+    "Denver": -7,
+    "Houston": -6,
+    "Los Angeles": -8,
+    "New York": -5,
+    "Philadelphia": -5,
+    "Phoenix": -7,
+    "San Diego": -8,
+    "Seattle": -8
+  },
+  "station_days": 138303,
+  "station_sites": 63,
+  "station_sha256": "4e29a55138f84a2f051c34ca6685940813a927982ee314067eed020e4fe603ea",
+  "reference_weather_sha256": "4192fc343133634e463a59ce735cebe27e8aea4999c03dc1e8859d027aa64853",
+  "rebuilt_weather_sha256": "4192fc343133634e463a59ce735cebe27e8aea4999c03dc1e8859d027aa64853",
+  "final_model_reproduction": "NOT_RUN",
+  "publication": "NOT_PERFORMED",
+  "no2_action": "Byte-preserving copy of included derived NO2, not reconstruction of national AQS files"
+}

@@ -1,0 +1,67 @@
+model,city,omitted_year,contrast,estimate_ppb,estimable
+direct_episode_neither,Atlanta,2019,episode_vs_neither,1.8486191326185857,True
+direct_episode_neither,Chicago,2019,episode_vs_neither,4.403907397576711,True
+direct_episode_neither,Dallas,2019,episode_vs_neither,2.8243044183840613,True
+direct_episode_neither,Denver,2019,episode_vs_neither,,False
+direct_episode_neither,Houston,2019,episode_vs_neither,2.117979772969335,True
+direct_episode_neither,Los Angeles,2019,episode_vs_neither,3.5010286947476033,True
+direct_episode_neither,New York,2019,episode_vs_neither,4.529278582700282,True
+direct_episode_neither,Philadelphia,2019,episode_vs_neither,2.561004849071717,True
+direct_episode_neither,Phoenix,2019,episode_vs_neither,4.442781522439034,True
+direct_episode_neither,San Diego,2019,episode_vs_neither,2.1684630614226794,True
+direct_episode_neither,Seattle,2019,episode_vs_neither,4.669398847423879,True
+direct_episode_neither,Atlanta,2020,episode_vs_neither,2.2534382250516676,True
+direct_episode_neither,Chicago,2020,episode_vs_neither,5.156252990100697,True
+direct_episode_neither,Dallas,2020,episode_vs_neither,2.7607506518166023,True
+direct_episode_neither,Denver,2020,episode_vs_neither,,False
+direct_episode_neither,Houston,2020,episode_vs_neither,1.7031329063611569,True
+direct_episode_neither,Los Angeles,2020,episode_vs_neither,3.4304047292335014,True
+direct_episode_neither,New York,2020,episode_vs_neither,4.4357027179851585,True
+direct_episode_neither,Philadelphia,2020,episode_vs_neither,2.809910159403679,True
+direct_episode_neither,Phoenix,2020,episode_vs_neither,2.487250551206788,True
+direct_episode_neither,San Diego,2020,episode_vs_neither,2.0301826969065644,True
+direct_episode_neither,Seattle,2020,episode_vs_neither,5.195756097024979,True
+direct_episode_neither,Atlanta,2021,episode_vs_neither,1.8869947354079863,True
+direct_episode_neither,Chicago,2021,episode_vs_neither,3.8417688503866927,True
+direct_episode_neither,Dallas,2021,episode_vs_neither,2.6274307773593044,True
+direct_episode_neither,Denver,2021,episode_vs_neither,,False
+direct_episode_neither,Houston,2021,episode_vs_neither,0.850493680261108,True
+direct_episode_neither,Los Angeles,2021,episode_vs_neither,3.5414948343142214,True
+direct_episode_neither,New York,2021,episode_vs_neither,4.714029507956342,True
+direct_episode_neither,Philadelphia,2021,episode_vs_neither,2.163366698223025,True
+direct_episode_neither,Phoenix,2021,episode_vs_neither,11.161212739570601,True
+direct_episode_neither,San Diego,2021,episode_vs_neither,2.301183071113045,True
+direct_episode_neither,Seattle,2021,episode_vs_neither,4.73746493322977,True
+direct_episode_neither,Atlanta,2022,episode_vs_neither,2.293305886727635,True
+direct_episode_neither,Chicago,2022,episode_vs_neither,4.509675886178741,True
+direct_episode_neither,Dallas,2022,episode_vs_neither,2.774564572687659,True
+direct_episode_neither,Denver,2022,episode_vs_neither,,False
+direct_episode_neither,Houston,2022,episode_vs_neither,1.3798230825638647,True
+direct_episode_neither,Los Angeles,2022,episode_vs_neither,3.056852815375038,True
+direct_episode_neither,New York,2022,episode_vs_neither,5.411553273221829,True
+direct_episode_neither,Philadelphia,2022,episode_vs_neither,2.87028422414405,True
+direct_episode_neither,Phoenix,2022,episode_vs_neither,4.442781522439034,True
+direct_episode_neither,San Diego,2022,episode_vs_neither,2.262057765022723,True
+direct_episode_neither,Seattle,2022,episode_vs_neither,4.36206008741773,True
+direct_episode_neither,Atlanta,2023,episode_vs_neither,2.1665325718034767,True
+direct_episode_neither,Chicago,2023,episode_vs_neither,4.0524593951155286,True
+direct_episode_neither,Dallas,2023,episode_vs_neither,2.511371136798153,True
+direct_episode_neither,Denver,2023,episode_vs_neither,,False
+direct_episode_neither,Houston,2023,episode_vs_neither,2.42915142942839,True
+direct_episode_neither,Los Angeles,2023,episode_vs_neither,1.5615551761711473,True
+direct_episode_neither,New York,2023,episode_vs_neither,5.335781335791758,True
+direct_episode_neither,Philadelphia,2023,episode_vs_neither,1.8877961819916855,True
+direct_episode_neither,Phoenix,2023,episode_vs_neither,4.442781522439034,True
+direct_episode_neither,San Diego,2023,episode_vs_neither,2.0579496799098074,True
+direct_episode_neither,Seattle,2023,episode_vs_neither,6.2140321672966135,True
+direct_episode_neither,Atlanta,2024,episode_vs_neither,2.099270021843789,True
+direct_episode_neither,Chicago,2024,episode_vs_neither,4.768004763422672,True
+direct_episode_neither,Dallas,2024,episode_vs_neither,2.664675678936881,True
+direct_episode_neither,Denver,2024,episode_vs_neither,,False
+direct_episode_neither,Houston,2024,episode_vs_neither,2.626455709555522,True
+direct_episode_neither,Los Angeles,2024,episode_vs_neither,3.2369435344818243,True
+direct_episode_neither,New York,2024,episode_vs_neither,4.03284688242582,True
+direct_episode_neither,Philadelphia,2024,episode_vs_neither,3.1930870389568926,True
+direct_episode_neither,Phoenix,2024,episode_vs_neither,3.111242968714123,True
+direct_episode_neither,San Diego,2024,episode_vs_neither,2.3242228234004543,True
+direct_episode_neither,Seattle,2024,episode_vs_neither,4.791854442475483,True

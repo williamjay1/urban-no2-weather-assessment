@@ -1,0 +1,12 @@
+model,contrast,city,estimate_ppb,estimable,n_station_days,n_city_days,n_stations,n_strata,n_episode_station_days,n_episode_city_days,n_episodes,n_compound_city_days,n_years_observed,n_year_blocks,rank_at_pinv_tolerance,parameters,condition_number,weighted_rmse,total_weight,station_days_episode,city_days_episode,station_days_neither,city_days_neither,station_days_heat_only,city_days_heat_only,station_days_wind_only,city_days_wind_only,station_days_other_compound,city_days_other_compound,both_present_strata
+direct_wind_spline,episode_vs_wind_only,Atlanta,0.2718246846483119,True,276,95,3,101,137,47,20,47,6,6,15,15,2047.6032073328893,1.9688092377959794,95.0,137,47,0,0,0,0,139,48,0,0,101
+direct_wind_spline,episode_vs_wind_only,Chicago,-0.1341717371532387,True,133,43,4,61,65,21,12,21,6,6,15,15,12627.850711535986,2.4907728305573333,43.0,65,21,0,0,0,0,68,22,0,0,61
+direct_wind_spline,episode_vs_wind_only,Dallas,0.4165451277072237,True,168,57,4,67,67,22,10,22,5,6,15,15,1249.6158457206307,1.8513972429064376,57.0,67,22,0,0,0,0,101,35,0,0,67
+direct_wind_spline,episode_vs_wind_only,Denver,,False,64,15,5,26,26,6,4,6,4,6,9,15,2.714255902290694e+18,1.0522516324173459,15.0,26,6,0,0,0,0,38,9,0,0,26
+direct_wind_spline,episode_vs_wind_only,Houston,-1.269550332891068,True,792,100,10,288,374,46,18,46,6,6,15,15,5702.537614557151,2.4020182844562292,100.0,374,46,0,0,0,0,418,54,0,0,288
+direct_wind_spline,episode_vs_wind_only,Los Angeles,-1.8594026935301877,True,886,124,8,314,360,50,18,50,6,6,15,15,201401.34703658536,3.5017598244927206,123.99999999999997,360,50,0,0,0,0,526,74,0,0,314
+direct_wind_spline,episode_vs_wind_only,New York,2.53465622401382,True,607,75,9,251,276,34,19,34,6,6,15,15,16484.45357367524,2.20625998790915,75.0,276,34,0,0,0,0,331,41,0,0,251
+direct_wind_spline,episode_vs_wind_only,Philadelphia,-0.8400771738479402,True,256,59,5,110,113,26,12,26,6,6,15,15,5537.26591036204,1.7726139252830175,59.000000000000014,113,26,0,0,0,0,143,33,0,0,110
+direct_wind_spline,episode_vs_wind_only,Phoenix,-8.14366704849331,True,118,25,5,42,52,11,7,11,4,6,15,15,42216.36050356261,1.1080417014678159,25.0,52,11,0,0,0,0,66,14,0,0,42
+direct_wind_spline,episode_vs_wind_only,San Diego,0.37119328750717595,True,473,119,5,182,190,48,21,48,6,6,15,15,79140881122.03026,1.8557106724406078,119.0,190,48,0,0,0,0,283,71,0,0,182
+direct_wind_spline,episode_vs_wind_only,Seattle,-9.824615965017845,True,52,26,2,22,22,11,8,11,5,6,15,15,82908036143.53073,0.7832585582348809,26.0,22,11,0,0,0,0,30,15,0,0,22
