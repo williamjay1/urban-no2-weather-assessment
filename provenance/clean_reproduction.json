@@ -1,0 +1,175 @@
+{
+  "passed": true,
+  "file_count": 33,
+  "checks": [
+    {
+      "file": "all_consecutive_episodes_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "all_consecutive_episodes_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "calendar_only_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "calendar_only_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "city_median_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "city_median_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "core_monitors_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "core_monitors_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "direct_calendar_support_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "direct_calendar_support_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "episode_calendar_support.csv",
+      "rows": 227,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "episode_manifest.csv",
+      "rows": 227,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "equal_station_weights_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "equal_station_weights_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "exclude_2020_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "exclude_2020_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "extension_2025_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "four_weather_regimes_city_estimates.csv",
+      "rows": 44,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "four_weather_regimes_leave_year.csv",
+      "rows": 24,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "historical_matching_candidate_funnel.csv",
+      "rows": 227,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "model_summary.csv",
+      "rows": 80,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "period_2019_2022_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "period_2019_2022_leave_year.csv",
+      "rows": 24,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "period_2023_2024_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "period_2023_2024_leave_year.csv",
+      "rows": 12,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "phase_adjusted_city_estimates.csv",
+      "rows": 55,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "phase_adjusted_leave_year.csv",
+      "rows": 30,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "phase_calendar_city_estimates.csv",
+      "rows": 55,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "phase_calendar_leave_year.csv",
+      "rows": 30,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "sample_support_by_city.csv",
+      "rows": 11,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "thresholds.csv",
+      "rows": 11,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "weather_adjusted_city_estimates.csv",
+      "rows": 66,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "file": "weather_adjusted_leave_year.csv",
+      "rows": 36,
+      "max_numeric_difference": 0.0
+    }
+  ],
+  "tolerance": {
+    "rtol": 1e-09,
+    "atol": 1e-10
+  }
+}

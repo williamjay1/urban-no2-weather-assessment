@@ -1,0 +1,7 @@
+# Data attribution and conditions
+
+EPA Air Quality System observations originate from U.S. EPA AirData and contributing monitoring agencies. Cite the U.S. Environmental Protection Agency and the specific source URLs/versions in `provenance/source_manifest.csv`. EPA permits scientific use of its material subject to its disclaimers and any separately identified rights. No endorsement by EPA or the monitoring agencies is implied. Source policy: https://www.epa.gov/web-policies-and-procedures/epa-disclaimers
+
+Weather API responses originate from Open-Meteo using ERA5/Copernicus Climate Change Service information. Open-Meteo data are provided under Creative Commons Attribution 4.0; retain attribution to Open-Meteo and the underlying ERA5 source when redistributing them or derivatives. Service terms: https://open-meteo.com/en/terms ; underlying ERA5 reference: https://doi.org/10.1002/qj.3803 ; CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+The author does not claim exclusive ownership of these upstream environmental observations. Author-created derived tables, figures and accompanying data documentation are shared under CC BY 4.0 to the extent copyright applies, without removing upstream attribution obligations. Attribute Junjie Zhang and this release when reusing the processing products. Software is licensed separately under MIT. No warranty of regulatory completeness, suitability for health assessment or future source stability is made.

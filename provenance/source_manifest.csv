@@ -1,0 +1,8 @@
+file,year,sha256,source_url
+daily_42602_2019.csv,2019,11d17e46e948a0364cf006e99c139b035c517f381ac9dc13cd2840b86acf2bc2,https://aqs.epa.gov/aqsweb/airdata/daily_42602_2019.zip
+daily_42602_2020.csv,2020,f0600dfe6e0b963724a26ce06f9ba38d74a7e194b0a4cd589b2778c28bf6af90,https://aqs.epa.gov/aqsweb/airdata/daily_42602_2020.zip
+daily_42602_2021.csv,2021,809cd8d6e33e4e9745903ec169362c30191ad88ab890494ed40b4613e51f53eb,https://aqs.epa.gov/aqsweb/airdata/daily_42602_2021.zip
+daily_42602_2022.csv,2022,c3f839fbb02ea187cba205f8482114b5f1e47bdc1af39b20994c6c6ce7dac0fa,https://aqs.epa.gov/aqsweb/airdata/daily_42602_2022.zip
+daily_42602_2023.csv,2023,3957c03c1d8aae28f6b708fab85979b33cb8daa59904ba29c83eac9a0ba993c3,https://aqs.epa.gov/aqsweb/airdata/daily_42602_2023.zip
+daily_42602_2024.csv,2024,6fc86e64fb031f3b67faa4a2c50c00577cc7639386a8eec1daa0f176344a2a9c,https://aqs.epa.gov/aqsweb/airdata/daily_42602_2024.zip
+daily_42602_2025.csv,2025,b57d852f5607b0c3ca65f5fe9ff2cfb294dd50fbd0a1f5e532e0ef06490d2048,https://aqs.epa.gov/aqsweb/airdata/daily_42602_2025.zip

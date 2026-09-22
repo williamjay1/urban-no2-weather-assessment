@@ -1,0 +1,228 @@
+city,year,episode_id,calendar_candidates,episode_window_noncompound,full_window_noncompound,after_21day_embargo
+Atlanta,2019,atlanta_2019-07-05,4,2,0,0
+Atlanta,2019,atlanta_2019-07-14,4,2,0,0
+Atlanta,2019,atlanta_2019-07-27,4,1,0,0
+Atlanta,2019,atlanta_2019-08-10,5,1,0,0
+Atlanta,2019,atlanta_2019-08-17,5,2,0,0
+Atlanta,2019,atlanta_2019-09-08,5,0,0,0
+Atlanta,2019,atlanta_2019-09-16,5,0,0,0
+Atlanta,2019,atlanta_2019-09-29,5,0,0,0
+Atlanta,2020,atlanta_2020-07-14,4,0,0,0
+Atlanta,2020,atlanta_2020-07-26,4,2,0,0
+Atlanta,2020,atlanta_2020-08-05,4,2,1,0
+Atlanta,2020,atlanta_2020-08-12,4,2,1,0
+Atlanta,2021,atlanta_2021-07-26,4,3,2,1
+Atlanta,2021,atlanta_2021-08-09,5,3,0,0
+Atlanta,2021,atlanta_2021-08-23,5,3,0,0
+Atlanta,2022,atlanta_2022-07-02,5,1,0,0
+Atlanta,2022,atlanta_2022-07-23,5,3,0,0
+Atlanta,2023,atlanta_2023-06-29,5,4,3,2
+Atlanta,2023,atlanta_2023-07-25,4,1,0,0
+Atlanta,2023,atlanta_2023-08-12,4,1,0,0
+Atlanta,2023,atlanta_2023-08-21,4,3,0,0
+Atlanta,2024,atlanta_2024-06-14,4,2,0,0
+Atlanta,2024,atlanta_2024-06-21,4,2,0,0
+Atlanta,2024,atlanta_2024-07-04,4,2,1,0
+Atlanta,2024,atlanta_2024-07-12,4,2,1,0
+Atlanta,2024,atlanta_2024-08-27,4,3,2,1
+Atlanta,2024,atlanta_2024-09-20,4,3,0,0
+Atlanta,2025,atlanta_2025-06-22,5,3,2,1
+Atlanta,2025,atlanta_2025-07-07,4,1,0,0
+Atlanta,2025,atlanta_2025-07-29,5,2,0,0
+Atlanta,2025,atlanta_2025-08-14,4,3,1,0
+Atlanta,2025,atlanta_2025-09-19,4,3,1,0
+Chicago,2019,chicago_2019-07-01,5,4,0,0
+Chicago,2020,chicago_2020-06-29,5,4,0,0
+Chicago,2020,chicago_2020-08-14,4,2,0,0
+Chicago,2020,chicago_2020-08-24,5,4,0,0
+Chicago,2021,chicago_2021-06-11,4,3,1,0
+Chicago,2021,chicago_2021-07-25,4,2,1,1
+Chicago,2021,chicago_2021-08-18,4,2,0,0
+Chicago,2021,chicago_2021-08-25,4,2,0,0
+Chicago,2022,chicago_2022-08-23,5,2,0,0
+Chicago,2023,chicago_2023-07-04,4,2,0,0
+Chicago,2023,chicago_2023-07-24,5,3,0,0
+Chicago,2024,chicago_2024-07-30,5,3,0,0
+Chicago,2024,chicago_2024-08-13,4,2,0,0
+Chicago,2024,chicago_2024-08-30,5,2,0,0
+Chicago,2024,chicago_2024-09-19,4,2,0,0
+Chicago,2025,chicago_2025-06-29,5,3,2,2
+Chicago,2025,chicago_2025-07-14,4,1,0,0
+Chicago,2025,chicago_2025-07-26,4,0,0,0
+Chicago,2025,chicago_2025-08-15,5,4,1,0
+Dallas,2019,dallas_2019-07-31,5,3,0,0
+Dallas,2019,dallas_2019-09-02,5,2,1,0
+Dallas,2019,dallas_2019-09-13,4,2,1,0
+Dallas,2021,dallas_2021-06-13,4,3,1,0
+Dallas,2021,dallas_2021-07-26,4,3,2,1
+Dallas,2021,dallas_2021-08-25,4,3,1,0
+Dallas,2022,dallas_2022-06-17,4,2,0,0
+Dallas,2022,dallas_2022-08-10,5,4,2,0
+Dallas,2022,dallas_2022-09-20,4,3,1,0
+Dallas,2023,dallas_2023-07-29,5,2,0,0
+Dallas,2023,dallas_2023-08-23,5,2,0,0
+Dallas,2024,dallas_2024-07-10,5,4,1,0
+Dallas,2024,dallas_2024-08-02,5,2,0,0
+Dallas,2025,dallas_2025-07-29,5,4,3,2
+Dallas,2025,dallas_2025-08-18,4,1,0,0
+Denver,2019,denver_2019-08-05,4,2,0,0
+Denver,2019,denver_2019-08-18,4,2,0,0
+Denver,2021,denver_2021-07-26,4,2,1,1
+Denver,2021,denver_2021-08-23,5,3,0,0
+Denver,2022,denver_2022-08-08,5,4,1,0
+Denver,2024,denver_2024-07-23,5,4,2,1
+Denver,2025,denver_2025-07-08,5,4,0,0
+Houston,2019,houston_2019-07-06,4,3,1,0
+Houston,2019,houston_2019-08-02,5,2,0,0
+Houston,2019,houston_2019-08-14,4,2,0,0
+Houston,2019,houston_2019-09-01,5,4,2,1
+Houston,2020,houston_2020-08-03,5,3,0,0
+Houston,2020,houston_2020-08-18,4,2,0,0
+Houston,2021,houston_2021-06-12,4,3,1,0
+Houston,2021,houston_2021-07-25,4,3,2,0
+Houston,2021,houston_2021-08-23,5,3,1,0
+Houston,2022,houston_2022-06-18,4,2,0,0
+Houston,2022,houston_2022-06-26,4,2,0,0
+Houston,2022,houston_2022-08-10,5,3,1,0
+Houston,2022,houston_2022-09-22,5,4,2,1
+Houston,2023,houston_2023-07-02,5,2,0,0
+Houston,2023,houston_2023-07-23,5,1,0,0
+Houston,2023,houston_2023-08-31,5,3,2,0
+Houston,2023,houston_2023-09-11,4,1,0,0
+Houston,2024,houston_2024-06-06,4,2,0,0
+Houston,2024,houston_2024-06-30,5,4,1,0
+Houston,2024,houston_2024-07-09,5,3,1,0
+Houston,2024,houston_2024-08-01,5,0,0,0
+Houston,2024,houston_2024-09-18,4,3,1,0
+Houston,2025,houston_2025-07-23,5,3,2,1
+Houston,2025,houston_2025-08-17,5,2,0,0
+Los Angeles,2019,los_angeles_2019-06-09,5,4,2,0
+Los Angeles,2019,los_angeles_2019-08-25,4,3,1,1
+Los Angeles,2019,los_angeles_2019-09-12,4,2,0,0
+Los Angeles,2020,los_angeles_2020-07-30,5,3,0,0
+Los Angeles,2020,los_angeles_2020-08-26,4,1,0,0
+Los Angeles,2020,los_angeles_2020-09-04,4,2,0,0
+Los Angeles,2020,los_angeles_2020-09-14,4,1,0,0
+Los Angeles,2020,los_angeles_2020-09-28,4,2,0,0
+Los Angeles,2020,los_angeles_2020-10-12,4,2,1,0
+Los Angeles,2021,los_angeles_2021-06-14,4,3,1,0
+Los Angeles,2021,los_angeles_2021-08-26,4,3,2,1
+Los Angeles,2021,los_angeles_2021-09-04,4,2,0,0
+Los Angeles,2022,los_angeles_2022-05-13,4,3,1,0
+Los Angeles,2022,los_angeles_2022-08-13,4,1,0,0
+Los Angeles,2022,los_angeles_2022-09-05,4,2,0,0
+Los Angeles,2022,los_angeles_2022-09-23,5,3,0,0
+Los Angeles,2023,los_angeles_2023-07-24,5,2,1,1
+Los Angeles,2023,los_angeles_2023-08-27,4,1,0,0
+Los Angeles,2023,los_angeles_2023-09-08,5,4,1,0
+Los Angeles,2023,los_angeles_2023-10-04,4,1,0,0
+Los Angeles,2024,los_angeles_2024-06-22,5,4,2,1
+Los Angeles,2024,los_angeles_2024-08-02,5,4,0,0
+Los Angeles,2024,los_angeles_2024-08-19,4,3,0,0
+Los Angeles,2024,los_angeles_2024-09-07,4,3,1,0
+Los Angeles,2024,los_angeles_2024-10-01,5,4,3,1
+Los Angeles,2025,los_angeles_2025-05-09,5,3,0,0
+Los Angeles,2025,los_angeles_2025-08-06,4,1,0,0
+Los Angeles,2025,los_angeles_2025-08-20,4,1,0,0
+Los Angeles,2025,los_angeles_2025-08-30,5,4,0,0
+Los Angeles,2025,los_angeles_2025-10-28,4,3,2,1
+New York,2019,new_york_2019-06-26,4,3,2,1
+New York,2019,new_york_2019-07-03,5,2,0,0
+New York,2019,new_york_2019-07-15,5,2,0,0
+New York,2019,new_york_2019-07-26,4,2,0,0
+New York,2019,new_york_2019-08-03,5,3,1,0
+New York,2019,new_york_2019-08-18,4,2,0,0
+New York,2020,new_york_2020-07-02,5,2,0,0
+New York,2020,new_york_2020-07-21,4,2,0,0
+New York,2020,new_york_2020-07-29,5,1,0,0
+New York,2021,new_york_2021-06-08,5,4,2,0
+New York,2021,new_york_2021-07-14,4,2,0,0
+New York,2021,new_york_2021-07-26,4,2,0,0
+New York,2021,new_york_2021-08-25,4,1,0,0
+New York,2022,new_york_2022-07-03,5,3,0,0
+New York,2022,new_york_2022-07-13,4,2,0,0
+New York,2022,new_york_2022-09-04,4,3,2,0
+New York,2023,new_york_2023-07-05,4,0,0,0
+New York,2023,new_york_2023-07-14,4,1,0,0
+New York,2023,new_york_2023-09-04,4,3,2,0
+New York,2024,new_york_2024-07-05,4,2,0,0
+New York,2024,new_york_2024-07-13,4,2,0,0
+New York,2024,new_york_2024-08-01,5,3,1,1
+New York,2025,new_york_2025-07-08,5,1,0,0
+New York,2025,new_york_2025-07-28,4,1,0,0
+New York,2025,new_york_2025-08-13,4,3,1,0
+Philadelphia,2019,philadelphia_2019-06-27,4,3,2,1
+Philadelphia,2019,philadelphia_2019-08-03,5,3,1,0
+Philadelphia,2019,philadelphia_2019-08-17,5,3,1,0
+Philadelphia,2020,philadelphia_2020-07-21,4,2,0,0
+Philadelphia,2021,philadelphia_2021-06-08,5,4,1,0
+Philadelphia,2021,philadelphia_2021-07-14,4,2,0,0
+Philadelphia,2021,philadelphia_2021-07-26,4,2,0,0
+Philadelphia,2021,philadelphia_2021-08-13,4,2,0,0
+Philadelphia,2021,philadelphia_2021-08-24,5,3,0,0
+Philadelphia,2022,philadelphia_2022-08-10,5,3,0,0
+Philadelphia,2023,philadelphia_2023-06-01,5,4,2,0
+Philadelphia,2023,philadelphia_2023-07-05,4,1,0,0
+Philadelphia,2023,philadelphia_2023-09-07,4,3,2,0
+Philadelphia,2024,philadelphia_2024-07-07,4,1,0,0
+Philadelphia,2025,philadelphia_2025-06-29,5,4,3,2
+Philadelphia,2025,philadelphia_2025-07-11,4,2,0,0
+Philadelphia,2025,philadelphia_2025-07-28,4,1,0,0
+Philadelphia,2025,philadelphia_2025-08-12,4,3,1,0
+Phoenix,2020,phoenix_2020-09-16,5,4,1,0
+Phoenix,2021,phoenix_2021-07-07,4,3,1,0
+Phoenix,2021,phoenix_2021-08-04,4,2,0,0
+Phoenix,2021,phoenix_2021-08-25,4,2,0,0
+Phoenix,2021,phoenix_2021-09-12,4,3,1,0
+Phoenix,2023,phoenix_2023-07-24,5,4,1,0
+Phoenix,2024,phoenix_2024-08-02,5,4,0,0
+Phoenix,2024,phoenix_2024-09-26,4,3,1,0
+Phoenix,2025,phoenix_2025-08-22,5,4,0,0
+San Diego,2019,san_diego_2019-07-24,5,4,1,1
+San Diego,2019,san_diego_2019-08-14,4,2,0,0
+San Diego,2019,san_diego_2019-08-25,4,3,1,0
+San Diego,2019,san_diego_2019-09-02,5,4,0,0
+San Diego,2019,san_diego_2019-09-13,4,2,0,0
+San Diego,2019,san_diego_2019-10-06,4,3,0,0
+San Diego,2020,san_diego_2020-05-06,4,3,2,0
+San Diego,2020,san_diego_2020-07-05,4,3,2,0
+San Diego,2020,san_diego_2020-08-17,5,3,1,0
+San Diego,2020,san_diego_2020-09-04,4,3,0,0
+San Diego,2020,san_diego_2020-09-22,5,3,0,0
+San Diego,2020,san_diego_2020-10-01,5,3,1,0
+San Diego,2020,san_diego_2020-10-14,4,3,1,0
+San Diego,2021,san_diego_2021-08-27,4,3,0,0
+San Diego,2021,san_diego_2021-10-01,5,4,3,1
+San Diego,2022,san_diego_2022-06-26,4,2,1,1
+San Diego,2022,san_diego_2022-08-09,5,3,0,0
+San Diego,2022,san_diego_2022-09-01,5,3,0,0
+San Diego,2022,san_diego_2022-09-27,4,2,0,0
+San Diego,2023,san_diego_2023-07-24,5,3,1,1
+San Diego,2023,san_diego_2023-08-06,4,2,0,0
+San Diego,2023,san_diego_2023-08-28,4,2,0,0
+San Diego,2023,san_diego_2023-09-10,4,3,1,0
+San Diego,2023,san_diego_2023-10-04,4,3,1,0
+San Diego,2024,san_diego_2024-06-22,5,4,2,1
+San Diego,2024,san_diego_2024-08-13,4,1,0,0
+San Diego,2024,san_diego_2024-09-05,4,3,1,0
+San Diego,2024,san_diego_2024-10-01,5,4,2,1
+San Diego,2025,san_diego_2025-08-20,4,1,0,0
+San Diego,2025,san_diego_2025-08-30,5,3,0,0
+Seattle,2019,seattle_2019-08-05,4,2,0,0
+Seattle,2019,seattle_2019-08-12,4,2,0,0
+Seattle,2019,seattle_2019-09-02,5,4,3,1
+Seattle,2020,seattle_2020-08-27,4,3,0,0
+Seattle,2021,seattle_2021-07-10,5,0,0,0
+Seattle,2021,seattle_2021-07-18,4,1,0,0
+Seattle,2021,seattle_2021-07-27,4,1,0,0
+Seattle,2022,seattle_2022-07-29,5,4,1,1
+Seattle,2022,seattle_2022-08-14,4,1,0,0
+Seattle,2023,seattle_2023-07-12,4,0,0,0
+Seattle,2023,seattle_2023-07-27,4,2,0,0
+Seattle,2023,seattle_2023-08-16,5,3,0,0
+Seattle,2023,seattle_2023-09-15,5,2,1,0
+Seattle,2024,seattle_2024-07-11,4,3,0,0
+Seattle,2024,seattle_2024-08-02,5,2,1,0
+Seattle,2025,seattle_2025-06-09,5,2,0,0
+Seattle,2025,seattle_2025-07-30,5,2,0,0
+Seattle,2025,seattle_2025-08-24,5,3,0,0

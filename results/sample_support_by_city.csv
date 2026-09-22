@@ -1,0 +1,12 @@
+city,weather_episodes,observed_episodes,episodes_any_direct_support,episodes_full_direct_support,station_days,city_days,stations,episode_city_days,direct_support_episode_days
+Atlanta,27,27,25,9,3704,1284,3,99,73
+Chicago,15,15,13,8,4663,1284,4,36,25
+Dallas,13,13,10,6,4551,1284,4,44,28
+Denver,6,6,6,2,6049,1284,5,12,8
+Houston,22,22,18,7,11010,1284,10,84,41
+Los Angeles,25,25,23,16,9254,1284,8,76,59
+New York,22,22,21,13,10749,1284,9,58,46
+Philadelphia,14,14,13,6,5982,1284,6,35,23
+Phoenix,8,8,7,4,5991,1284,6,16,11
+San Diego,28,28,28,17,5057,1284,5,78,63
+Seattle,15,15,14,7,2448,1282,2,39,29

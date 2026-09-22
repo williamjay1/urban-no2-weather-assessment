@@ -1,0 +1,13 @@
+model,omitted_year,contrast,estimate_ppb
+period_2023_2024,2023,episode_vs_reference,3.226199794046641
+period_2023_2024,2023,heat_only_vs_reference,0.3562986905238655
+period_2023_2024,2023,wind_only_vs_reference,2.783044564597571
+period_2023_2024,2023,other_compound_vs_reference,2.7822040880612926
+period_2023_2024,2023,episode_vs_heat_only,2.8699011035227753
+period_2023_2024,2023,episode_vs_wind_only,0.44315522944906927
+period_2023_2024,2024,episode_vs_reference,
+period_2023_2024,2024,heat_only_vs_reference,0.047759689051491125
+period_2023_2024,2024,wind_only_vs_reference,2.7835440701804792
+period_2023_2024,2024,other_compound_vs_reference,2.1648487349331824
+period_2023_2024,2024,episode_vs_heat_only,
+period_2023_2024,2024,episode_vs_wind_only,

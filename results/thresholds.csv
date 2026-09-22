@@ -1,0 +1,12 @@
+city,heat_q80_c,wind_q30_kmh,threshold_days
+Atlanta,31.5,6.8,856
+Chicago,26.9,10.75,856
+Dallas,35.1,9.2,856
+Denver,32.2,7.1,856
+Houston,33.5,8.3,856
+Los Angeles,32.4,6.4,856
+New York,28.8,8.2,856
+Philadelphia,30.9,7.9,856
+Phoenix,41.9,6.7,856
+San Diego,29.7,6.7,856
+Seattle,24.1,5.8,856

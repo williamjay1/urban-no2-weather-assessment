@@ -1,0 +1,181 @@
+{
+  "analysis_status": "retrospective revision; not preregistered",
+  "pooled_interval": "approximate cross-city t, df=10; assumes independent city-level estimates",
+  "city_interval": "approximate delete-one-year jackknife t; at least three years and all deletion contrasts identifiable",
+  "bootstrap_role": "conditional sensitivity diagnostics, not unconditional confidence intervals",
+  "bootstrap_reps": 5000,
+  "seed": 20260922,
+  "merged_station_days": 138303,
+  "warm_station_days": 80952,
+  "complete_station_days": 80952,
+  "missing": {
+    "no2_ppb": 0,
+    "relative_humidity_2m_mean": 0,
+    "precipitation_sum": 0,
+    "shortwave_radiation_sum": 0,
+    "wind_direction_10m_dominant": 0,
+    "met_relative_humidity_2m_mean_0": 0,
+    "met_relative_humidity_2m_mean_1": 0,
+    "met_relative_humidity_2m_mean_2": 0,
+    "met_precipitation_sum_0": 0,
+    "met_precipitation_sum_1": 0,
+    "met_precipitation_sum_2": 0,
+    "met_shortwave_radiation_sum_0": 0,
+    "met_shortwave_radiation_sum_1": 0,
+    "met_shortwave_radiation_sum_2": 0,
+    "met_wind_sin": 0,
+    "met_wind_cos": 0
+  },
+  "episode_counts": {
+    "2019": 39,
+    "2020": 28,
+    "2021": 36,
+    "2022": 25,
+    "2023": 32,
+    "2024": 35,
+    "2025": 32
+  },
+  "self_tests": {
+    "weighted_fixed_effects_matches_explicit_dummies": true,
+    "batched_contrasts": true,
+    "run_dates": true
+  },
+  "input_sha256": {
+    "weather\\weather_daily.csv": "b166829384061e44a05836ba1b7602a7c37f9a6427f1bd7fd8ef805b530dee5a",
+    "stations\\station_daily.csv": "4e29a55138f84a2f051c34ca6685940813a927982ee314067eed020e4fe603ea"
+  },
+  "support_by_city": [
+    {
+      "city": "Atlanta",
+      "weather_episodes": 27,
+      "observed_episodes": 27,
+      "episodes_any_direct_support": 25,
+      "episodes_full_direct_support": 9,
+      "station_days": 3704,
+      "city_days": 1284,
+      "stations": 3,
+      "episode_city_days": 99,
+      "direct_support_episode_days": 73
+    },
+    {
+      "city": "Chicago",
+      "weather_episodes": 15,
+      "observed_episodes": 15,
+      "episodes_any_direct_support": 13,
+      "episodes_full_direct_support": 8,
+      "station_days": 4663,
+      "city_days": 1284,
+      "stations": 4,
+      "episode_city_days": 36,
+      "direct_support_episode_days": 25
+    },
+    {
+      "city": "Dallas",
+      "weather_episodes": 13,
+      "observed_episodes": 13,
+      "episodes_any_direct_support": 10,
+      "episodes_full_direct_support": 6,
+      "station_days": 4551,
+      "city_days": 1284,
+      "stations": 4,
+      "episode_city_days": 44,
+      "direct_support_episode_days": 28
+    },
+    {
+      "city": "Denver",
+      "weather_episodes": 6,
+      "observed_episodes": 6,
+      "episodes_any_direct_support": 6,
+      "episodes_full_direct_support": 2,
+      "station_days": 6049,
+      "city_days": 1284,
+      "stations": 5,
+      "episode_city_days": 12,
+      "direct_support_episode_days": 8
+    },
+    {
+      "city": "Houston",
+      "weather_episodes": 22,
+      "observed_episodes": 22,
+      "episodes_any_direct_support": 18,
+      "episodes_full_direct_support": 7,
+      "station_days": 11010,
+      "city_days": 1284,
+      "stations": 10,
+      "episode_city_days": 84,
+      "direct_support_episode_days": 41
+    },
+    {
+      "city": "Los Angeles",
+      "weather_episodes": 25,
+      "observed_episodes": 25,
+      "episodes_any_direct_support": 23,
+      "episodes_full_direct_support": 16,
+      "station_days": 9254,
+      "city_days": 1284,
+      "stations": 8,
+      "episode_city_days": 76,
+      "direct_support_episode_days": 59
+    },
+    {
+      "city": "New York",
+      "weather_episodes": 22,
+      "observed_episodes": 22,
+      "episodes_any_direct_support": 21,
+      "episodes_full_direct_support": 13,
+      "station_days": 10749,
+      "city_days": 1284,
+      "stations": 9,
+      "episode_city_days": 58,
+      "direct_support_episode_days": 46
+    },
+    {
+      "city": "Philadelphia",
+      "weather_episodes": 14,
+      "observed_episodes": 14,
+      "episodes_any_direct_support": 13,
+      "episodes_full_direct_support": 6,
+      "station_days": 5982,
+      "city_days": 1284,
+      "stations": 6,
+      "episode_city_days": 35,
+      "direct_support_episode_days": 23
+    },
+    {
+      "city": "Phoenix",
+      "weather_episodes": 8,
+      "observed_episodes": 8,
+      "episodes_any_direct_support": 7,
+      "episodes_full_direct_support": 4,
+      "station_days": 5991,
+      "city_days": 1284,
+      "stations": 6,
+      "episode_city_days": 16,
+      "direct_support_episode_days": 11
+    },
+    {
+      "city": "San Diego",
+      "weather_episodes": 28,
+      "observed_episodes": 28,
+      "episodes_any_direct_support": 28,
+      "episodes_full_direct_support": 17,
+      "station_days": 5057,
+      "city_days": 1284,
+      "stations": 5,
+      "episode_city_days": 78,
+      "direct_support_episode_days": 63
+    },
+    {
+      "city": "Seattle",
+      "weather_episodes": 15,
+      "observed_episodes": 15,
+      "episodes_any_direct_support": 14,
+      "episodes_full_direct_support": 7,
+      "station_days": 2448,
+      "city_days": 1282,
+      "stations": 2,
+      "episode_city_days": 39,
+      "direct_support_episode_days": 29
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+[
+  {
+    "city": "Los Angeles",
+    "timezone": "America/Los_Angeles",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=34.0522&longitude=-118.2437&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "c4498024e966b6ad57392afb5166c87430e534cbcd81676fb5480ab903bf6fc2",
+    "retrieved_utc": "2026-09-22T09:18:56.694774+00:00"
+  },
+  {
+    "city": "San Diego",
+    "timezone": "America/Los_Angeles",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=32.7157&longitude=-117.1611&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "c6a2543af5d9a8fa01f9a5d21ca071abfda3184beba7cfd0187986af01242da2",
+    "retrieved_utc": "2026-09-22T09:18:56.379674+00:00"
+  },
+  {
+    "city": "Phoenix",
+    "timezone": "America/Phoenix",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=33.4484&longitude=-112.074&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "769d5ef1f59adc6f655c3969a019b93e60bc92a7ccd1d57b4f9ce1a0aa7083c2",
+    "retrieved_utc": "2026-09-22T09:18:58.201943+00:00"
+  },
+  {
+    "city": "Houston",
+    "timezone": "America/Chicago",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=29.7604&longitude=-95.3698&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "56ed1aac829f3ecb75306117203b95dd7a66f410f7d7bbd4affedbf39447d6f6",
+    "retrieved_utc": "2026-09-22T09:18:59.621350+00:00"
+  },
+  {
+    "city": "Dallas",
+    "timezone": "America/Chicago",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=32.7767&longitude=-96.797&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "033d5c7c27ed65b73f4171bd5fcb95dac46986ad531f11128ac2c137ed2121d0",
+    "retrieved_utc": "2026-09-22T09:18:59.518586+00:00"
+  },
+  {
+    "city": "Atlanta",
+    "timezone": "America/New_York",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=33.749&longitude=-84.388&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "a74c40a26407e89a7f1025a0cedd868ad6c0fb2bdf8420df2101ed457c1e83a3",
+    "retrieved_utc": "2026-09-22T09:19:06.818921+00:00"
+  },
+  {
+    "city": "New York",
+    "timezone": "America/New_York",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=40.7128&longitude=-74.006&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "82bd31b16f7ba31dd050ddf2f73e50ca1d8f3899abffccb29628b000baafc4f6",
+    "retrieved_utc": "2026-09-22T09:19:02.438502+00:00"
+  },
+  {
+    "city": "Chicago",
+    "timezone": "America/Chicago",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=41.8781&longitude=-87.6298&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "66a79ec2d99045911e433cf8a17a5c268d395bd041f90b7b1527b7774bb5b501",
+    "retrieved_utc": "2026-09-22T09:19:04.486457+00:00"
+  },
+  {
+    "city": "Philadelphia",
+    "timezone": "America/New_York",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.9526&longitude=-75.1652&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "47c44257bc1b097d8cd9ad1f28fc2650ae256d1deb2e363b2ac71f65175fbd54",
+    "retrieved_utc": "2026-09-22T09:19:06.690607+00:00"
+  },
+  {
+    "city": "Seattle",
+    "timezone": "America/Los_Angeles",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=47.6062&longitude=-122.3321&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "b85eeaeed983a55216d31edb547c5abd4b794abbc555c588de681c2a04d5f25d",
+    "retrieved_utc": "2026-09-22T09:19:09.026890+00:00"
+  },
+  {
+    "city": "Denver",
+    "timezone": "America/Denver",
+    "n_dates": 2557,
+    "missing": {
+      "temperature_2m_max": 0,
+      "wind_speed_10m_mean": 0,
+      "relative_humidity_2m_mean": 0,
+      "precipitation_sum": 0,
+      "shortwave_radiation_sum": 0,
+      "wind_direction_10m_dominant": 0
+    },
+    "units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "wind_speed_10m_mean": "km/h",
+      "relative_humidity_2m_mean": "%",
+      "precipitation_sum": "mm",
+      "shortwave_radiation_sum": "MJ/m²",
+      "wind_direction_10m_dominant": "°"
+    },
+    "new_vs_frozen_max_abs_difference": {
+      "temperature_2m_max": 0.0,
+      "wind_speed_10m_mean": 0.0
+    },
+    "exposure_values": "frozen ERA5 archive from 2026-09-16",
+    "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.7392&longitude=-104.9903&start_date=2019-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Cwind_speed_10m_mean%2Crelative_humidity_2m_mean%2Cprecipitation_sum%2Cshortwave_radiation_sum%2Cwind_direction_10m_dominant&timezone=auto&temperature_unit=celsius&wind_speed_unit=kmh&models=era5",
+    "sha256": "f71cd237080149292d2e331ce4d9598b547b8a71f6589a4f2021482c8a37ac7a",
+    "retrieved_utc": "2026-09-22T09:19:08.579453+00:00"
+  }
+]
